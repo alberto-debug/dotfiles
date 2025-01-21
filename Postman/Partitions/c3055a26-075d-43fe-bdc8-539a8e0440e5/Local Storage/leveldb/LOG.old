@@ -1,0 +1,12 @@
+2024/12/13-22:53:06.532 2fd660 Reusing MANIFEST /home/alberto/.config/Postman/Partitions/c3055a26-075d-43fe-bdc8-539a8e0440e5/Local Storage/leveldb/MANIFEST-000001
+2024/12/13-22:53:06.538 2fd660 Recovering log #3
+2024/12/13-22:53:06.540 2fd660 Reusing old log /home/alberto/.config/Postman/Partitions/c3055a26-075d-43fe-bdc8-539a8e0440e5/Local Storage/leveldb/000003.log 
+2024/12/13-22:56:21.544 2fd660 Level-0 table #5: started
+2024/12/13-22:56:21.547 2fd660 Level-0 table #5: 19048 bytes OK
+2024/12/13-22:56:21.548 2fd660 Delete type=0 #3
+2024/12/13-23:29:52.763 2fd661 Level-0 table #7: started
+2024/12/13-23:29:52.766 2fd661 Level-0 table #7: 18793 bytes OK
+2024/12/13-23:29:52.767 2fd661 Delete type=0 #4
+2024/12/14-00:38:11.195 2fd661 Level-0 table #9: started
+2024/12/14-00:38:11.198 2fd661 Level-0 table #9: 18007 bytes OK
+2024/12/14-00:38:11.199 2fd661 Delete type=0 #6

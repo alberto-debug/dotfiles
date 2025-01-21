@@ -1,0 +1,16 @@
+12/19/2024, 2:22:46 AM GMT+3 0: 
+
+----------------------------------------------
+12/19/2024, 2:22:46 AM GMT+3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.78"}, modulepath: /home/alberto/.config/discord/0.0.78/modules
+12/19/2024, 2:22:46 AM GMT+3 2: ✅ webContents.created web1 ""
+12/19/2024, 2:22:46 AM GMT+3 3: ✅ window.created win1 "discord"
+12/19/2024, 2:22:47 AM GMT+3 4: ✅ webContents.did-finish-load web1
+12/19/2024, 2:23:07 AM GMT+3 5: ✅ webContents.created web2 ""
+12/19/2024, 2:23:07 AM GMT+3 6: ✅ window.created win2 "Discord"
+12/19/2024, 2:23:16 AM GMT+3 7: ✅ webContents.did-finish-load web2
+12/19/2024, 2:23:17 AM GMT+3 8: window.close win1
+12/19/2024, 2:23:17 AM GMT+3 9: webContents.destroyed web1
+12/19/2024, 2:23:17 AM GMT+3 10: window.closed win1
+12/19/2024, 2:23:57 AM GMT+3 11: window.close win2
+12/19/2024, 2:38:38 AM GMT+3 12: window.close win2
+12/20/2024, 12:42:25 PM GMT+3 13: before-quit

@@ -1,0 +1,19 @@
+{"value":"Preparing request to http://localhost:8080/book/register","name":"Text","timestamp":1734716193387}
+{"value":"Current time is 2024-12-20T17:36:33.387Z","name":"Text","timestamp":1734716193387}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1734716193387}
+{"value":"Using default HTTP version","name":"Text","timestamp":1734716193392}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1734716193392}
+{"value":"Enable SSL validation","name":"Text","timestamp":1734716193392}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1734716193395}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#0)\n","timestamp":1734716193395}
+{"name":"HeaderOut","value":"POST /book/register HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 54\r\n\r\n","timestamp":1734716193395}
+{"name":"DataOut","value":"{\n  \"name\": \"Alberto junior\",\n  \"stockStatus\": true\n}\n","timestamp":1734716193395}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1734716193701}
+{"name":"HeaderIn","value":"HTTP/1.1 200 \r\n","timestamp":1734716193701}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1734716193702}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1734716193702}
+{"name":"HeaderIn","value":"Date: Fri, 20 Dec 2024 17:36:33 GMT\r\n","timestamp":1734716193702}
+{"name":"HeaderIn","value":"\r\n","timestamp":1734716193702}
+{"name":"Text","value":"Received 147 B chunk","timestamp":1734716193702}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1734716193704}
+{"name":"Text","value":"Connection #0 to host localhost left intact\n","timestamp":1734716193704}

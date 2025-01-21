@@ -1,0 +1,27 @@
+{"value":"Preparing request to http://localhost:8080/api/auth/register","name":"Text","timestamp":1736592059863}
+{"value":"Current time is 2025-01-11T10:40:59.863Z","name":"Text","timestamp":1736592059863}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1736592059863}
+{"value":"Using default HTTP version","name":"Text","timestamp":1736592059864}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1736592059864}
+{"value":"Enable SSL validation","name":"Text","timestamp":1736592059864}
+{"name":"Text","value":"Found bundle for host localhost: 0x2d4c03687340 [serially]\n","timestamp":1736592059865}
+{"name":"Text","value":"Can not multiplex, even if we wanted to!\n","timestamp":1736592059865}
+{"name":"Text","value":"Re-using existing connection! (#4) with host localhost\n","timestamp":1736592059865}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#4)\n","timestamp":1736592059865}
+{"name":"HeaderOut","value":"POST /api/auth/register HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 74\r\n\r\n","timestamp":1736592059865}
+{"name":"DataOut","value":"{\n\t\"name\": \"Alberto\",\n  \"email\" : \"test@gmail.com\",\n\t\"password\" : \"1234\"\n}","timestamp":1736592059865}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"HTTP/1.1 403 \r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"Vary: Origin\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"Vary: Access-Control-Request-Method\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"Vary: Access-Control-Request-Headers\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"X-Content-Type-Options: nosniff\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"X-XSS-Protection: 0\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"Cache-Control: no-cache, no-store, max-age=0, must-revalidate\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"Pragma: no-cache\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"Expires: 0\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"X-Frame-Options: DENY\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"Content-Length: 0\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"Date: Sat, 11 Jan 2025 10:40:59 GMT\r\n","timestamp":1736592059871}
+{"name":"HeaderIn","value":"\r\n","timestamp":1736592059871}
+{"name":"Text","value":"Connection #4 to host localhost left intact\n","timestamp":1736592059871}

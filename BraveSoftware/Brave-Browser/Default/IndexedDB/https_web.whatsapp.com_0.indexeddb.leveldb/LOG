@@ -1,0 +1,74 @@
+2025/01/13-23:56:04.703 f74f4 Reusing MANIFEST /home/alberto/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/13-23:56:04.705 f74f4 Recovering log #219
+2025/01/13-23:56:04.724 f74f4 Reusing old log /home/alberto/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000219.log 
+2025/01/13-23:56:07.791 f74f3 Level-0 table #228: started
+2025/01/13-23:56:07.804 f74f3 Level-0 table #228: 230657 bytes OK
+2025/01/13-23:56:07.806 f74f3 Delete type=0 #219
+2025/01/13-23:56:07.807 f74f3 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/13-23:56:12.691 f74f4 Compacting 1@1 + 5@2 files
+2025/01/13-23:56:12.923 f74f4 Generated table #229@1: 80266 keys, 2236260 bytes
+2025/01/13-23:56:13.104 f74f4 Generated table #230@1: 37827 keys, 2200659 bytes
+2025/01/13-23:56:13.187 f74f4 Generated table #231@1: 3726 keys, 2145897 bytes
+2025/01/13-23:56:13.308 f74f4 Generated table #232@1: 16927 keys, 2173807 bytes
+2025/01/13-23:56:13.418 f74f4 Generated table #233@1: 37081 keys, 1431253 bytes
+2025/01/13-23:56:13.418 f74f4 Compacted 1@1 + 5@2 files => 10187876 bytes
+2025/01/13-23:56:13.419 f74f4 compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/01/13-23:56:13.421 f74f4 Delete type=2 #223
+2025/01/13-23:56:13.421 f74f4 Delete type=2 #228
+2025/01/13-23:56:13.421 f74f4 Delete type=2 #222
+2025/01/13-23:56:13.421 f74f4 Delete type=2 #221
+2025/01/13-23:56:13.422 f74f4 Delete type=2 #224
+2025/01/13-23:56:13.422 f74f4 Delete type=2 #225
+2025/01/13-23:56:31.830 f74f5 Level-0 table #235: started
+2025/01/13-23:56:31.907 f74f5 Level-0 table #235: 1301322 bytes OK
+2025/01/13-23:56:31.910 f74f5 Delete type=0 #227
+2025/01/13-23:56:31.921 f74f3 Compacting 1@1 + 5@2 files
+2025/01/13-23:56:32.194 f74f3 Generated table #236@1: 83951 keys, 2242180 bytes
+2025/01/13-23:56:32.355 f74f3 Generated table #237@1: 39481 keys, 2211531 bytes
+2025/01/13-23:56:32.422 f74f3 Generated table #238@1: 1618 keys, 2139685 bytes
+2025/01/13-23:56:32.551 f74f3 Generated table #239@1: 19227 keys, 2180458 bytes
+2025/01/13-23:56:32.648 f74f3 Generated table #240@1: 37586 keys, 1742597 bytes
+2025/01/13-23:56:32.648 f74f3 Compacted 1@1 + 5@2 files => 10516451 bytes
+2025/01/13-23:56:32.650 f74f3 compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/01/13-23:56:32.651 f74f3 Delete type=2 #233
+2025/01/13-23:56:32.652 f74f3 Delete type=2 #229
+2025/01/13-23:56:32.652 f74f3 Delete type=2 #231
+2025/01/13-23:56:32.652 f74f3 Delete type=2 #235
+2025/01/13-23:56:32.652 f74f3 Delete type=2 #232
+2025/01/13-23:56:32.653 f74f3 Delete type=2 #230
+2025/01/13-23:56:43.058 f74f4 Level-0 table #242: started
+2025/01/13-23:56:43.141 f74f4 Level-0 table #242: 1371968 bytes OK
+2025/01/13-23:56:43.146 f74f4 Delete type=0 #234
+2025/01/13-23:56:43.158 f74f4 Compacting 1@1 + 5@2 files
+2025/01/13-23:56:43.375 f74f4 Generated table #243@1: 87257 keys, 2239142 bytes
+2025/01/13-23:56:43.590 f74f4 Generated table #244@1: 38971 keys, 2209802 bytes
+2025/01/13-23:56:43.678 f74f4 Generated table #245@1: 2476 keys, 2138756 bytes
+2025/01/13-23:56:43.827 f74f4 Generated table #246@1: 20461 keys, 2191700 bytes
+2025/01/13-23:56:43.943 f74f4 Generated table #247@1: 36058 keys, 2166535 bytes
+2025/01/13-23:56:43.952 f74f4 Generated table #248@1: 2169 keys, 84475 bytes
+2025/01/13-23:56:43.952 f74f4 Compacted 1@1 + 5@2 files => 11030410 bytes
+2025/01/13-23:56:43.954 f74f4 compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/01/13-23:56:43.955 f74f4 Delete type=2 #240
+2025/01/13-23:56:43.955 f74f4 Delete type=2 #238
+2025/01/13-23:56:43.956 f74f4 Delete type=2 #237
+2025/01/13-23:56:43.956 f74f4 Delete type=2 #236
+2025/01/13-23:56:43.956 f74f4 Delete type=2 #239
+2025/01/13-23:56:43.956 f74f4 Delete type=2 #242
+2025/01/13-23:56:50.824 f74f4 Level-0 table #250: started
+2025/01/13-23:56:50.877 f74f4 Level-0 table #250: 1308278 bytes OK
+2025/01/13-23:56:50.882 f74f4 Delete type=0 #241
+2025/01/13-23:56:51.160 f74f4 Compacting 1@1 + 5@2 files
+2025/01/13-23:56:51.339 f74f4 Generated table #251@1: 87681 keys, 2238504 bytes
+2025/01/13-23:56:51.524 f74f4 Generated table #252@1: 41276 keys, 2211683 bytes
+2025/01/13-23:56:51.610 f74f4 Generated table #253@1: 2837 keys, 2140255 bytes
+2025/01/13-23:56:51.783 f74f4 Generated table #254@1: 21770 keys, 2202353 bytes
+2025/01/13-23:56:51.861 f74f4 Generated table #255@1: 15542 keys, 2139443 bytes
+2025/01/13-23:56:51.904 f74f4 Generated table #256@1: 21033 keys, 472885 bytes
+2025/01/13-23:56:51.904 f74f4 Compacted 1@1 + 5@2 files => 11405123 bytes
+2025/01/13-23:56:51.906 f74f4 compacted to: files[ 0 0 7 0 0 0 0 ]
+2025/01/13-23:56:51.907 f74f4 Delete type=2 #247
+2025/01/13-23:56:51.907 f74f4 Delete type=2 #250
+2025/01/13-23:56:51.907 f74f4 Delete type=2 #246
+2025/01/13-23:56:51.908 f74f4 Delete type=2 #244
+2025/01/13-23:56:51.908 f74f4 Delete type=2 #243
+2025/01/13-23:56:51.908 f74f4 Delete type=2 #245

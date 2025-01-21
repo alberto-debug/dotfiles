@@ -1,0 +1,11 @@
+[General]
+TerminalApplication=kitty
+
+[Icons]
+Theme=Colorful-Dark-Icons
+
+[Colors:View]
+BackgroundNormal=#00000000
+
+[UiSettings]
+ColorScheme=*

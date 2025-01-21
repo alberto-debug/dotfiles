@@ -1,0 +1,8 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="DEEPOCEAN" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="LIGHT_CUSTOM" scheme="_@user_Material Lighter" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

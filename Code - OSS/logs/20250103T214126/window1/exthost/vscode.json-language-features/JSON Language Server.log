@@ -1,0 +1,22 @@
+2025-01-03 21:41:30.194 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-01-03 21:41:30.468 [info] read schema from vscode: vscode://schemas/toolsParameters
+2025-01-03 21:41:30.521 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-01-03 21:41:30.602 [info] cancelled
+2025-01-03 21:41:30.824 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-01-03 21:41:30.886 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-01-03 21:41:31.210 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-01-03 21:41:31.319 [info] schema change detected vscode://schemas/vscode-extensions
+2025-01-03 21:41:31.377 [info] cancelled
+2025-01-03 21:41:31.392 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-01-03 21:41:31.688 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-01-03 21:41:31.847 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-01-03 21:41:31.991 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-01-03 21:41:32.008 [info] read schema from vscode: vscode://schemas/token-styling
+2025-01-03 21:41:32.009 [info] read schema from vscode: vscode://schemas/textmate-colors
+2025-01-03 21:41:32.011 [info] read schema from vscode: vscode://schemas/workbench-colors
+2025-01-03 21:42:50.456 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-01-03 21:42:50.458 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-01-03 21:42:50.500 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-01-03 22:31:05.186 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-01-03 22:31:05.189 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-01-03 22:31:05.256 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults

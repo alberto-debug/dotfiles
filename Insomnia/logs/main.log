@@ -1,0 +1,18 @@
+[2025-01-17 22:31:32.522] [info]  Running version 10.1.1
+[2025-01-17 22:31:32.582] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2025-01-17 22:31:32.629] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2025-01-17 22:31:32.750] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2025-01-17 22:31:33.075] [info]  [fix] Running database repairs
+[2025-01-17 22:31:33.256] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
+[2025-01-17 22:31:33.257] [info]  [db] Init responses DB
+[2025-01-17 22:31:33.257] [info]  [db] Init websocket-responses DB
+[2025-01-17 22:31:33.260] [info]  [localstorage] Initialized at /home/alberto/.config/Insomnia/localStorage
+[2025-01-17 22:31:33.320] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2025-01-17 22:31:33.349] [info]  [main] Registering the hidden window restarting handler
+[2025-01-17 22:31:33.351] [info]  [updater] Not supported on this platform linux
+[2025-01-17 22:31:35.751] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2025-01-17 22:31:35.754] [info]  [main] Check args and create windows []
+[2025-01-17 22:31:35.755] [info]  [main] Checking for newer version than  10.1.1
+[2025-01-17 22:31:36.534] [info]  [main] Found newer version
+[2025-01-17 22:31:36.548] [info]  [main] Backup found at: /home/alberto/.config/Insomnia/backups/10.1.1

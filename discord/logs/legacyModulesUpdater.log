@@ -1,0 +1,1283 @@
+2024-12-05T22:02:56.175Z [Modules] Modules initializing
+2024-12-05T22:02:56.175Z [Modules] Distribution: remote
+2024-12-05T22:02:56.176Z [Modules] Host updates: enabled
+2024-12-05T22:02:56.176Z [Modules] Module updates: enabled
+2024-12-05T22:02:56.176Z [Modules] Module install path: /home/alberto/.config/discord/0.0.76/modules
+2024-12-05T22:02:56.176Z [Modules] Module installed file path: /home/alberto/.config/discord/0.0.76/modules/installed.json
+2024-12-05T22:02:56.177Z [Modules] Module download path: /home/alberto/.config/discord/0.0.76/modules/pending
+2024-12-05T22:02:56.743Z [Modules] Bootstrapping...
+2024-12-05T22:02:56.745Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-12-05T22:02:56.753Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-12-05T22:02:56.754Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-12-05T22:02:56.756Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-12-05T22:02:56.757Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-12-05T22:02:56.760Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-12-05T22:02:56.761Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-12-05T22:02:56.769Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-12-05T22:02:56.769Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-12-05T22:02:56.773Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-12-05T22:02:56.775Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-12-05T22:02:56.777Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-12-05T22:02:56.778Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-12-05T22:02:56.779Z [Modules] Checking for host updates.
+2024-12-05T22:02:57.732Z [Modules] Host is up to date.
+2024-12-05T22:02:57.733Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-12-05T22:02:57.965Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-12-05T22:02:57.966Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-12-05T22:02:57.966Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-12-05T22:02:57.966Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-12-05T22:02:57.966Z [Modules] Module update available: discord_voice@2 [installed: 0]
+2024-12-05T22:02:57.966Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-12-05T22:02:57.967Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-12-05T22:02:57.968Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip
+2024-12-05T22:02:59.373Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 2%
+2024-12-05T22:02:59.452Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 3%
+2024-12-05T22:02:59.471Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 4%
+2024-12-05T22:02:59.517Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 6%
+2024-12-05T22:02:59.528Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 7%
+2024-12-05T22:02:59.537Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 8%
+2024-12-05T22:02:59.542Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 10%
+2024-12-05T22:02:59.555Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 11%
+2024-12-05T22:02:59.560Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 12%
+2024-12-05T22:02:59.573Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 13%
+2024-12-05T22:02:59.579Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 14%
+2024-12-05T22:02:59.583Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 16%
+2024-12-05T22:02:59.636Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 18%
+2024-12-05T22:02:59.655Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 20%
+2024-12-05T22:02:59.661Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 22%
+2024-12-05T22:02:59.665Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 24%
+2024-12-05T22:02:59.670Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 26%
+2024-12-05T22:02:59.674Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 28%
+2024-12-05T22:02:59.677Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 30%
+2024-12-05T22:02:59.698Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 32%
+2024-12-05T22:02:59.699Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 33%
+2024-12-05T22:02:59.704Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 35%
+2024-12-05T22:02:59.709Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 36%
+2024-12-05T22:02:59.714Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 37%
+2024-12-05T22:02:59.716Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 38%
+2024-12-05T22:02:59.732Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 40%
+2024-12-05T22:02:59.746Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 42%
+2024-12-05T22:02:59.750Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 44%
+2024-12-05T22:02:59.755Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 46%
+2024-12-05T22:02:59.757Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 48%
+2024-12-05T22:02:59.762Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 51%
+2024-12-05T22:02:59.765Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 52%
+2024-12-05T22:02:59.770Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 55%
+2024-12-05T22:02:59.772Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 56%
+2024-12-05T22:02:59.793Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 57%
+2024-12-05T22:02:59.946Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 58%
+2024-12-05T22:02:59.949Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 59%
+2024-12-05T22:02:59.961Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 63%
+2024-12-05T22:02:59.963Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 64%
+2024-12-05T22:02:59.976Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 66%
+2024-12-05T22:02:59.978Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 67%
+2024-12-05T22:02:59.981Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 69%
+2024-12-05T22:02:59.985Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 71%
+2024-12-05T22:03:00.005Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 74%
+2024-12-05T22:03:00.010Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 75%
+2024-12-05T22:03:00.046Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 76%
+2024-12-05T22:03:00.058Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 78%
+2024-12-05T22:03:00.060Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 79%
+2024-12-05T22:03:00.062Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 80%
+2024-12-05T22:03:00.078Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 81%
+2024-12-05T22:03:00.080Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 82%
+2024-12-05T22:03:00.128Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 84%
+2024-12-05T22:03:00.132Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 87%
+2024-12-05T22:03:00.149Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 88%
+2024-12-05T22:03:00.179Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 89%
+2024-12-05T22:03:00.181Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 90%
+2024-12-05T22:03:00.198Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 91%
+2024-12-05T22:03:00.200Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 92%
+2024-12-05T22:03:00.219Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 94%
+2024-12-05T22:03:00.247Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 97%
+2024-12-05T22:03:00.330Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 98%
+2024-12-05T22:03:00.392Z [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip: 100%
+2024-12-05T22:03:00.396Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-12-05T22:03:00.397Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip
+2024-12-05T22:03:01.199Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 2%
+2024-12-05T22:03:01.203Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 4%
+2024-12-05T22:03:01.218Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 6%
+2024-12-05T22:03:01.229Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 9%
+2024-12-05T22:03:01.230Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 10%
+2024-12-05T22:03:01.248Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 13%
+2024-12-05T22:03:01.250Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 15%
+2024-12-05T22:03:01.260Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 17%
+2024-12-05T22:03:01.271Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 19%
+2024-12-05T22:03:01.274Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 21%
+2024-12-05T22:03:01.277Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 24%
+2024-12-05T22:03:01.280Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 25%
+2024-12-05T22:03:01.292Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 26%
+2024-12-05T22:03:01.294Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 27%
+2024-12-05T22:03:01.306Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 30%
+2024-12-05T22:03:01.308Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 31%
+2024-12-05T22:03:01.311Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 32%
+2024-12-05T22:03:01.313Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 33%
+2024-12-05T22:03:01.318Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 34%
+2024-12-05T22:03:01.320Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 36%
+2024-12-05T22:03:01.325Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 38%
+2024-12-05T22:03:01.326Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 40%
+2024-12-05T22:03:01.328Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 42%
+2024-12-05T22:03:01.341Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 44%
+2024-12-05T22:03:01.345Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 47%
+2024-12-05T22:03:01.347Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 49%
+2024-12-05T22:03:01.350Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 51%
+2024-12-05T22:03:01.357Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 54%
+2024-12-05T22:03:01.358Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 55%
+2024-12-05T22:03:01.369Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 57%
+2024-12-05T22:03:01.382Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 58%
+2024-12-05T22:03:01.389Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 61%
+2024-12-05T22:03:01.390Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 62%
+2024-12-05T22:03:01.396Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 64%
+2024-12-05T22:03:01.401Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 65%
+2024-12-05T22:03:01.405Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 69%
+2024-12-05T22:03:01.409Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 71%
+2024-12-05T22:03:01.414Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 73%
+2024-12-05T22:03:01.419Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 74%
+2024-12-05T22:03:01.425Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 75%
+2024-12-05T22:03:01.428Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 77%
+2024-12-05T22:03:01.432Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 79%
+2024-12-05T22:03:01.438Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 80%
+2024-12-05T22:03:01.442Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 82%
+2024-12-05T22:03:01.446Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 83%
+2024-12-05T22:03:01.449Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 85%
+2024-12-05T22:03:01.452Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 86%
+2024-12-05T22:03:01.457Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 89%
+2024-12-05T22:03:01.483Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 92%
+2024-12-05T22:03:01.512Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 93%
+2024-12-05T22:03:01.515Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 95%
+2024-12-05T22:03:01.517Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 96%
+2024-12-05T22:03:01.520Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 98%
+2024-12-05T22:03:01.526Z [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip: 100%
+2024-12-05T22:03:01.530Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-12-05T22:03:01.530Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip
+2024-12-05T22:03:02.332Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 1%
+2024-12-05T22:03:02.357Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 2%
+2024-12-05T22:03:02.380Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 3%
+2024-12-05T22:03:02.407Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 4%
+2024-12-05T22:03:02.420Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 5%
+2024-12-05T22:03:02.442Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 6%
+2024-12-05T22:03:02.459Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 7%
+2024-12-05T22:03:02.474Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 8%
+2024-12-05T22:03:02.496Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 9%
+2024-12-05T22:03:02.506Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 10%
+2024-12-05T22:03:02.527Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 11%
+2024-12-05T22:03:02.536Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 12%
+2024-12-05T22:03:02.560Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 13%
+2024-12-05T22:03:02.563Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 14%
+2024-12-05T22:03:02.581Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 15%
+2024-12-05T22:03:02.603Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 16%
+2024-12-05T22:03:02.620Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 17%
+2024-12-05T22:03:02.638Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 18%
+2024-12-05T22:03:02.648Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 19%
+2024-12-05T22:03:02.658Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 20%
+2024-12-05T22:03:02.673Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 21%
+2024-12-05T22:03:02.680Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 22%
+2024-12-05T22:03:02.695Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 23%
+2024-12-05T22:03:02.705Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 24%
+2024-12-05T22:03:02.731Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 25%
+2024-12-05T22:03:02.743Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 26%
+2024-12-05T22:03:02.747Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 27%
+2024-12-05T22:03:02.760Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 28%
+2024-12-05T22:03:02.775Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 29%
+2024-12-05T22:03:02.791Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 30%
+2024-12-05T22:03:02.807Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 31%
+2024-12-05T22:03:02.818Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 32%
+2024-12-05T22:03:02.826Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 33%
+2024-12-05T22:03:02.842Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 34%
+2024-12-05T22:03:02.850Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 35%
+2024-12-05T22:03:02.863Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 36%
+2024-12-05T22:03:02.884Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 37%
+2024-12-05T22:03:02.893Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 38%
+2024-12-05T22:03:02.908Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 39%
+2024-12-05T22:03:02.926Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 40%
+2024-12-05T22:03:02.931Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 41%
+2024-12-05T22:03:02.943Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 42%
+2024-12-05T22:03:02.953Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 43%
+2024-12-05T22:03:02.960Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 44%
+2024-12-05T22:03:02.969Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 45%
+2024-12-05T22:03:02.982Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 46%
+2024-12-05T22:03:02.987Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 47%
+2024-12-05T22:03:02.995Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 48%
+2024-12-05T22:03:03.010Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 49%
+2024-12-05T22:03:03.026Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 50%
+2024-12-05T22:03:03.033Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 51%
+2024-12-05T22:03:03.045Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 52%
+2024-12-05T22:03:03.052Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 53%
+2024-12-05T22:03:03.061Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 54%
+2024-12-05T22:03:03.067Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 55%
+2024-12-05T22:03:03.083Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 56%
+2024-12-05T22:03:03.093Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 57%
+2024-12-05T22:03:03.100Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 58%
+2024-12-05T22:03:03.116Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 59%
+2024-12-05T22:03:03.137Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 60%
+2024-12-05T22:03:03.152Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 61%
+2024-12-05T22:03:03.160Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 62%
+2024-12-05T22:03:03.170Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 63%
+2024-12-05T22:03:03.186Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 64%
+2024-12-05T22:03:03.192Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 65%
+2024-12-05T22:03:03.202Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 66%
+2024-12-05T22:03:03.213Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 67%
+2024-12-05T22:03:03.237Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 68%
+2024-12-05T22:03:03.243Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 69%
+2024-12-05T22:03:03.260Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 70%
+2024-12-05T22:03:03.277Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 71%
+2024-12-05T22:03:03.281Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 72%
+2024-12-05T22:03:03.293Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 73%
+2024-12-05T22:03:03.304Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 74%
+2024-12-05T22:03:03.318Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 75%
+2024-12-05T22:03:03.341Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 76%
+2024-12-05T22:03:03.349Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 77%
+2024-12-05T22:03:03.358Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 78%
+2024-12-05T22:03:03.363Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 79%
+2024-12-05T22:03:03.373Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 80%
+2024-12-05T22:03:03.386Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 81%
+2024-12-05T22:03:03.393Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 82%
+2024-12-05T22:03:03.407Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 84%
+2024-12-05T22:03:03.425Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 85%
+2024-12-05T22:03:03.443Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 86%
+2024-12-05T22:03:03.451Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 87%
+2024-12-05T22:03:03.460Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 88%
+2024-12-05T22:03:03.470Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 89%
+2024-12-05T22:03:03.478Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 90%
+2024-12-05T22:03:03.491Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 91%
+2024-12-05T22:03:03.497Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 92%
+2024-12-05T22:03:03.508Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 93%
+2024-12-05T22:03:03.521Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 94%
+2024-12-05T22:03:03.539Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 95%
+2024-12-05T22:03:03.546Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 96%
+2024-12-05T22:03:03.563Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 97%
+2024-12-05T22:03:03.571Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 98%
+2024-12-05T22:03:03.578Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 99%
+2024-12-05T22:03:03.593Z [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip: 100%
+2024-12-05T22:03:03.596Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-12-05T22:03:03.597Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip
+2024-12-05T22:03:04.106Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 1%
+2024-12-05T22:03:04.110Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 2%
+2024-12-05T22:03:04.113Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 3%
+2024-12-05T22:03:04.117Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 4%
+2024-12-05T22:03:04.139Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 5%
+2024-12-05T22:03:04.157Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 7%
+2024-12-05T22:03:04.160Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 9%
+2024-12-05T22:03:04.166Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 10%
+2024-12-05T22:03:04.174Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 11%
+2024-12-05T22:03:04.177Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 12%
+2024-12-05T22:03:04.179Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 13%
+2024-12-05T22:03:04.184Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 14%
+2024-12-05T22:03:04.187Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 15%
+2024-12-05T22:03:04.192Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 16%
+2024-12-05T22:03:04.195Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 17%
+2024-12-05T22:03:04.198Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 18%
+2024-12-05T22:03:04.256Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 20%
+2024-12-05T22:03:04.262Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 23%
+2024-12-05T22:03:04.264Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 26%
+2024-12-05T22:03:04.268Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 29%
+2024-12-05T22:03:04.272Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 32%
+2024-12-05T22:03:04.275Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 33%
+2024-12-05T22:03:04.279Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 35%
+2024-12-05T22:03:04.286Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 37%
+2024-12-05T22:03:04.292Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 39%
+2024-12-05T22:03:04.300Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 40%
+2024-12-05T22:03:04.306Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 41%
+2024-12-05T22:03:04.308Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 42%
+2024-12-05T22:03:04.319Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 43%
+2024-12-05T22:03:04.321Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 45%
+2024-12-05T22:03:04.342Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 46%
+2024-12-05T22:03:04.352Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 47%
+2024-12-05T22:03:04.356Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 48%
+2024-12-05T22:03:04.360Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 49%
+2024-12-05T22:03:04.371Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 50%
+2024-12-05T22:03:04.374Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 51%
+2024-12-05T22:03:04.377Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 52%
+2024-12-05T22:03:04.381Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 53%
+2024-12-05T22:03:04.389Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 54%
+2024-12-05T22:03:04.394Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 55%
+2024-12-05T22:03:04.397Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 56%
+2024-12-05T22:03:04.404Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 57%
+2024-12-05T22:03:04.410Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 58%
+2024-12-05T22:03:04.463Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 59%
+2024-12-05T22:03:04.474Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 62%
+2024-12-05T22:03:04.478Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 63%
+2024-12-05T22:03:04.489Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 64%
+2024-12-05T22:03:04.496Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 67%
+2024-12-05T22:03:04.501Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 68%
+2024-12-05T22:03:04.508Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 70%
+2024-12-05T22:03:04.510Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 71%
+2024-12-05T22:03:04.518Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 72%
+2024-12-05T22:03:04.523Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 74%
+2024-12-05T22:03:04.525Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 75%
+2024-12-05T22:03:04.529Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 76%
+2024-12-05T22:03:04.535Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 78%
+2024-12-05T22:03:04.546Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 79%
+2024-12-05T22:03:04.549Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 80%
+2024-12-05T22:03:04.563Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 81%
+2024-12-05T22:03:04.568Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 82%
+2024-12-05T22:03:04.577Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 83%
+2024-12-05T22:03:04.580Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 84%
+2024-12-05T22:03:04.582Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 85%
+2024-12-05T22:03:04.593Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 87%
+2024-12-05T22:03:04.601Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 90%
+2024-12-05T22:03:04.609Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 92%
+2024-12-05T22:03:04.621Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 93%
+2024-12-05T22:03:04.630Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 94%
+2024-12-05T22:03:04.632Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 95%
+2024-12-05T22:03:04.637Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 97%
+2024-12-05T22:03:04.673Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 99%
+2024-12-05T22:03:04.675Z [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip: 100%
+2024-12-05T22:03:04.680Z [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+2024-12-05T22:03:04.681Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip
+2024-12-05T22:03:05.432Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 1%
+2024-12-05T22:03:05.472Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 2%
+2024-12-05T22:03:05.517Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 3%
+2024-12-05T22:03:05.607Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 4%
+2024-12-05T22:03:05.737Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 5%
+2024-12-05T22:03:05.775Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 6%
+2024-12-05T22:03:05.850Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 7%
+2024-12-05T22:03:05.902Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 8%
+2024-12-05T22:03:05.966Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 9%
+2024-12-05T22:03:06.011Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 10%
+2024-12-05T22:03:06.058Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 11%
+2024-12-05T22:03:06.132Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 12%
+2024-12-05T22:03:06.167Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 13%
+2024-12-05T22:03:06.263Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 14%
+2024-12-05T22:03:06.317Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 15%
+2024-12-05T22:03:06.389Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 16%
+2024-12-05T22:03:06.498Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 17%
+2024-12-05T22:03:06.616Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 18%
+2024-12-05T22:03:06.697Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 19%
+2024-12-05T22:03:06.737Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 20%
+2024-12-05T22:03:06.786Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 21%
+2024-12-05T22:03:06.830Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 22%
+2024-12-05T22:03:06.876Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 23%
+2024-12-05T22:03:06.922Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 24%
+2024-12-05T22:03:07.040Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 25%
+2024-12-05T22:03:07.189Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 26%
+2024-12-05T22:03:07.193Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 27%
+2024-12-05T22:03:07.196Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 28%
+2024-12-05T22:03:07.236Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 29%
+2024-12-05T22:03:07.287Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 30%
+2024-12-05T22:03:07.342Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 31%
+2024-12-05T22:03:07.388Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 32%
+2024-12-05T22:03:07.406Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 33%
+2024-12-05T22:03:07.474Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 34%
+2024-12-05T22:03:07.578Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 35%
+2024-12-05T22:03:07.584Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 36%
+2024-12-05T22:03:07.589Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 37%
+2024-12-05T22:03:07.604Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 38%
+2024-12-05T22:03:07.643Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 39%
+2024-12-05T22:03:07.684Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 40%
+2024-12-05T22:03:07.710Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 41%
+2024-12-05T22:03:07.767Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 42%
+2024-12-05T22:03:07.806Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 43%
+2024-12-05T22:03:07.846Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 44%
+2024-12-05T22:03:07.869Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 45%
+2024-12-05T22:03:07.903Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 46%
+2024-12-05T22:03:07.928Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 47%
+2024-12-05T22:03:07.960Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 48%
+2024-12-05T22:03:07.991Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 49%
+2024-12-05T22:03:08.013Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 50%
+2024-12-05T22:03:08.053Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 51%
+2024-12-05T22:03:08.074Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 52%
+2024-12-05T22:03:08.093Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 53%
+2024-12-05T22:03:08.126Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 54%
+2024-12-05T22:03:08.170Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 55%
+2024-12-05T22:03:08.199Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 56%
+2024-12-05T22:03:08.271Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 57%
+2024-12-05T22:03:08.306Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 58%
+2024-12-05T22:03:08.319Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 59%
+2024-12-05T22:03:08.358Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 60%
+2024-12-05T22:03:08.403Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 61%
+2024-12-05T22:03:08.438Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 62%
+2024-12-05T22:03:08.468Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 63%
+2024-12-05T22:03:08.499Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 64%
+2024-12-05T22:03:08.522Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 65%
+2024-12-05T22:03:08.565Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 66%
+2024-12-05T22:03:08.589Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 67%
+2024-12-05T22:03:08.617Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 68%
+2024-12-05T22:03:08.642Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 69%
+2024-12-05T22:03:08.688Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 70%
+2024-12-05T22:03:08.726Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 71%
+2024-12-05T22:03:08.758Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 72%
+2024-12-05T22:03:08.787Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 73%
+2024-12-05T22:03:08.818Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 74%
+2024-12-05T22:03:08.892Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 75%
+2024-12-05T22:03:08.911Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 76%
+2024-12-05T22:03:08.933Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 77%
+2024-12-05T22:03:08.972Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 78%
+2024-12-05T22:03:09.016Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 79%
+2024-12-05T22:03:09.052Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 80%
+2024-12-05T22:03:09.094Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 81%
+2024-12-05T22:03:09.111Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 82%
+2024-12-05T22:03:09.149Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 83%
+2024-12-05T22:03:09.179Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 84%
+2024-12-05T22:03:09.233Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 85%
+2024-12-05T22:03:09.288Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 86%
+2024-12-05T22:03:09.328Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 87%
+2024-12-05T22:03:09.362Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 88%
+2024-12-05T22:03:09.423Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 89%
+2024-12-05T22:03:09.481Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 90%
+2024-12-05T22:03:09.505Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 91%
+2024-12-05T22:03:09.541Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 92%
+2024-12-05T22:03:09.599Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 93%
+2024-12-05T22:03:09.643Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 94%
+2024-12-05T22:03:09.691Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 95%
+2024-12-05T22:03:09.721Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 96%
+2024-12-05T22:03:09.772Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 97%
+2024-12-05T22:03:09.815Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 98%
+2024-12-05T22:03:09.856Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 99%
+2024-12-05T22:03:09.903Z [Modules] Streaming discord_voice@2 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip: 100%
+2024-12-05T22:03:09.907Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-12-05T22:03:09.907Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip
+2024-12-05T22:03:10.639Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 1%
+2024-12-05T22:03:10.645Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 19%
+2024-12-05T22:03:10.649Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 22%
+2024-12-05T22:03:10.652Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 32%
+2024-12-05T22:03:10.654Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 36%
+2024-12-05T22:03:10.655Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 40%
+2024-12-05T22:03:10.657Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 42%
+2024-12-05T22:03:10.661Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 50%
+2024-12-05T22:03:10.665Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 62%
+2024-12-05T22:03:10.667Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 72%
+2024-12-05T22:03:10.670Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 81%
+2024-12-05T22:03:10.672Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 83%
+2024-12-05T22:03:10.674Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 90%
+2024-12-05T22:03:10.690Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 99%
+2024-12-05T22:03:10.691Z [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip: 100%
+2024-12-05T22:03:10.696Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-12-05T22:03:10.697Z [Modules] Installing updates...
+2024-12-05T22:03:10.697Z [Modules] Installing discord_desktop_core@1 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_desktop_core-1.zip
+2024-12-05T22:03:11.024Z [Modules] Installing discord_erlpack@1 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_erlpack-1.zip
+2024-12-05T22:03:11.254Z [Modules] Installing discord_spellcheck@1 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_spellcheck-1.zip
+2024-12-05T22:03:14.941Z [Modules] Installing discord_utils@1 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_utils-1.zip
+2024-12-05T22:03:15.705Z [Modules] Installing discord_voice@2 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_voice-2.zip
+2024-12-05T22:03:18.030Z [Modules] Installing discord_zstd@1 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_zstd-1.zip
+2024-12-05T22:03:18.093Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-12-05T22:03:18.093Z [Modules] Checking for host updates.
+2024-12-05T22:03:18.425Z [Modules] Host is up to date.
+2024-12-05T22:03:18.426Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-12-05T22:03:18.433Z [Modules] No module updates available.
+2024-12-05T22:03:22.774Z [Modules] Starting to install discord_krisp...
+2024-12-05T22:03:22.774Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-12-05T22:03:22.775Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip
+2024-12-05T22:03:22.821Z [Modules] Starting to install discord_game_utils...
+2024-12-05T22:03:23.562Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 1%
+2024-12-05T22:03:23.594Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 2%
+2024-12-05T22:03:23.627Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 3%
+2024-12-05T22:03:23.658Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 4%
+2024-12-05T22:03:23.683Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 5%
+2024-12-05T22:03:23.849Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 6%
+2024-12-05T22:03:23.853Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 7%
+2024-12-05T22:03:23.857Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 8%
+2024-12-05T22:03:23.876Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 9%
+2024-12-05T22:03:23.969Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 10%
+2024-12-05T22:03:23.984Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 11%
+2024-12-05T22:03:23.993Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 12%
+2024-12-05T22:03:24.014Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 13%
+2024-12-05T22:03:24.043Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 14%
+2024-12-05T22:03:24.074Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 15%
+2024-12-05T22:03:24.108Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 16%
+2024-12-05T22:03:24.181Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 17%
+2024-12-05T22:03:24.276Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 18%
+2024-12-05T22:03:24.292Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 19%
+2024-12-05T22:03:24.301Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 20%
+2024-12-05T22:03:24.304Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 21%
+2024-12-05T22:03:24.339Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 22%
+2024-12-05T22:03:24.387Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 23%
+2024-12-05T22:03:24.419Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 24%
+2024-12-05T22:03:24.451Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 25%
+2024-12-05T22:03:24.468Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 26%
+2024-12-05T22:03:24.492Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 27%
+2024-12-05T22:03:24.525Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 28%
+2024-12-05T22:03:24.557Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 29%
+2024-12-05T22:03:24.579Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 30%
+2024-12-05T22:03:24.599Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 31%
+2024-12-05T22:03:24.646Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 32%
+2024-12-05T22:03:24.669Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 33%
+2024-12-05T22:03:24.699Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 34%
+2024-12-05T22:03:24.710Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 35%
+2024-12-05T22:03:24.748Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 36%
+2024-12-05T22:03:24.806Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 37%
+2024-12-05T22:03:24.810Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 38%
+2024-12-05T22:03:24.849Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 39%
+2024-12-05T22:03:24.869Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 40%
+2024-12-05T22:03:24.909Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 41%
+2024-12-05T22:03:24.940Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 42%
+2024-12-05T22:03:24.973Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 43%
+2024-12-05T22:03:24.996Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 44%
+2024-12-05T22:03:25.028Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 45%
+2024-12-05T22:03:25.055Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 46%
+2024-12-05T22:03:25.076Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 47%
+2024-12-05T22:03:25.100Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 48%
+2024-12-05T22:03:25.131Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 49%
+2024-12-05T22:03:25.166Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 50%
+2024-12-05T22:03:25.209Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 51%
+2024-12-05T22:03:25.243Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 52%
+2024-12-05T22:03:25.355Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 53%
+2024-12-05T22:03:25.359Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 54%
+2024-12-05T22:03:25.362Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 55%
+2024-12-05T22:03:25.389Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 56%
+2024-12-05T22:03:25.412Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 57%
+2024-12-05T22:03:25.472Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 58%
+2024-12-05T22:03:25.508Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 59%
+2024-12-05T22:03:25.536Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 60%
+2024-12-05T22:03:25.574Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 61%
+2024-12-05T22:03:25.614Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 62%
+2024-12-05T22:03:25.707Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 63%
+2024-12-05T22:03:25.711Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 64%
+2024-12-05T22:03:25.719Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 65%
+2024-12-05T22:03:25.748Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 66%
+2024-12-05T22:03:25.817Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 67%
+2024-12-05T22:03:25.853Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 68%
+2024-12-05T22:03:25.890Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 69%
+2024-12-05T22:03:25.924Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 70%
+2024-12-05T22:03:25.982Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 71%
+2024-12-05T22:03:26.000Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 72%
+2024-12-05T22:03:26.029Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 73%
+2024-12-05T22:03:26.055Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 74%
+2024-12-05T22:03:26.137Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 75%
+2024-12-05T22:03:26.214Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 76%
+2024-12-05T22:03:26.237Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 77%
+2024-12-05T22:03:26.302Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 78%
+2024-12-05T22:03:26.331Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 79%
+2024-12-05T22:03:26.357Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 80%
+2024-12-05T22:03:26.391Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 81%
+2024-12-05T22:03:26.424Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 82%
+2024-12-05T22:03:26.478Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 83%
+2024-12-05T22:03:26.512Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 84%
+2024-12-05T22:03:26.542Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 85%
+2024-12-05T22:03:26.570Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 86%
+2024-12-05T22:03:26.632Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 87%
+2024-12-05T22:03:26.694Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 88%
+2024-12-05T22:03:26.754Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 89%
+2024-12-05T22:03:26.803Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 90%
+2024-12-05T22:03:26.876Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 91%
+2024-12-05T22:03:26.899Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 92%
+2024-12-05T22:03:26.921Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 93%
+2024-12-05T22:03:26.982Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 94%
+2024-12-05T22:03:27.029Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 95%
+2024-12-05T22:03:27.050Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 96%
+2024-12-05T22:03:27.140Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 97%
+2024-12-05T22:03:27.265Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 98%
+2024-12-05T22:03:27.339Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 99%
+2024-12-05T22:03:27.464Z [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip: 100%
+2024-12-05T22:03:27.468Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-12-05T22:03:27.468Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip
+2024-12-05T22:03:27.468Z [Modules] Installing discord_krisp@1 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_krisp-1.zip
+2024-12-05T22:03:28.356Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 1%
+2024-12-05T22:03:28.360Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 2%
+2024-12-05T22:03:28.421Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 3%
+2024-12-05T22:03:28.423Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 4%
+2024-12-05T22:03:28.424Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 5%
+2024-12-05T22:03:28.428Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 6%
+2024-12-05T22:03:28.435Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 7%
+2024-12-05T22:03:28.444Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 9%
+2024-12-05T22:03:28.464Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 10%
+2024-12-05T22:03:28.471Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 13%
+2024-12-05T22:03:28.480Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 16%
+2024-12-05T22:03:28.488Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 20%
+2024-12-05T22:03:28.546Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 21%
+2024-12-05T22:03:28.554Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 26%
+2024-12-05T22:03:28.560Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 31%
+2024-12-05T22:03:28.562Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 36%
+2024-12-05T22:03:28.564Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 43%
+2024-12-05T22:03:28.576Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 44%
+2024-12-05T22:03:28.596Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 48%
+2024-12-05T22:03:28.600Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 50%
+2024-12-05T22:03:28.601Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 51%
+2024-12-05T22:03:28.621Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 54%
+2024-12-05T22:03:28.650Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 55%
+2024-12-05T22:03:28.660Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 59%
+2024-12-05T22:03:28.950Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 62%
+2024-12-05T22:03:28.975Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 65%
+2024-12-05T22:03:28.976Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 67%
+2024-12-05T22:03:29.024Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 72%
+2024-12-05T22:03:29.027Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 75%
+2024-12-05T22:03:29.028Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 82%
+2024-12-05T22:03:29.030Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 87%
+2024-12-05T22:03:29.037Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 88%
+2024-12-05T22:03:29.039Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 89%
+2024-12-05T22:03:29.045Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 92%
+2024-12-05T22:03:29.062Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 94%
+2024-12-05T22:03:29.064Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 96%
+2024-12-05T22:03:29.070Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 98%
+2024-12-05T22:03:29.071Z [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip: 100%
+2024-12-05T22:03:29.074Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2024-12-05T22:03:29.891Z [Modules] Installing discord_game_utils@1 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_game_utils-1.zip
+2024-12-05T22:03:30.311Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2024-12-05T22:03:32.485Z [Modules] Checking for host updates.
+2024-12-05T22:03:32.848Z [Modules] Host is up to date.
+2024-12-05T22:03:32.848Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-12-05T22:03:32.858Z [Modules] No module updates available.
+2024-12-05T22:03:32.897Z [Modules] Starting to install discord_rpc...
+2024-12-05T22:03:32.898Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-12-05T22:03:32.898Z [Modules] Streaming discord_rpc@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_rpc-1.zip
+2024-12-05T22:03:33.696Z [Modules] Streaming discord_rpc@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_rpc-1.zip: 29%
+2024-12-05T22:03:33.698Z [Modules] Streaming discord_rpc@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_rpc-1.zip: 90%
+2024-12-05T22:03:33.700Z [Modules] Streaming discord_rpc@1 to /home/alberto/.config/discord/0.0.76/modules/pending/discord_rpc-1.zip: 100%
+2024-12-05T22:03:33.703Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2024-12-05T22:03:33.704Z [Modules] Installing discord_rpc@1 from /home/alberto/.config/discord/0.0.76/modules/pending/discord_rpc-1.zip
+2024-12-05T22:03:33.781Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-12-05T23:03:32.726Z [Modules] Checking for host updates.
+2024-12-05T23:03:33.272Z [Modules] Host is up to date.
+2024-12-05T23:03:33.272Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-12-05T23:03:33.445Z [Modules] No module updates available.
+2024-12-09T21:21:04.006Z [Modules] Modules initializing
+2024-12-09T21:21:04.006Z [Modules] Distribution: remote
+2024-12-09T21:21:04.006Z [Modules] Host updates: enabled
+2024-12-09T21:21:04.006Z [Modules] Module updates: enabled
+2024-12-09T21:21:04.007Z [Modules] Module install path: /home/alberto/.config/discord/0.0.76/modules
+2024-12-09T21:21:04.007Z [Modules] Module installed file path: /home/alberto/.config/discord/0.0.76/modules/installed.json
+2024-12-09T21:21:04.007Z [Modules] Module download path: /home/alberto/.config/discord/0.0.76/modules/pending
+2024-12-09T21:21:04.509Z [Modules] No updates to install
+2024-12-09T21:21:04.510Z [Modules] Checking for host updates.
+2024-12-09T21:21:05.379Z [Modules] Host is up to date.
+2024-12-09T21:21:05.379Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-12-09T21:21:05.564Z [Modules] No module updates available.
+2024-12-09T21:21:16.313Z [Modules] Checking for host updates.
+2024-12-09T21:21:16.620Z [Modules] Host is up to date.
+2024-12-09T21:21:16.620Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-12-09T21:21:16.635Z [Modules] No module updates available.
+2024-12-09T22:21:16.313Z [Modules] Checking for host updates.
+2024-12-09T22:21:16.825Z [Modules] Host is up to date.
+2024-12-09T22:21:16.826Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-12-09T22:21:16.998Z [Modules] No module updates available.
+2024-12-18T15:52:57.416Z [Modules] Modules initializing
+2024-12-18T15:52:57.416Z [Modules] Distribution: remote
+2024-12-18T15:52:57.416Z [Modules] Host updates: enabled
+2024-12-18T15:52:57.417Z [Modules] Module updates: enabled
+2024-12-18T15:52:57.417Z [Modules] Module install path: /home/alberto/.config/discord/0.0.76/modules
+2024-12-18T15:52:57.417Z [Modules] Module installed file path: /home/alberto/.config/discord/0.0.76/modules/installed.json
+2024-12-18T15:52:57.417Z [Modules] Module download path: /home/alberto/.config/discord/0.0.76/modules/pending
+2024-12-18T15:52:57.846Z [Modules] No updates to install
+2024-12-18T15:52:57.847Z [Modules] Checking for host updates.
+2024-12-18T15:52:58.732Z [Modules] Host update is available. Manual update required!
+2024-12-18T23:21:41.449Z [Modules] Modules initializing
+2024-12-18T23:21:41.449Z [Modules] Distribution: remote
+2024-12-18T23:21:41.450Z [Modules] Host updates: enabled
+2024-12-18T23:21:41.450Z [Modules] Module updates: enabled
+2024-12-18T23:21:41.451Z [Modules] Module install path: /home/alberto/.config/discord/0.0.76/modules
+2024-12-18T23:21:41.452Z [Modules] Module installed file path: /home/alberto/.config/discord/0.0.76/modules/installed.json
+2024-12-18T23:21:41.452Z [Modules] Module download path: /home/alberto/.config/discord/0.0.76/modules/pending
+2024-12-18T23:21:42.210Z [Modules] No updates to install
+2024-12-18T23:21:42.211Z [Modules] Checking for host updates.
+2024-12-18T23:21:43.137Z [Modules] Host update is available. Manual update required!
+12/19/2024, 2:22:46 AM GMT+3 [Modules] Modules initializing
+12/19/2024, 2:22:46 AM GMT+3 [Modules] Distribution: remote
+12/19/2024, 2:22:46 AM GMT+3 [Modules] Host updates: enabled
+12/19/2024, 2:22:46 AM GMT+3 [Modules] Module updates: enabled
+12/19/2024, 2:22:46 AM GMT+3 [Modules] Module install path: /home/alberto/.config/discord/0.0.78/modules
+12/19/2024, 2:22:46 AM GMT+3 [Modules] Module installed file path: /home/alberto/.config/discord/0.0.78/modules/installed.json
+12/19/2024, 2:22:46 AM GMT+3 [Modules] Module download path: /home/alberto/.config/discord/0.0.78/modules/pending
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Bootstrapping...
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Finished module installations. [success: 0] [failure: 6]
+12/19/2024, 2:22:47 AM GMT+3 [Modules] Checking for host updates.
+12/19/2024, 2:22:49 AM GMT+3 [Modules] Host is up to date.
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Module update available: discord_erlpack@1 [installed: 0]
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Module update available: discord_utils@1 [installed: 0]
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Module update available: discord_voice@1 [installed: 0]
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Module update available: discord_zstd@1 [installed: 0]
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 1%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 2%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 3%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 4%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 6%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 9%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 10%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 12%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 13%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 14%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 16%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 19%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 20%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 21%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 25%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 27%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 28%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 30%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 31%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 32%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 35%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 37%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 40%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 45%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 49%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 52%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 54%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 57%
+12/19/2024, 2:22:50 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 58%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 62%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 63%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 65%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 66%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 67%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 74%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 77%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 80%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 83%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 88%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 91%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 92%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 98%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_desktop_core@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip: 100%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 3%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 4%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 5%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 7%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 11%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 12%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 17%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 22%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 27%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 30%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 35%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 39%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 41%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 46%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 50%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 53%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 59%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 65%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 77%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 79%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 84%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 86%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 89%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 93%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 94%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 96%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_erlpack@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip: 100%
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+12/19/2024, 2:22:51 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 1%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 2%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 3%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 4%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 5%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 6%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 7%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 8%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 9%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 10%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 11%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 12%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 13%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 14%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 15%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 16%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 17%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 18%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 19%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 20%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 21%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 22%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 23%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 24%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 25%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 26%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 27%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 28%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 29%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 30%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 31%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 32%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 33%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 34%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 35%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 36%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 39%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 40%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 41%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 42%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 43%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 44%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 45%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 46%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 47%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 48%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 49%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 50%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 51%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 52%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 53%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 54%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 55%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 56%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 57%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 58%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 59%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 60%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 61%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 62%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 63%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 64%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 65%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 66%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 67%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 68%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 69%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 70%
+12/19/2024, 2:22:52 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 71%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 72%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 73%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 74%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 75%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 76%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 77%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 78%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 79%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 80%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 81%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 82%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 83%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 84%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 85%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 86%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 87%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 88%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 89%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 90%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 91%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 92%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 93%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 94%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 95%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 96%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 97%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 98%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 99%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_spellcheck@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip: 100%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 1%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 2%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 4%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 7%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 9%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 11%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 13%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 14%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 19%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 25%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 29%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 38%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 42%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 47%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 49%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 50%
+12/19/2024, 2:22:53 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 52%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 55%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 58%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 63%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 64%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 65%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 66%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 67%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 68%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 70%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 73%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 75%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 76%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 79%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 84%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 85%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 86%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 88%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 89%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 90%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 92%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 95%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip: 100%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 1%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 2%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 3%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 4%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 5%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 6%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 7%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 8%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 9%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 10%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 11%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 12%
+12/19/2024, 2:22:54 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 13%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 14%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 15%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 16%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 17%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 18%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 19%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 20%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 21%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 22%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 23%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 24%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 25%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 26%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 27%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 28%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 29%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 30%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 31%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 32%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 33%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 34%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 35%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 36%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 37%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 38%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 39%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 40%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 41%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 42%
+12/19/2024, 2:22:55 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 43%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 44%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 45%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 46%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 47%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 48%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 49%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 50%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 51%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 52%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 53%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 54%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 55%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 56%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 57%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 58%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 59%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 60%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 61%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 62%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 63%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 64%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 65%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 66%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 67%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 68%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 69%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 70%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 71%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 72%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 73%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 74%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 75%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 76%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 77%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 78%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 79%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 80%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 81%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 82%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 83%
+12/19/2024, 2:22:56 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 84%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 85%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 86%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 87%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 88%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 89%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 90%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 91%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 92%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 93%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 94%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 95%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 96%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 97%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 98%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 99%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_voice@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip: 100%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 8%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 22%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 27%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 36%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 47%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 61%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 68%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 89%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Streaming discord_zstd@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip: 100%
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Finished module downloads. [success: 6] [failure: 0]
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Installing updates...
+12/19/2024, 2:22:57 AM GMT+3 [Modules] Installing discord_desktop_core@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_desktop_core-1.zip
+12/19/2024, 2:22:58 AM GMT+3 [Modules] Installing discord_erlpack@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_erlpack-1.zip
+12/19/2024, 2:22:58 AM GMT+3 [Modules] Installing discord_spellcheck@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_spellcheck-1.zip
+12/19/2024, 2:23:03 AM GMT+3 [Modules] Installing discord_utils@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_utils-1.zip
+12/19/2024, 2:23:04 AM GMT+3 [Modules] Installing discord_voice@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_voice-1.zip
+12/19/2024, 2:23:06 AM GMT+3 [Modules] Installing discord_zstd@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_zstd-1.zip
+12/19/2024, 2:23:06 AM GMT+3 [Modules] Finished module installations. [success: 6] [failure: 0]
+12/19/2024, 2:23:06 AM GMT+3 [Modules] Checking for host updates.
+12/19/2024, 2:23:07 AM GMT+3 [Modules] Host is up to date.
+12/19/2024, 2:23:07 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/19/2024, 2:23:07 AM GMT+3 [Modules] No module updates available.
+12/19/2024, 2:23:11 AM GMT+3 [Modules] Starting to install discord_krisp...
+12/19/2024, 2:23:11 AM GMT+3 [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+12/19/2024, 2:23:11 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip
+12/19/2024, 2:23:11 AM GMT+3 [Modules] Starting to install discord_game_utils...
+12/19/2024, 2:23:11 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 1%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 2%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 3%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 4%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 5%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 6%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 7%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 8%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 9%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 10%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 11%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 12%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 13%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 14%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 15%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 16%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 17%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 18%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 19%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 20%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 21%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 22%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 23%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 24%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 25%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 26%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 27%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 28%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 29%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 30%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 31%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 32%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 33%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 34%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 35%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 36%
+12/19/2024, 2:23:12 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 37%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 38%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 39%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 40%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 41%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 42%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 43%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 44%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 45%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 46%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 47%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 48%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 49%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 50%
+12/19/2024, 2:23:13 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 51%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 52%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 53%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 54%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 55%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 56%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 57%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 58%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 59%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 60%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 61%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 62%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 63%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 64%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 65%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 66%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 67%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 68%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 69%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 70%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 71%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 72%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 73%
+12/19/2024, 2:23:14 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 74%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 75%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 76%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 77%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 78%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 79%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 80%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 81%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 82%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 83%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 84%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 85%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 86%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 87%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 88%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 89%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 90%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 91%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 92%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 93%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 94%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 95%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 96%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 97%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 98%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 99%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_krisp@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip: 100%
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip
+12/19/2024, 2:23:15 AM GMT+3 [Modules] Installing discord_krisp@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_krisp-1.zip
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 1%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 2%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 3%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 4%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 5%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 6%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 7%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 9%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 12%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 17%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 19%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 23%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 24%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 25%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 26%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 27%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 28%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 29%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 31%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 33%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 34%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 36%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 37%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 38%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 39%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 41%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Checking for host updates.
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 42%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 44%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 47%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 51%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 58%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 63%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 66%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 68%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 69%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 70%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 71%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 72%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 73%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 74%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 75%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 76%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 77%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 78%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 80%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 81%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 84%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 85%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 86%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 87%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 88%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 90%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 92%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 93%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 94%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 96%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 97%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 99%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_game_utils@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip: 100%
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Finished module downloads. [success: 2] [failure: 0]
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Host is up to date.
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/19/2024, 2:23:16 AM GMT+3 [Modules] No module updates available.
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Starting to install discord_rpc...
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+12/19/2024, 2:23:16 AM GMT+3 [Modules] Streaming discord_rpc@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_rpc-1.zip
+12/19/2024, 2:23:17 AM GMT+3 [Modules] Streaming discord_rpc@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_rpc-1.zip: 52%
+12/19/2024, 2:23:17 AM GMT+3 [Modules] Streaming discord_rpc@1 to /home/alberto/.config/discord/0.0.78/modules/pending/discord_rpc-1.zip: 100%
+12/19/2024, 2:23:17 AM GMT+3 [Modules] Finished module downloads. [success: 1] [failure: 0]
+12/19/2024, 2:23:18 AM GMT+3 [Modules] Installing discord_game_utils@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_game_utils-1.zip
+12/19/2024, 2:23:19 AM GMT+3 [Modules] Installing discord_rpc@1 from /home/alberto/.config/discord/0.0.78/modules/pending/discord_rpc-1.zip
+12/19/2024, 2:23:19 AM GMT+3 [Modules] Finished module installations. [success: 3] [failure: 0]
+12/19/2024, 3:23:17 AM GMT+3 [Modules] Checking for host updates.
+12/19/2024, 3:23:17 AM GMT+3 [Modules] Host is up to date.
+12/19/2024, 3:23:17 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/19/2024, 3:23:17 AM GMT+3 [Modules] No module updates available.
+12/19/2024, 4:52:15 PM GMT+3 [Modules] Checking for host updates.
+12/19/2024, 4:52:16 PM GMT+3 [Modules] Host is up to date.
+12/19/2024, 4:52:16 PM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/19/2024, 4:52:16 PM GMT+3 [Modules] No module updates available.
+12/19/2024, 5:52:15 PM GMT+3 [Modules] Checking for host updates.
+12/19/2024, 5:52:37 PM GMT+3 [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+12/19/2024, 6:52:16 PM GMT+3 [Modules] Checking for host updates.
+12/19/2024, 6:52:16 PM GMT+3 [Modules] Host is up to date.
+12/19/2024, 6:52:16 PM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/19/2024, 6:52:16 PM GMT+3 [Modules] No module updates available.
+12/19/2024, 11:01:56 PM GMT+3 [Modules] Checking for host updates.
+12/19/2024, 11:01:57 PM GMT+3 [Modules] Host is up to date.
+12/19/2024, 11:01:57 PM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/19/2024, 11:01:57 PM GMT+3 [Modules] No module updates available.
+12/20/2024, 12:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 12:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 12:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 12:01:58 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 1:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 1:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 1:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 1:01:57 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 2:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 2:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 2:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 2:01:57 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 3:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 3:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 3:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 3:01:57 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 4:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 4:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 4:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 4:01:57 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 5:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 5:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 5:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 5:01:58 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 6:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 6:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 6:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 6:01:57 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 7:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 7:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 7:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 7:01:58 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 8:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 8:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 8:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 8:01:58 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 9:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 9:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 9:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 9:01:58 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 10:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 10:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 10:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 10:01:58 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 11:01:57 AM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 11:01:57 AM GMT+3 [Modules] Host is up to date.
+12/20/2024, 11:01:57 AM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 11:01:58 AM GMT+3 [Modules] No module updates available.
+12/20/2024, 12:01:57 PM GMT+3 [Modules] Checking for host updates.
+12/20/2024, 12:01:57 PM GMT+3 [Modules] Host is up to date.
+12/20/2024, 12:01:57 PM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+12/20/2024, 12:01:58 PM GMT+3 [Modules] No module updates available.

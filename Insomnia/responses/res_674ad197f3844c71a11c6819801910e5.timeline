@@ -1,0 +1,20 @@
+{"value":"Preparing request to http://localhost:8080/students/41b182b0-4a7c-4d20-8733-9290afc16f3a","name":"Text","timestamp":1734477532090}
+{"value":"Current time is 2024-12-17T23:18:52.090Z","name":"Text","timestamp":1734477532090}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1734477532090}
+{"value":"Using default HTTP version","name":"Text","timestamp":1734477532091}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1734477532091}
+{"value":"Enable SSL validation","name":"Text","timestamp":1734477532091}
+{"name":"Text","value":"Hostname localhost was found in DNS cache\n","timestamp":1734477532092}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1734477532092}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#11)\n","timestamp":1734477532092}
+{"name":"HeaderOut","value":"GET /students/41b182b0-4a7c-4d20-8733-9290afc16f3a HTTP/1.1\r\nHost: localhost:8080\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\n\r\n","timestamp":1734477532092}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1734477532101}
+{"name":"HeaderIn","value":"HTTP/1.1 500 \r\n","timestamp":1734477532101}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1734477532101}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1734477532101}
+{"name":"HeaderIn","value":"Date: Tue, 17 Dec 2024 23:18:52 GMT\r\n","timestamp":1734477532101}
+{"name":"HeaderIn","value":"Connection: close\r\n","timestamp":1734477532101}
+{"name":"HeaderIn","value":"\r\n","timestamp":1734477532101}
+{"name":"Text","value":"Received 5.3 KB chunk","timestamp":1734477532101}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1734477532102}
+{"name":"Text","value":"Closing connection 11\n","timestamp":1734477532102}

@@ -1,0 +1,71 @@
+{"value":"Preparing request to https://spring-test-5yqi.onrender.com/api/student/register","name":"Text","timestamp":1735057547767}
+{"value":"Current time is 2024-12-24T16:25:47.767Z","name":"Text","timestamp":1735057547767}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1735057547767}
+{"value":"Using default HTTP version","name":"Text","timestamp":1735057547769}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1735057547769}
+{"value":"Enable SSL validation","name":"Text","timestamp":1735057547769}
+{"name":"Text","value":"Too old connection (467 seconds), disconnect it\n","timestamp":1735057547769}
+{"name":"Text","value":"Connection 15 seems to be dead!\n","timestamp":1735057547769}
+{"name":"Text","value":"Closing connection 15\n","timestamp":1735057547769}
+{"name":"Text","value":"  Trying 216.24.57.4:443...\n","timestamp":1735057547772}
+{"name":"Text","value":"Connected to spring-test-5yqi.onrender.com (216.24.57.4) port 443 (#16)\n","timestamp":1735057547807}
+{"name":"Text","value":"ALPN, offering h2\n","timestamp":1735057547810}
+{"name":"Text","value":"ALPN, offering http/1.1\n","timestamp":1735057547810}
+{"name":"Text","value":" CAfile: /etc/ssl/certs/ca-certificates.crt\n","timestamp":1735057547860}
+{"name":"Text","value":"TLSv1.0 (OUT), TLS header, Certificate Status (22):\n","timestamp":1735057547861}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n","timestamp":1735057547861}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Certificate Status (22):\n","timestamp":1735057547907}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n","timestamp":1735057547907}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Finished (20):\n","timestamp":1735057547908}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1735057547908}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n","timestamp":1735057548187}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Certificate (11):\n","timestamp":1735057548187}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, CERT verify (15):\n","timestamp":1735057548192}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Finished (20):\n","timestamp":1735057548192}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Finished (20):\n","timestamp":1735057548192}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n","timestamp":1735057548192}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1735057548192}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS handshake, Finished (20):\n","timestamp":1735057548192}
+{"name":"Text","value":"SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384\n","timestamp":1735057548192}
+{"name":"Text","value":"ALPN, server accepted to use h2\n","timestamp":1735057548192}
+{"name":"Text","value":"Server certificate:\n","timestamp":1735057548193}
+{"name":"Text","value":" subject: CN=onrender.com\n","timestamp":1735057548193}
+{"name":"Text","value":" start date: Dec 11 16:57:09 2024 GMT\n","timestamp":1735057548193}
+{"name":"Text","value":" expire date: Mar 11 17:57:07 2025 GMT\n","timestamp":1735057548193}
+{"name":"Text","value":" subjectAltName: host \"spring-test-5yqi.onrender.com\" matched cert's \"*.onrender.com\"\n","timestamp":1735057548193}
+{"name":"Text","value":" issuer: C=US; O=Google Trust Services; CN=WE1\n","timestamp":1735057548193}
+{"name":"Text","value":" SSL certificate verify ok.\n","timestamp":1735057548193}
+{"name":"Text","value":"Using HTTP2, server supports multiplexing\n","timestamp":1735057548193}
+{"name":"Text","value":"Connection state changed (HTTP/2 confirmed)\n","timestamp":1735057548193}
+{"name":"Text","value":"Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n","timestamp":1735057548193}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1735057548193}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1735057548193}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1735057548193}
+{"name":"Text","value":"Using Stream ID: 1 (easy handle 0x1c04042f9800)\n","timestamp":1735057548193}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1735057548193}
+{"name":"HeaderOut","value":"POST /api/student/register HTTP/2\r\nHost: spring-test-5yqi.onrender.com\r\ncontent-type: application/json\r\nuser-agent: insomnia/10.1.1\r\naccept: */*\r\ncontent-length: 72\r\n\r\n","timestamp":1735057548193}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1735057548194}
+{"name":"DataOut","value":"{\n  \"name\": \"Albertooo junior\",\n  \"email\" : \"albertojunior@gmail.com\"\n}\n","timestamp":1735057548194}
+{"name":"Text","value":"We are completely uploaded and fine\n","timestamp":1735057548194}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1735057548247}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n","timestamp":1735057548247}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n","timestamp":1735057548247}
+{"name":"Text","value":"old SSL session ID is stale, removing\n","timestamp":1735057548247}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1735057548247}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1735057548247}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"HTTP/2 200 \r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"date: Tue, 24 Dec 2024 16:25:50 GMT\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"content-type: application/json\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"cf-ray: 8f71f30c8e230372-NBO\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"cf-cache-status: DYNAMIC\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"vary: Accept-Encoding\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"rndr-id: 5aaf6915-24a1-462b\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"x-render-origin-server: Render\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"server: cloudflare\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"alt-svc: h3=\":443\"; ma=86400\r\n","timestamp":1735057550857}
+{"name":"HeaderIn","value":"\r\n","timestamp":1735057550857}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1735057550857}
+{"name":"Text","value":"Received 68 B chunk","timestamp":1735057550857}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1735057550857}
+{"name":"Text","value":"Connection #16 to host spring-test-5yqi.onrender.com left intact\n","timestamp":1735057550857}

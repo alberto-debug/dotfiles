@@ -1,0 +1,747 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="login-app-backend-main" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="fmaox40wqrqv" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1144">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-96,1,10,-99,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,108,98,101,114,116,111,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,73,100,101,97,73,67,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,109,97,118,101,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/TokenService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TokenService.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityFilter.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="726">
+              <caret line="48" column="1" selection-end-line="48" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SecurityFilter.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityConfig.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="616">
+              <caret line="40" column="5" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SecurityConfig.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/CustomUserDetailsService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="19" column="85" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CustomUserDetailsService.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/cors/CorsConfig.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CorsConfig.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/LoginAuthApiApplication.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LoginAuthApiApplication.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/User.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"User.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/role/AppRole.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="462">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AppRole.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/AdminController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="891">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AdminController.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/AdminService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AdminService.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/dto/LoginRequestDTO.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LoginRequestDTO.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,69,10,16,110,111,100,101,115,47,114,101,99,111,114,100,46,115,118,103,18,22,101,120,112,117,105,47,110,111,100,101,115,47,114,101,99,111,114,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-109,-93,-74,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/UserController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="12" column="45" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"UserController.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/AuthController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="702">
+              <caret line="119" column="63" selection-start-line="119" selection-start-column="63" selection-end-line="119" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AuthController.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/validation/ValidationService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ValidationService.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/validation/ValidationException.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ValidationException.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,75,10,24,110,111,100,101,115,47,101,120,99,101,112,116,105,111,110,67,108,97,115,115,46,115,118,103,18,25,101,120,112,117,105,47,110,111,100,101,115,47,101,120,99,101,112,116,105,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-14,-38,-42,-38,3,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/repositories/UserRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"UserRepository.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,75,10,19,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,18,25,101,120,112,117,105,47,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-34,-46,-26,-50,-2,-1,-1,-1,-1,1,48,1]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/RoleInitializer.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="583">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"RoleInitializer.java","foregroundColor":-13854245,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"2c99db"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/UserService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="792">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"UserService.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/repositories/RoleRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"RoleRepository.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,75,10,19,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,18,25,101,120,112,117,105,47,110,111,100,101,115,47,105,110,116,101,114,102,97,99,101,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-34,-46,-26,-50,-2,-1,-1,-1,-1,1,48,1]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Dockerfile","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-95,1,10,-98,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,108,98,101,114,116,111,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,73,100,101,97,73,67,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,100,111,99,107,101,114,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"application.properties","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-95,1,10,-98,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,108,98,101,114,116,111,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,73,100,101,97,73,67,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,115,111,117,114,99,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/dto/RegisterRequestDTO.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"RegisterRequestDTO.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,69,10,16,110,111,100,101,115,47,114,101,99,111,114,100,46,115,118,103,18,22,101,120,112,117,105,47,110,111,100,101,115,47,114,101,99,111,114,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-109,-93,-74,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/dto/ResponseDTO.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ResponseDTO.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,69,10,16,110,111,100,101,115,47,114,101,99,111,114,100,46,115,118,103,18,22,101,120,112,117,105,47,110,111,100,101,115,47,114,101,99,111,114,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-109,-93,-74,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 145,
+      "lastUsed": 1737316582444
+    },
+    "XML": {
+      "usageCount": 9,
+      "lastUsed": 1737316578452
+    },
+    "textmate": {
+      "usageCount": 10,
+      "lastUsed": 1737316582394
+    },
+    "Properties": {
+      "usageCount": 9,
+      "lastUsed": 1737316582377
+    },
+    "CLASS": {
+      "usageCount": 1,
+      "lastUsed": 1737142100129
+    }
+  }
+}]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/alberto/Desktop/Projects/login-app-backend-main/login-app-backend-main/Dockerfile",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/login-app-backend-main/src/main/resources/application.properties",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/login-app-backend-main/pom.xml",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/login-app-backend-main/src/main/java/com/example/loginauthapi/LoginAuthApiApplication.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/infra/cors/CorsConfig.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/dto/RegisterRequestDTO.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/infra/security/CustomUserDetailsService.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/resources/application.properties",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/validation/ValidationException.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/validation/ValidationService.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/repositories/roleRepository.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/repositories/RoleRepository.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/domain/role/Role.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/domain/user/User.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/controllers/AuthController.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/infra/security/SecurityFilter.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/infra/security/SecurityConfig.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/repositories/UserRepository.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/domain/role/AppRole.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/controllers/AdminController.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/services/AdminService.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/services/UserService.java",
+    "/home/alberto/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/services/RoleInitializer.java"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="145" lastUsage="1737316582444" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="9" lastUsage="1737316582377" />
+    </language>
+    <language id="XML">
+      <summary usageCount="9" lastUsage="1737316578452" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="10" lastUsage="1737316582394" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="login-auth-api" type="20da4fc8:ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.LoginAuthApiApplication" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.08124347" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.08124347" />
+      <window_info id="Pull Requests" order="2" weight="0.16274817" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.27007648" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33030593" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.33030593" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.33030593" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.24617592" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32993728" />
+      <unified_weights bottom="0.24617592" left="0.08124347" right="0.32993728" />
+    </layoutV2>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Pull Requests</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Maven</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="796" y="371" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1737057440579">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="796" y="371" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737057440579" />
+    <state width="1832" height="215" key="GridCell.Tab.0.bottom" timestamp="1737142347476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737142347476" />
+    <state width="1832" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1735061794623" />
+    <state width="1832" height="215" key="GridCell.Tab.0.center" timestamp="1737142347476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="215" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737142347476" />
+    <state width="1832" height="303" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1735061794623" />
+    <state width="1832" height="215" key="GridCell.Tab.0.left" timestamp="1737142347476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="215" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737142347476" />
+    <state width="1832" height="303" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1735061794623" />
+    <state width="1832" height="215" key="GridCell.Tab.0.right" timestamp="1737142347476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="215" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737142347476" />
+    <state width="1832" height="303" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1735061794623" />
+    <state width="1832" height="215" key="GridCell.Tab.1.bottom" timestamp="1737142347476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="215" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737142347476" />
+    <state width="1832" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1735061794623" />
+    <state width="1832" height="215" key="GridCell.Tab.1.center" timestamp="1737142347476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="215" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737142347476" />
+    <state width="1832" height="303" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1735061794623" />
+    <state width="1832" height="215" key="GridCell.Tab.1.left" timestamp="1737142347476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="215" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737142347476" />
+    <state width="1832" height="303" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1735061794623" />
+    <state width="1832" height="215" key="GridCell.Tab.1.right" timestamp="1737142347476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="215" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737142347476" />
+    <state width="1832" height="303" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1735061794623" />
+    <state x="554" y="241" width="802" height="539" key="Vcs.Push.Dialog.v2" timestamp="1737316660417">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="241" width="802" height="539" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737316660417" />
+    <state x="667" y="314" key="refactoring.ChangeSignatureDialog" timestamp="1737140338423">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="314" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737140338423" />
+    <state x="624" y="243" key="run.anything.popup" timestamp="1737058502296">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="243" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737058502296" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jrt:///usr/lib/jvm/java-21-openjdk!/java.base/java/lang/Throwable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <element signature="e#3035#3036#0" expanded="true" />
+            <element signature="e#3076#3077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/RoleInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/TokenService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="48" column="1" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="40" column="5" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/CustomUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="85" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/LoginAuthApiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="45" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/cors/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/repositories/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/dto/RegisterRequestDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/dto/ResponseDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/role/AppRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/repositories/RoleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/validation/ValidationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/validation/ValidationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="119" column="63" selection-start-line="119" selection-start-column="63" selection-end-line="119" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/dto/LoginRequestDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

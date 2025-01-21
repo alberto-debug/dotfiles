@@ -1,0 +1,4 @@
+2024-12-25 10:41:33.435 [info] Started local extension host with pid 535929.
+2024-12-25 10:41:36.701 [info] [perf] Render performance baseline is 466ms
+2024-12-25 10:58:01.636 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2024-12-25 11:01:43.438 [error] lock() request could not be registered.: Error: lock() request could not be registered.

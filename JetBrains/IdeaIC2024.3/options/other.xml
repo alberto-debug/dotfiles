@@ -1,0 +1,74 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell" />
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.52671754",
+    "InstalledPluginsSearchHistory": "ideavim\nideavi\nideav\nidea\nide",
+    "JUnitSupport.hidePassedTests": "false",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "MarketplacePluginsSearchHistory": "moonlight\nmoonli\nmoon\n/tag:Keymap\nideavim",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NextRunPlatformUpdateBuild": "IC-243.23654.117",
+    "NextRunPlatformUpdateSelfBuild": "IC-243.21565.193",
+    "NextRunPlatformUpdateVersion": "2024.3.2",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "SettingsSearchHistory": "lombo\nfont",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "decompiler.legal.notice.accepted": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.21565.193",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "4",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1735027928468",
+    "ignore.ide.script.launcher.used": "true",
+    "installed.kotlin.plugin.version": "243.21565.193-IJ",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "/home/alberto/Desktop/Projects/login-app-backend-main",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.autoReset": "true",
+    "mt.showInstallAtom": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "_@user_Trash Panda Theme (Starlight)",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "promo.framework.suggestion.dismissed.spring.boot": "true",
+    "promo.ignore.ultimate.edition": "true",
+    "registry.to.advanced.settings.migration.build": "IC-243.21565.193"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/alberto/Desktop/Projects/login-app-backend-main",
+      "/home/alberto/Desktop/Projects/login-app-backend-main/login-app-backend-main",
+      "/home/alberto/Desktop/Projects/deli",
+      "/home/alberto/Desktop/Projects/bookRegistration",
+      "/home/alberto/Desktop/Projects/Requests",
+      "/home/alberto/Desktop/Projects/registration",
+      "/home/alberto/Desktop/Projects/server/src",
+      "/home/alberto/Desktop/Projects/server",
+      "/home/alberto/Desktop/data_structures",
+      "/home/alberto/Desktop/Projects/demo",
+      "/home/alberto/Desktop/Projects/Financial-Tracker--Backend"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

@@ -1,0 +1,25 @@
+{
+  "author": "acct_eaac0bf9ea354bb1ac35643eecf733b1",
+  "authorAccount": {
+    "email": "albertojunior848423803@gmail.com",
+    "firstName": "ALBERTO",
+    "lastName": "JUNIOR"
+  },
+  "created": "2024-12-13T22:25:39.362Z",
+  "description": "",
+  "id": "0ae3a7e8a532f84789e917aa6e11d962dc627616",
+  "name": "Initial Snapshot",
+  "parent": "0000000000000000000000000000000000000000",
+  "state": [
+    {
+      "blob": "4d32ce7749bb95e4e70a56a69fb7b6bc163a9d6f",
+      "key": "env_08b273cdec1e9336f7395018356f3f7dd257a760",
+      "name": "Base Environment"
+    },
+    {
+      "blob": "6a8600a19904fd9ec489b2df55f863543cabd910",
+      "key": "wrk_1fe34433f64c44d0a51dc22c21c72f65",
+      "name": "My Collection"
+    }
+  ]
+}

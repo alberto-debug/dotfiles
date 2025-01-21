@@ -1,0 +1,14 @@
+2025-01-03 21:41:27.788 [info] Started local extension host with pid 94023.
+2025-01-03 21:41:31.301 [info] [perf] Render performance baseline is 463ms
+2025-01-03 21:47:09.665 [error] [Extension Host] Request to the NPM repository failed: {"error":"The 'text' parameter must be between 2 and 64 characters","code":"ERR_TEXT_LENGTH"}
+2025-01-03 22:17:52.710 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Yd.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:30917)
+    at Yd.updateChildren (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:416:30824)
+    at vZ.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2054:35241)
+    at x.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:817)
+    at x.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:1034)
+    at Fme.setVisible (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:532:2801)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:648:11845
+    at Array.map (<anonymous>)
+    at sh.setVisible (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:648:11836)

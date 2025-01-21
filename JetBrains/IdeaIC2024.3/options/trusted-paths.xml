@@ -1,0 +1,30 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Projects/Financial-Tracker--Backend" value="true" />
+        <entry key="$USER_HOME$/Desktop/Projects/Requests" value="true" />
+        <entry key="$USER_HOME$/Desktop/Projects/bookRegistration" value="true" />
+        <entry key="$USER_HOME$/Desktop/Projects/deli" value="true" />
+        <entry key="$USER_HOME$/Desktop/Projects/demo" value="true" />
+        <entry key="$USER_HOME$/Desktop/Projects/login-app-backend-main" value="true" />
+        <entry key="$USER_HOME$/Desktop/Projects/login-app-backend-main/login-app-backend-main" value="true" />
+        <entry key="$USER_HOME$/Desktop/Projects/registration" value="true" />
+        <entry key="$USER_HOME$/Desktop/Projects/server" value="true" />
+        <entry key="$USER_HOME$/Desktop/data_structures/Arrays" value="true" />
+        <entry key="$USER_HOME$/Desktop/data_structures/LinkedList" value="true" />
+        <entry key="$USER_HOME$/Desktop/data_structures/Queue" value="true" />
+        <entry key="$USER_HOME$/Desktop/data_structures/Trees" value="true" />
+        <entry key="$USER_HOME$/Desktop/data_structures/linked" value="true" />
+        <entry key="$USER_HOME$/Desktop/data_structures/stack" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/Projects" />
+      </list>
+    </option>
+  </component>
+</application>

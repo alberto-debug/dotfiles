@@ -1,0 +1,3 @@
+com.chrisrm.idea.MaterialThemeUI
+Lombook Plugin
+com.intellij.marketplace

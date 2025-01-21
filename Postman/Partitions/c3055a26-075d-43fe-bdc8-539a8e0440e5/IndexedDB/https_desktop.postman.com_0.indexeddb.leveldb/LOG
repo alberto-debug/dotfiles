@@ -1,0 +1,6 @@
+2024/12/14-11:41:21.106 7364 Reusing MANIFEST /home/alberto/.config/Postman/Partitions/c3055a26-075d-43fe-bdc8-539a8e0440e5/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/14-11:41:21.106 7364 Recovering log #6
+2024/12/14-11:41:21.150 7364 Reusing old log /home/alberto/.config/Postman/Partitions/c3055a26-075d-43fe-bdc8-539a8e0440e5/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/000006.log 
+2024/12/14-11:41:21.270 7375 Level-0 table #12: started
+2024/12/14-11:41:21.297 7375 Level-0 table #12: 1598196 bytes OK
+2024/12/14-11:41:21.299 7375 Delete type=0 #6

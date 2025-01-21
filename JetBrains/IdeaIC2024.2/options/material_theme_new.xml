@@ -1,0 +1,20 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="84ffff" />
+      </MTAccentConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="userId" value="-3eea23e9:192e7eb11a1:-8000" />
+        <option name="version" value="9.5.0" />
+      </MTMetadataState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="DEEPOCEAN" />
+      </MTThemeConfigState>
+    </option>
+  </component>
+</application>

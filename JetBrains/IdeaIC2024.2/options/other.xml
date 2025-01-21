@@ -1,0 +1,56 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell" />
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.52671754",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "MarketplacePluginsSearchHistory": "icon\nic\ni\n/tag:Theme\n/suggested",
+    "NextRunPlatformUpdateBuild": "IC-243.21565.193",
+    "NextRunPlatformUpdateVersion": "2024.3",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "SettingsSearchHistory": "font",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.23726.103",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "12.0",
+    "ide.memory.adjusted": "true",
+    "ignore.ide.script.launcher.used": "true",
+    "installed.kotlin.plugin.version": "242.23726.103-IJ",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "/home/alberto/Desktop/data_structures",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.autoReset": "true",
+    "mt.showInstallAtom": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "_@user_Material Deep Ocean",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "promo.framework.suggestion.dismissed.spring.boot": "true",
+    "registry.to.advanced.settings.migration.build": "IC-242.23726.103"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/alberto/Desktop/data_structures",
+      "/home/alberto/Desktop/Projects/demo",
+      "/home/alberto/Desktop/Projects/Financial-Tracker--Backend"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

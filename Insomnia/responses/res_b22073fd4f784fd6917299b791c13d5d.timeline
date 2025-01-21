@@ -1,0 +1,25 @@
+{"value":"Preparing request to http://localhost:8080/api/student/register","name":"Text","timestamp":1735056732028}
+{"value":"Current time is 2024-12-24T16:12:12.028Z","name":"Text","timestamp":1735056732028}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1735056732028}
+{"value":"Using default HTTP version","name":"Text","timestamp":1735056732029}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1735056732029}
+{"value":"Enable SSL validation","name":"Text","timestamp":1735056732029}
+{"name":"Text","value":"Too old connection (2211 seconds), disconnect it\n","timestamp":1735056732029}
+{"name":"Text","value":"Connection 12 seems to be dead!\n","timestamp":1735056732029}
+{"name":"Text","value":"Closing connection 12\n","timestamp":1735056732029}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1735056732029}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1735056732029}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#13)\n","timestamp":1735056732030}
+{"name":"HeaderOut","value":"POST /api/student/register HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 72\r\n\r\n","timestamp":1735056732030}
+{"name":"DataOut","value":"{\n  \"name\": \"Albertooo junior\",\n  \"email\" : \"albertojunior@gmail.com\"\n}\n","timestamp":1735056732030}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1735056732774}
+{"name":"HeaderIn","value":"HTTP/1.1 500 \r\n","timestamp":1735056732774}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1735056732774}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1735056732774}
+{"name":"HeaderIn","value":"Date: Tue, 24 Dec 2024 16:12:12 GMT\r\n","timestamp":1735056732774}
+{"name":"HeaderIn","value":"Connection: close\r\n","timestamp":1735056732774}
+{"name":"HeaderIn","value":"\r\n","timestamp":1735056732774}
+{"name":"Text","value":"Received 7.9 KB chunk","timestamp":1735056732774}
+{"name":"Text","value":"Received 5.8 KB chunk","timestamp":1735056732775}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1735056732776}
+{"name":"Text","value":"Closing connection 13\n","timestamp":1735056732776}

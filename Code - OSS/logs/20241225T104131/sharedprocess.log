@@ -1,0 +1,29 @@
+2024-12-25 10:52:20.859 [info] Getting Manifest... emmanuelbeziat.vscode-great-icons
+2024-12-25 10:52:23.040 [info] Installing extension: emmanuelbeziat.vscode-great-icons {"pinned":true,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alberto/.vscode-oss/extensions/extensions.json","path":"/home/alberto/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-25 10:52:25.519 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-12-25 10:52:25.519 [info] Extension signature verification is not done: emmanuelbeziat.vscode-great-icons
+2024-12-25 10:52:26.372 [info] Extracted extension to file:///home/alberto/.vscode-oss/extensions/emmanuelbeziat.vscode-great-icons-2.1.111-universal: emmanuelbeziat.vscode-great-icons
+2024-12-25 10:52:26.379 [info] Renamed to /home/alberto/.vscode-oss/extensions/emmanuelbeziat.vscode-great-icons-2.1.111-universal
+2024-12-25 10:52:26.407 [info] Marked extension as uninstalled emmanuelbeziat.vscode-great-icons-2.1.110-universal
+2024-12-25 10:52:26.414 [info] Extension installed successfully: emmanuelbeziat.vscode-great-icons vscode-userdata:/home/alberto/.vscode-oss/extensions/extensions.json
+2024-12-25 10:52:26.478 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/alberto/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/alberto/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-12-25 10:53:17.519 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-12-25 10:53:18.066 [info] Installing extension: vscode-icons-team.vscode-icons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alberto/.vscode-oss/extensions/extensions.json","path":"/home/alberto/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-12-25 10:53:40.348 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-12-25 10:53:40.349 [info] Extension signature verification is not done: vscode-icons-team.vscode-icons
+2024-12-25 10:53:42.977 [info] Extracted extension to file:///home/alberto/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.10.0-universal: vscode-icons-team.vscode-icons
+2024-12-25 10:53:42.984 [info] Renamed to /home/alberto/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.10.0-universal
+2024-12-25 10:53:43.021 [info] Extension installed successfully: vscode-icons-team.vscode-icons vscode-userdata:/home/alberto/.vscode-oss/extensions/extensions.json
+2024-12-25 10:53:43.078 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/alberto/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/alberto/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
