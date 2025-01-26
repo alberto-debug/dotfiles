@@ -30,7 +30,7 @@
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
     "NextRunPlatformUpdateBuild": "IC-243.23654.153",
-    "NextRunPlatformUpdateSelfBuild": "IC-243.21565.193",
+    "NextRunPlatformUpdateSelfBuild": "IC-243.22562.218",
     "NextRunPlatformUpdateVersion": "2024.3.2.1",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
@@ -42,7 +42,7 @@
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.used.version": "243.21565.193",
+    "experimental.ui.used.version": "243.22562.218",
     "file.gist.reindex.count": "2",
     "fileTypeChangedCounter": "4",
     "fontSizeToResetConsole": "13.0",
@@ -50,7 +50,7 @@
     "ide.memory.adjusted": "true",
     "ideavim.statistics.timestamp": "1735027928468",
     "ignore.ide.script.launcher.used": "true",
-    "installed.kotlin.plugin.version": "243.21565.193-IJ",
+    "installed.kotlin.plugin.version": "243.22562.218-IJ",
     "jdk.selected.JAVA_MODULE": "21",
     "last_opened_file_path": "/home/alberto/Desktop/Projects/login-app-backend-main",
     "migrated.non.roamable.values.from.general.settings": "true",
@@ -61,7 +61,7 @@
     "project.wizard.group": "NPW.simple-project.Java",
     "promo.framework.suggestion.dismissed.spring.boot": "true",
     "promo.ignore.ultimate.edition": "true",
-    "registry.to.advanced.settings.migration.build": "IC-243.21565.193"
+    "registry.to.advanced.settings.migration.build": "IC-243.22562.218"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [

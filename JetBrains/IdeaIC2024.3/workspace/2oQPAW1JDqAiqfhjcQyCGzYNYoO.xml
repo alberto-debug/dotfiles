@@ -7,7 +7,7 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="fmaox40wqrqv" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+    <leaf ideFingerprint="2xpc5u13uv1vd" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file>
         <entry file="file://$PROJECT_DIR$/src/arrayTraverse.java">
           <provider editor-type-id="text-editor" selected="true">
@@ -21,20 +21,20 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ArrayInsertion.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="506">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"ArrayInsertion.java","foregroundColor":-13854245,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"2c99db"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"ArrayInsertion.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 26,
-      "lastUsed": 1737711301559
+      "usageCount": 28,
+      "lastUsed": 1737923308740
     },
     "DIFF": {
       "usageCount": 1,
@@ -46,16 +46,16 @@
     <expand>
       <path>
         <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
-        <item name="LOCAL" type="ae103dac:GitBranchType" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
       </path>
     </expand>
     <select />
   </component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "/home/alberto/Desktop/data_structures/Arrays/src/ArrayInsertion.java"
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/alberto/Desktop/data_structures/Arrays/src/ArrayInsertion.java&quot;
   ]
-}]]></component>
+}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -65,7 +65,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="26" lastUsage="1737711301559" />
+      <summary usageCount="28" lastUsage="1737923308741" />
     </language>
   </component>
   <component name="ProjectView">
@@ -76,7 +76,7 @@
     <layoutV2>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15664226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Commit" order="2" visible="true" weight="0.1565445" />
+      <window_info active="true" id="Commit" order="2" visible="true" weight="0.15647858" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
@@ -89,11 +89,11 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.3296439" left="0.1565445" />
+      <unified_weights bottom="0.3296439" left="0.15647858" />
     </layoutV2>
     <recentWindows>
-      <value>Run</value>
       <value>Commit</value>
+      <value>Run</value>
       <value>Project</value>
     </recentWindows>
   </component>
@@ -130,10 +130,10 @@
     </state>
     <state width="1830" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1732181107715" />
     <state width="1830" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1731872541506" />
-    <state x="559" y="272" width="800" height="541" key="Vcs.Push.Dialog.v2" timestamp="1732181020211">
+    <state x="559" y="272" width="800" height="541" key="Vcs.Push.Dialog.v2" timestamp="1737923533148">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="559" y="272" width="800" height="500" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1732181020211" />
+    <state x="559" y="272" width="800" height="500" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737923533148" />
     <state x="559" y="272" width="800" height="541" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1731874923377" />
     <state x="559" y="133" width="800" height="779" key="new project wizard" timestamp="1731362916271">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -149,17 +149,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayInsertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/arrayTraverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayInsertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

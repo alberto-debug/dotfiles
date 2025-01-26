@@ -258,37 +258,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/data_structures/Arrays">
+        <entry key="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java">
           <value>
-            <RecentProjectMetaInfo frameTitle="Arrays – ArrayInsertion.java" projectWorkspaceId="2oQPAW1JDqAiqfhjcQyCGzYNYoO">
-              <option name="activationTimestamp" value="1737711711065" />
+            <RecentProjectMetaInfo frameTitle="codecrafters-shell-java – Main.java" projectWorkspaceId="2s9uXwaUAWFVA95rfmMXoK6g2Pj">
+              <option name="activationTimestamp" value="1737923306354" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-243.21565.193" />
               <option name="buildTimestamp" value="1731634860000" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
+                <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="962" y="528" width="955" height="521" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1737711301480" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java">
-          <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2s9uXwaUAWFVA95rfmMXoK6g2Pj">
-              <option name="activationTimestamp" value="1737884756659" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-243.21565.193" />
-              <option name="buildTimestamp" value="1731634860000" />
+              <frame x="3" y="3" width="1914" height="1046" />
               <option name="productionCode" value="IC" />
               <option name="projectOpenTimestamp" value="1737880154419" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/data_structures/Arrays">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Arrays – ArrayInsertion.java" opened="true" projectWorkspaceId="2oQPAW1JDqAiqfhjcQyCGzYNYoO">
+              <option name="activationTimestamp" value="1737923641557" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.22562.218" />
+              <option name="buildTimestamp" value="1735896480000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1737923308600" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/data_structures/Arrays" />
     <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Projects/codecrafters" />
   </component>
 </application>

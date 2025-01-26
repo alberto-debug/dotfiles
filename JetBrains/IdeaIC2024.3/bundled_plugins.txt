@@ -12,6 +12,8 @@ Subversion|Version Controls
 
 TestNG-J|Test Tools
 
+com.android.tools.gradle.dcl|null
+
 com.intellij.completion.ml.ranking|Local AI/ML Tools
 
 com.intellij.configurationScript|null
