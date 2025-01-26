@@ -1,0 +1,365 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="codecrafters-shell-java" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="fmaox40wqrqv">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-95,1,10,-98,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,108,98,101,114,116,111,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,73,100,101,97,73,67,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,114,101,97,100,109,101,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="484">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-13854245,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"2c99db"}},{"name":"option","attributes":{"name":"EFFECT_COLOR","value":"e8626f"}},{"name":"option","attributes":{"name":"EFFECT_TYPE","value":"2"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/your_program.sh">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"your_program.sh","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-96,1,10,-99,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,108,98,101,114,116,111,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,73,100,101,97,73,67,50,48,50,52,46,51,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,115,104,101,108,108,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1737880167446
+    },
+    "Shell Script": {
+      "usageCount": 1,
+      "lastUsed": 1737880522346
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1737880156792
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src/main/java/Main.java"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1737880167446" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1737880156794" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1737880522346" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codecrafters-shell-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codecrafters-shell-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codecrafters-shell-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codecrafters-shell-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="codecrafters-shell-java" />
+            <item name="codecrafters-shell-java" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="codecrafters-shell-java" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.codecrafters" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text=".codecrafters" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/.codecrafters}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="src" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="main" />
+                  <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="java" />
+                    <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/Main.java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Main" />
+                      <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="target" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitattributes" />
+                <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/;" />
+                  </map>
+                </attributes>
+                <data iconPath="files/expui/fileTypes/text.svg" iconPlugin="com.mallowigi" isLeaf="true" text=";" />
+                <item name=";" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/codecrafters.yml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="codecrafters.yml" />
+                <item name="codecrafters.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/your_program.sh" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="your_program.sh" />
+                <item name="your_program.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16222571" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.33030593" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.33030593" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.33030593" left="0.16222571" />
+    </layoutV2>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="117" key="#Project_Structure" timestamp="1737880632832">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="447" y="117" key="#Project_Structure/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737880632832" />
+    <state width="1832" height="303" key="GridCell.Tab.0.bottom" timestamp="1737883831440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737883831440" />
+    <state width="1832" height="303" key="GridCell.Tab.0.center" timestamp="1737883831440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737883831440" />
+    <state width="1832" height="303" key="GridCell.Tab.0.left" timestamp="1737883831440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737883831440" />
+    <state width="1832" height="303" key="GridCell.Tab.0.right" timestamp="1737883831440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737883831440" />
+    <state width="1832" height="303" key="GridCell.Tab.1.bottom" timestamp="1737883831440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737883831440" />
+    <state width="1832" height="303" key="GridCell.Tab.1.center" timestamp="1737883831440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737883831440" />
+    <state width="1832" height="303" key="GridCell.Tab.1.left" timestamp="1737883831440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737883831440" />
+    <state width="1832" height="303" key="GridCell.Tab.1.right" timestamp="1737883831440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1737883831440" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/your_program.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

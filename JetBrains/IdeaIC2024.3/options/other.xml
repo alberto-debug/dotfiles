@@ -1,5 +1,16 @@
 <application>
   <component name="FileEditorProviderManager">{}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 23.0.2" />
+        <option name="installDir" value="/home/alberto/.jdks/openjdk-23.0.2" />
+        <option name="sha256" value="017f4ed8e8234d85e5bc1e490bb86f23599eadb6cfc9937ee87007b977a7d762" />
+        <option name="url" value="https://download.java.net/java/GA/jdk23.0.2/6da2a6609d6e406f85c491fcb119101b/7/GPL/openjdk-23.0.2_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="23.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
@@ -14,13 +25,13 @@
     "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.52671754",
     "InstalledPluginsSearchHistory": "ideavim\nideavi\nideav\nidea\nide",
     "JUnitSupport.hidePassedTests": "false",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
     "MarketplacePluginsSearchHistory": "moonlight\nmoonli\nmoon\n/tag:Keymap\nideavim",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
-    "NextRunPlatformUpdateBuild": "IC-243.23654.117",
+    "NextRunPlatformUpdateBuild": "IC-243.23654.153",
     "NextRunPlatformUpdateSelfBuild": "IC-243.21565.193",
-    "NextRunPlatformUpdateVersion": "2024.3.2",
+    "NextRunPlatformUpdateVersion": "2024.3.2.1",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "SettingsSearchHistory": "lombo\nfont",
@@ -28,6 +39,7 @@
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
     "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "243.21565.193",
@@ -53,6 +65,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java",
       "/home/alberto/Desktop/Projects/login-app-backend-main",
       "/home/alberto/Desktop/Projects/login-app-backend-main/login-app-backend-main",
       "/home/alberto/Desktop/Projects/deli",

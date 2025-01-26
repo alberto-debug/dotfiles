@@ -50,22 +50,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/data_structures/Arrays">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Arrays – ArrayInsertion.java" projectWorkspaceId="2oQPAW1JDqAiqfhjcQyCGzYNYoO">
-              <option name="activationTimestamp" value="1732181107732" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-242.23726.103" />
-              <option name="buildTimestamp" value="1730668260000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="3" y="3" width="1912" height="1039" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1732178404224" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Desktop/data_structures/linked">
           <value>
             <RecentProjectMetaInfo frameTitle="linked – LinkedList.java" projectWorkspaceId="2oiqoJJ2JPSXIeSnDZlKix8WhnH">
@@ -228,7 +212,7 @@
         </entry>
         <entry key="$USER_HOME$/Desktop/Projects/login-app-backend-main">
           <value>
-            <RecentProjectMetaInfo frameTitle="login-app-backend-main – AdminController.java" opened="true" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+            <RecentProjectMetaInfo frameTitle="login-app-backend-main – AdminController.java" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
               <option name="activationTimestamp" value="1737316846459" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-243.21565.193" />
@@ -242,9 +226,69 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/algorithm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="algorithm" projectWorkspaceId="2s4OBJuBKUMvJZJSFS9tdVDUEjJ">
+              <option name="activationTimestamp" value="1737711275990" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.21565.193" />
+              <option name="buildTimestamp" value="1731634860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1737711246351" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/algorithm-class">
+          <value>
+            <RecentProjectMetaInfo frameTitle="algorithm-class – Main.java" projectWorkspaceId="2s4OFBBEJaQPh2kNC9Bo0EBtlFz">
+              <option name="activationTimestamp" value="1737880152920" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.21565.193" />
+              <option name="buildTimestamp" value="1731634860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1737711277300" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/data_structures/Arrays">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Arrays – ArrayInsertion.java" projectWorkspaceId="2oQPAW1JDqAiqfhjcQyCGzYNYoO">
+              <option name="activationTimestamp" value="1737711711065" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.21565.193" />
+              <option name="buildTimestamp" value="1731634860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="962" y="528" width="955" height="521" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1737711301480" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2s9uXwaUAWFVA95rfmMXoK6g2Pj">
+              <option name="activationTimestamp" value="1737884756659" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.21565.193" />
+              <option name="buildTimestamp" value="1731634860000" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1737880154419" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/login-app-backend-main" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Projects" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Projects/codecrafters" />
   </component>
 </application>
