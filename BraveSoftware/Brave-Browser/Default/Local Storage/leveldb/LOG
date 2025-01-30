@@ -1,21 +1,10 @@
-2025/01/13-23:56:00.823 4 Reusing MANIFEST /home/alberto/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2025/01/13-23:56:00.835 4 Recovering log #148
-2025/01/13-23:56:00.838 4 Level-0 table #151: started
-2025/01/13-23:56:00.843 4 Level-0 table #151: 95446 bytes OK
-2025/01/13-23:56:00.844 4 Recovering log #151
-2025/01/13-23:56:00.845 4 Reusing old log /home/alberto/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000151.log 
-2025/01/13-23:56:00.849 4 Delete type=0 #148
-2025/01/13-23:56:00.850 5 Compacting 4@0 + 1@1 files
-2025/01/13-23:56:00.871 5 Generated table #152@0: 522 keys, 282914 bytes
-2025/01/13-23:56:00.871 5 Compacted 4@0 + 1@1 files => 282914 bytes
-2025/01/13-23:56:00.873 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/01/13-23:56:00.875 5 Delete type=2 #141
-2025/01/13-23:56:00.876 5 Delete type=2 #147
-2025/01/13-23:56:00.876 5 Delete type=2 #144
-2025/01/13-23:56:00.876 5 Delete type=2 #149
-2025/01/13-23:56:00.876 5 Delete type=2 #151
-2025/01/13-23:56:51.710 5 Level-0 table #154: started
-2025/01/13-23:56:51.720 5 Level-0 table #154: 105882 bytes OK
-2025/01/13-23:56:51.729 5 Delete type=0 #151
-2025/01/13-23:57:27.413 5 Level-0 table #156: started
-2025/01/13-23:57:27.418 5 Level-0 table #156: 13887 bytes OK
+2025/01/28-16:57:34.315 4 Reusing MANIFEST /home/alberto/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/01/28-16:57:34.323 4 Recovering log #153
+2025/01/28-16:57:34.324 4 Level-0 table #156: started
+2025/01/28-16:57:34.327 4 Level-0 table #156: 13887 bytes OK
+2025/01/28-16:57:34.327 4 Recovering log #155
+2025/01/28-16:57:34.328 4 Reusing old log /home/alberto/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000155.log 
+2025/01/28-16:57:34.331 4 Delete type=0 #153
+2025/01/28-16:59:35.786 4 Level-0 table #158: started
+2025/01/28-16:59:35.793 4 Level-0 table #158: 99114 bytes OK
+2025/01/28-16:59:35.795 4 Delete type=0 #155
