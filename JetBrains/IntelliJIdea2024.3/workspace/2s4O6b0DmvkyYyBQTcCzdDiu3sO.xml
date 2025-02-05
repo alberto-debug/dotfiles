@@ -1,0 +1,190 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Projects" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Projects" />
+            <item name="Projects" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="Projects" />
+              <item name="dir{file:///home/alberto/Desktop/Projects}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/algorithm" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="algorithm" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/algorithm}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bookRegistration" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="bookRegistration" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/bookRegistration}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Clock" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Clock" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/Clock}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Cyberene" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Cyberene" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/Cyberene}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/deli" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="deli" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/deli}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/demo" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="demo" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/demo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Financial-Tracker--Backend" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Financial-Tracker--Backend" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/Financial-Tracker--Backend}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="go" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/go}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Go-Course" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Go-Course" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/Go-Course}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/login-app-backend-main" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="login-app-backend-main" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/login-app-backend-main}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/registration" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="registration" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/registration}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Requests" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Requests" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/Requests}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/server" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="server" />
+                <item name="dir{file:///home/alberto/Desktop/Projects/server}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16432291" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.16432291" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+</project>

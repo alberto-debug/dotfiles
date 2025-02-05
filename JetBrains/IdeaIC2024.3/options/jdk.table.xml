@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="21" />
       <type value="JavaSDK" />
-      <version value="21.0.5" />
+      <version value="21.0.6" />
       <homePath value="/usr/lib/jvm/java-21-openjdk" />
       <roots>
         <annotationsPath>

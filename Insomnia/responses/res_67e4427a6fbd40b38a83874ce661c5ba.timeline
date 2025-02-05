@@ -1,0 +1,21 @@
+{"value":"Preparing request to http://localhost:8080/api/getAll","name":"Text","timestamp":1738355975131}
+{"value":"Current time is 2025-01-31T20:39:35.131Z","name":"Text","timestamp":1738355975131}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1738355975131}
+{"value":"Using default HTTP version","name":"Text","timestamp":1738355975132}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1738355975132}
+{"value":"Enable SSL validation","name":"Text","timestamp":1738355975132}
+{"name":"Text","value":"Found bundle for host: 0x56804c1a4c0 [serially]\n","timestamp":1738355975133}
+{"name":"Text","value":"Can not multiplex, even if we wanted to\n","timestamp":1738355975133}
+{"name":"Text","value":"Re-using existing connection #17 with host localhost\n","timestamp":1738355975133}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#17)\n","timestamp":1738355975133}
+{"name":"HeaderOut","value":"GET /api/getAll HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 87\r\n\r\n","timestamp":1738355975133}
+{"name":"DataOut","value":"{\n    \"name\": \"Alberto\",\n    \"email\": \"test@gmail.com\",\n    \"password\": \"Peteleco1.\"\n}\n","timestamp":1738355975133}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1738355975144}
+{"name":"HeaderIn","value":"HTTP/1.1 200 \r\n","timestamp":1738355975144}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1738355975144}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1738355975144}
+{"name":"HeaderIn","value":"Date: Fri, 31 Jan 2025 20:39:35 GMT\r\n","timestamp":1738355975144}
+{"name":"HeaderIn","value":"\r\n","timestamp":1738355975144}
+{"name":"Text","value":"Received 42 B chunk","timestamp":1738355975144}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1738355975144}
+{"name":"Text","value":"Connection #17 to host localhost left intact\n","timestamp":1738355975144}

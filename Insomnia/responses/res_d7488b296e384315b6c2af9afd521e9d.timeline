@@ -1,0 +1,22 @@
+{"value":"Preparing request to http://localhost:8080/api/register","name":"Text","timestamp":1738322123636}
+{"value":"Current time is 2025-01-31T11:15:23.636Z","name":"Text","timestamp":1738322123636}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1738322123636}
+{"value":"Using default HTTP version","name":"Text","timestamp":1738322123637}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1738322123637}
+{"value":"Enable SSL validation","name":"Text","timestamp":1738322123637}
+{"name":"Text","value":"Found bundle for host: 0x568034f7640 [serially]\n","timestamp":1738322123638}
+{"name":"Text","value":"Can not multiplex, even if we wanted to\n","timestamp":1738322123638}
+{"name":"Text","value":"Re-using existing connection #1 with host localhost\n","timestamp":1738322123638}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#1)\n","timestamp":1738322123638}
+{"name":"HeaderOut","value":"POST /api/register HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 35\r\n\r\n","timestamp":1738322123638}
+{"name":"DataOut","value":"{\n\t\"name\": \"alberto\",\n\t\"age\": 15 \n}","timestamp":1738322123638}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1738322123648}
+{"name":"HeaderIn","value":"HTTP/1.1 405 \r\n","timestamp":1738322123649}
+{"name":"HeaderIn","value":"Allow: GET\r\n","timestamp":1738322123649}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1738322123649}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1738322123649}
+{"name":"HeaderIn","value":"Date: Fri, 31 Jan 2025 11:15:23 GMT\r\n","timestamp":1738322123649}
+{"name":"HeaderIn","value":"\r\n","timestamp":1738322123649}
+{"name":"Text","value":"Received 4.7 KB chunk","timestamp":1738322123649}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1738322123649}
+{"name":"Text","value":"Connection #1 to host localhost left intact\n","timestamp":1738322123649}

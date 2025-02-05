@@ -7,12 +7,12 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="fmaox40wqrqv" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+    <leaf ideFingerprint="2a9qoe2yvqclb" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="462">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="616">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -23,8 +23,8 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 2,
-      "lastUsed": 1737880119002
+      "usageCount": 4,
+      "lastUsed": 1738316293197
     }
   }
 }]]></component>
@@ -42,7 +42,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="2" lastUsage="1737880119011" />
+      <summary usageCount="4" lastUsage="1738316293207" />
     </language>
   </component>
   <component name="ProjectView">
@@ -60,6 +60,12 @@
               <item name="algorithm-class" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/alberto/Desktop/Projects/algorithm-class}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/alberto/Desktop/Projects/algorithm-class/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/algorithm-class}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/algorithm-class/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -107,8 +113,17 @@
                       <entry key="filePath" value="$PROJECT_DIR$/src/Main.java" />
                     </map>
                   </attributes>
-                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Main" />
-                  <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Main.java" />
+                  <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/Main.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="BinarySearch" />
+                    <item name="BinarySearch" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
                 </presentation>
               </presentation>
               <presentation>
@@ -207,12 +222,20 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1838" height="314" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1737712129732" />
+    <state x="469" y="176" key="SettingsEditor" timestamp="1738312467338">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="176" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1738312467338" />
+    <state x="698" y="249" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1738312149988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="249" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1738312149988" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="616">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
         </state>
       </provider>
     </entry>

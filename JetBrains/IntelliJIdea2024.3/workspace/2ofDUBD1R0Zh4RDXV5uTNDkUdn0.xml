@@ -1,0 +1,165 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="LinkedList" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="mnzvhp6eyggl" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="560">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-8336444,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"80cbc4"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Node.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="140">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Node.java","foregroundColor":-7367774,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="190">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LinkedList.java","foregroundColor":-8336444,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"80cbc4"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 39,
+      "lastUsed": 1732183114956
+    }
+  }
+}]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Node.java" />
+      <option value="$PROJECT_DIR$/src/LinkedList.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="39" lastUsage="1732183114956" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14937106" />
+      <window_info id="Commit" order="1" weight="0.1493201" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3296439" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3296439" left="0.14937106" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="697" y="369" key="Github.ShareDialog" timestamp="1731252031698">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="697" y="369" key="Github.ShareDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1731252031698" />
+    <state x="771" y="243" width="375" height="559" key="Github.UntrackedFilesDialog" timestamp="1731252043060">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="771" y="243" width="375" height="559" key="Github.UntrackedFilesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1731252043060" />
+    <state width="1830" height="297" key="GridCell.Tab.0.bottom" timestamp="1731273328949">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1830" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1731273328949" />
+    <state width="1830" height="297" key="GridCell.Tab.0.center" timestamp="1731273328948">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1830" height="297" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1731273328948" />
+    <state width="1830" height="297" key="GridCell.Tab.0.left" timestamp="1731273328943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1830" height="297" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1731273328943" />
+    <state width="1830" height="297" key="GridCell.Tab.0.right" timestamp="1731273328949">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1830" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1731273328949" />
+    <state x="80" y="252" key="Vcs.Push.Dialog.v2" timestamp="1731273586316">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="80" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1731273586316" />
+    <state x="559" y="133" width="800" height="779" key="new project wizard" timestamp="1732132732336">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="133" width="800" height="779" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1732132732336" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

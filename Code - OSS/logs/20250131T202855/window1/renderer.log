@@ -1,0 +1,10 @@
+2025-01-31 20:28:57.808 [info] Started local extension host with pid 955427.
+2025-01-31 20:29:00.273 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2025-01-31 20:29:00.967 [info] [perf] Render performance baseline is 28ms
+2025-01-31 20:29:03.717 [error] Timed out waiting for authentication provider to register
+2025-01-31 20:29:10.677 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/alberto/.config/Code - OSS/User/globalStorage/github.github-vscode-theme': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/alberto/.config/Code - OSS/User/globalStorage/github.github-vscode-theme'
+    at _ot.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-31 20:38:33.051 [error] [network] #3: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2025-01-31 20:38:45.086 [error] [network] #8: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2025-01-31 23:17:05.741 [warning] Settings pattern "issueReporter.*" doesn't match any settings

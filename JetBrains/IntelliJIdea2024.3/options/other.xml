@@ -1,0 +1,111 @@
+<application>
+  <component name="AILicenseTypeStorage">
+    <option name="licenseId" value="48OE4JBCSX" />
+    <option name="selectedType" value="PRO" />
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 23.0.2" />
+        <option name="installDir" value="/home/alberto/.jdks/openjdk-23.0.2" />
+        <option name="sha256" value="017f4ed8e8234d85e5bc1e490bb86f23599eadb6cfc9937ee87007b977a7d762" />
+        <option name="url" value="https://download.java.net/java/GA/jdk23.0.2/6da2a6609d6e406f85c491fcb119101b/7/GPL/openjdk-23.0.2_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="23.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell" />
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.52671754",
+    "InstalledPluginsSearchHistory": "ideavim\nideavi\nideav\nidea\nide",
+    "JUnitSupport.hidePassedTests": "false",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "MarketplacePluginsSearchHistory": "/suggested\nmoonlight\nmoonli\nmoon\n/tag:Keymap",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NextRunPlatformUpdateBuild": "IU-243.23654.189",
+    "NextRunPlatformUpdateSelfBuild": "IU-243.23654.153",
+    "NextRunPlatformUpdateVersion": "2024.3.2.2",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "SettingsSearchHistory": "lombo\nfont",
+    "WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN": "true",
+    "ai.promo.window.was.actually.shown": "true",
+    "aia.promo.page": "true",
+    "aia.promo.page.closed": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.243": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.23654.153",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "9",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1738876259212",
+    "ideavim.statistics.timestamp": "1735027928468",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "243.23654.153-IJ",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "/home/alberto/Desktop/Projects/login-app-backend-main",
+    "llm.installer.auto.activation.executed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.autoReset": "true",
+    "mt.showInstallAtom": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "_@user_Trash Panda Theme (Starlight)",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "promo.framework.suggestion.dismissed.spring.boot": "true",
+    "promo.ignore.ultimate.edition": "true",
+    "registry.to.advanced.settings.migration.build": "IU-243.23654.153",
+    "toolwindow.showToolWindowsNames.ts": "2025-01-31T00:17:56.471567347",
+    "ts.lib.d.ts.version": "5.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/alberto/Desktop/Projects/backandfront",
+      "/home/alberto/Desktop/Projects/codecrafters/codecrafters-shell-java",
+      "/home/alberto/Desktop/Projects/login-app-backend-main",
+      "/home/alberto/Desktop/Projects/login-app-backend-main/login-app-backend-main",
+      "/home/alberto/Desktop/Projects/deli",
+      "/home/alberto/Desktop/Projects/bookRegistration",
+      "/home/alberto/Desktop/Projects/Requests",
+      "/home/alberto/Desktop/Projects/registration",
+      "/home/alberto/Desktop/Projects/server/src",
+      "/home/alberto/Desktop/Projects/server",
+      "/home/alberto/Desktop/data_structures",
+      "/home/alberto/Desktop/Projects/demo",
+      "/home/alberto/Desktop/Projects/Financial-Tracker--Backend"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

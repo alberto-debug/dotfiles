@@ -1,0 +1,219 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="stack" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2xiesztg1oadj" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StackArrays.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="792">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"StackArrays.java","foregroundColor":-2105376,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 10,
+      "lastUsed": 1732891090185
+    }
+  }
+}]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/alberto/Desktop/data_structures/stack/src/StackArrays.java&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="10" lastUsage="1732891090194" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/data_structures/stack}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/data_structures/stack}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/data_structures/stack/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="stack" />
+            <item name="stack" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="stack" />
+              <item name="dir{file:///home/alberto/Desktop/data_structures/stack}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/alberto/Desktop/data_structures/stack/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="src" />
+                <item name="dir{file:///home/alberto/Desktop/data_structures/stack/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/StackArrays.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="StackArrays" />
+                  <item name="StackArrays" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/stack.iml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="stack.iml" />
+                <item name="stack.iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50051546" weight="0.13467574" />
+      <window_info active="true" id="Commit" order="1" sideWeight="0.50051546" visible="true" weight="0.13467574" />
+      <window_info id="Pull Requests" order="2" sideWeight="0.50051546" weight="0.13467574" />
+      <window_info active="true" id="Structure" order="3" sideWeight="0.49948454" side_tool="true" visible="true" weight="0.13467574" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32975942" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.13467574" right="0.32975942" />
+    </layoutV2>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+      <value>Project</value>
+      <value>Structure</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="295" key="FileChooserDialogImpl" timestamp="1732891289312">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1732891289312" />
+    <state x="697" y="369" key="Github.ShareDialog" timestamp="1732133337461">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="697" y="369" key="Github.ShareDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1732133337461" />
+    <state x="771" y="243" width="375" height="559" key="Github.UntrackedFilesDialog" timestamp="1732133341974">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="771" y="243" width="375" height="559" key="Github.UntrackedFilesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1732133341974" />
+    <state x="1995" y="193" key="SettingsEditor" timestamp="1732891222919">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1995" y="193" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1732891222919" />
+    <state x="559" y="272" width="800" height="541" key="Vcs.Push.Dialog.v2" timestamp="1732891252048">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="272" width="800" height="541" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1732891252048" />
+    <state x="2479" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1732559429840" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/StackArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

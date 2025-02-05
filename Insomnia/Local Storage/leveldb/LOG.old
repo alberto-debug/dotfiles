@@ -1,3 +1,3 @@
-2025/01/16-23:54:45.531 ec908 Reusing MANIFEST /home/alberto/.config/Insomnia/Local Storage/leveldb/MANIFEST-000001
-2025/01/16-23:54:45.553 ec908 Recovering log #3
-2025/01/16-23:54:45.555 ec908 Reusing old log /home/alberto/.config/Insomnia/Local Storage/leveldb/000003.log 
+2025/01/17-22:31:32.995 2493f Reusing MANIFEST /home/alberto/.config/Insomnia/Local Storage/leveldb/MANIFEST-000001
+2025/01/17-22:31:33.014 2493f Recovering log #3
+2025/01/17-22:31:33.015 2493f Reusing old log /home/alberto/.config/Insomnia/Local Storage/leveldb/000003.log 

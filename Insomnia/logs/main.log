@@ -1,18 +1,314 @@
-[2025-01-17 22:31:32.522] [info]  Running version 10.1.1
-[2025-01-17 22:31:32.582] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
-[2025-01-17 22:31:32.629] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
-[2025-01-17 22:31:32.750] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+[2025-01-31 14:13:45.642] [info]  Running version 10.2.0
+[2025-01-31 14:13:45.684] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2025-01-31 14:13:45.728] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2025-01-31 14:13:45.831] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
 '
-[2025-01-17 22:31:33.075] [info]  [fix] Running database repairs
-[2025-01-17 22:31:33.256] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
-[2025-01-17 22:31:33.257] [info]  [db] Init responses DB
-[2025-01-17 22:31:33.257] [info]  [db] Init websocket-responses DB
-[2025-01-17 22:31:33.260] [info]  [localstorage] Initialized at /home/alberto/.config/Insomnia/localStorage
-[2025-01-17 22:31:33.320] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
-[2025-01-17 22:31:33.349] [info]  [main] Registering the hidden window restarting handler
-[2025-01-17 22:31:33.351] [info]  [updater] Not supported on this platform linux
-[2025-01-17 22:31:35.751] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
-[2025-01-17 22:31:35.754] [info]  [main] Check args and create windows []
-[2025-01-17 22:31:35.755] [info]  [main] Checking for newer version than  10.1.1
-[2025-01-17 22:31:36.534] [info]  [main] Found newer version
-[2025-01-17 22:31:36.548] [info]  [main] Backup found at: /home/alberto/.config/Insomnia/backups/10.1.1
+[2025-01-31 14:13:46.132] [info]  [fix] Running database repairs
+[2025-01-31 14:13:46.268] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
+[2025-01-31 14:13:46.269] [info]  [db] Init responses DB
+[2025-01-31 14:13:46.269] [info]  [db] Init websocket-responses DB
+[2025-01-31 14:13:46.272] [info]  [localstorage] Initialized at /home/alberto/.config/Insomnia/localStorage
+[2025-01-31 14:13:46.347] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2025-01-31 14:13:46.377] [info]  [main] Registering the hidden window restarting handler
+[2025-01-31 14:13:46.379] [info]  [updater] Not supported on this platform linux
+[2025-01-31 14:13:46.416] [info]  [main] window focus
+[2025-01-31 14:13:48.762] [info]  [main] App update detected 10.2.0 10.1.1
+[2025-01-31 14:13:48.763] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2025-01-31 14:13:48.767] [info]  [main] Check args and create windows []
+[2025-01-31 14:13:48.768] [info]  [main] Checking for newer version than  10.2.0
+[2025-01-31 14:13:49.468] [info]  [main] Found newer version
+[2025-01-31 14:13:49.482] [info]  [main] Exported backup to: /home/alberto/.config/Insomnia/backups/10.2.0
+[2025-01-31 14:14:22.286] [info]  [main] window blur
+[2025-01-31 14:14:27.796] [info]  [main] window focus
+[2025-01-31 14:14:50.625] [info]  [main] window blur
+[2025-01-31 14:15:08.726] [info]  [main] window focus
+[2025-01-31 14:15:15.241] [info]  [main] window blur
+[2025-01-31 14:15:16.567] [info]  [main] window focus
+[2025-01-31 14:15:26.356] [info]  [main] window blur
+[2025-01-31 14:15:44.572] [info]  [main] window focus
+[2025-01-31 14:16:10.361] [info]  [main] window blur
+[2025-01-31 14:16:20.014] [info]  [main] window focus
+[2025-01-31 14:16:27.444] [info]  [main] window blur
+[2025-01-31 14:17:26.362] [info]  [main] window focus
+[2025-01-31 14:17:29.906] [info]  [main] window blur
+[2025-01-31 14:17:55.533] [info]  [main] window focus
+[2025-01-31 14:17:57.789] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/fc8b664f-d73e-44e0-9c58-0a06487e1e5c.response
+[2025-01-31 14:17:57.790] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_82bbb2290c714ce2b68c24ca37b94b64.timeline
+[2025-01-31 14:18:00.173] [info]  [main] window blur
+[2025-01-31 14:21:23.519] [info]  [main] window focus
+[2025-01-31 14:21:26.699] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/ead721a0-3d59-4516-903c-6180429b6a47.response
+[2025-01-31 14:21:26.699] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_aeabdf1622ec47719d397c5986ed798e.timeline
+[2025-01-31 14:21:28.398] [info]  [main] window blur
+[2025-01-31 14:21:56.625] [info]  [main] window focus
+[2025-01-31 14:22:11.231] [info]  [main] window blur
+[2025-01-31 14:22:27.732] [info]  [main] window focus
+[2025-01-31 14:22:30.058] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2e25fe61-698f-4798-8a9d-e18846278fbb.response
+[2025-01-31 14:22:30.060] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_3a310ebd2ea047e4a2ba101a3323427e.timeline
+[2025-01-31 14:22:34.924] [info]  [main] window blur
+[2025-01-31 14:22:55.024] [info]  [main] window focus
+[2025-01-31 14:22:56.899] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/d2b2ed36-5353-4a6c-a8fa-0bdda935be65.response
+[2025-01-31 14:22:56.899] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_674ad197f3844c71a11c6819801910e5.timeline
+[2025-01-31 14:22:57.783] [info]  [main] window blur
+[2025-01-31 14:24:07.024] [info]  [main] window focus
+[2025-01-31 14:24:09.950] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/cefc456b-b0c3-4e1d-b38e-709065ef2d85.response
+[2025-01-31 14:24:09.950] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_c3466c3b27794285b7a293c10ae79c02.timeline
+[2025-01-31 14:24:12.394] [info]  [main] window blur
+[2025-01-31 14:24:24.361] [info]  [main] window focus
+[2025-01-31 14:24:36.962] [info]  [main] window blur
+[2025-01-31 14:24:43.864] [info]  [main] window focus
+[2025-01-31 14:24:45.343] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_44cd26dfeda74db1a0295f55e347a774.timeline
+[2025-01-31 14:24:45.344] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/229f03d8-29ed-452e-82b4-9a2dbcbe56b3.response
+[2025-01-31 14:24:46.795] [info]  [main] window blur
+[2025-01-31 15:17:28.409] [info]  [main] window focus
+[2025-01-31 15:17:30.900] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2b3b3fff-85d2-438e-a311-c7ea5fe61d20.response
+[2025-01-31 15:17:30.900] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_846eecf49bcf4674b1a09ee98c054cae.timeline
+[2025-01-31 15:17:32.122] [info]  [main] window blur
+[2025-01-31 15:20:34.067] [info]  [main] window focus
+[2025-01-31 15:20:37.421] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/939586b4-6c1a-4bfc-9672-d5c68bab9fa5.response
+[2025-01-31 15:20:37.422] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_8562d03f7f484254a3ebbee9c8a30f41.timeline
+[2025-01-31 15:20:38.917] [info]  [main] window blur
+[2025-01-31 15:21:43.557] [info]  [main] window focus
+[2025-01-31 15:21:55.645] [info]  [main] window blur
+[2025-01-31 15:22:33.923] [info]  [main] window focus
+[2025-01-31 15:22:37.068] [info]  [main] window blur
+[2025-01-31 15:23:00.742] [info]  [main] window focus
+[2025-01-31 15:23:01.546] [info]  [main] window blur
+[2025-01-31 15:23:11.965] [info]  [main] window focus
+[2025-01-31 15:23:13.730] [info]  [main] window blur
+[2025-01-31 15:23:46.059] [info]  [main] window focus
+[2025-01-31 15:23:48.929] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2c5e19fe-f7e5-405a-9fe7-a8f978b3730a.response
+[2025-01-31 15:23:48.929] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_169053dc34f94ec2b21808c95a24762f.timeline
+[2025-01-31 15:23:50.002] [info]  [main] window blur
+[2025-01-31 15:26:50.583] [info]  [main] window focus
+[2025-01-31 15:26:53.758] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/8b1c146a-d345-4b55-a32f-0d8490189e74.response
+[2025-01-31 15:26:53.759] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_de71cb70550841c2b8b0791aaa7cdd6c.timeline
+[2025-01-31 15:27:05.453] [info]  [main] window blur
+[2025-01-31 15:27:07.408] [info]  [main] window focus
+[2025-01-31 15:27:34.343] [info]  [main] window blur
+[2025-01-31 15:27:34.517] [info]  [main] window focus
+[2025-01-31 15:27:34.567] [info]  [main] window blur
+[2025-01-31 15:27:45.369] [info]  [main] window focus
+[2025-01-31 15:27:47.206] [info]  [main] window blur
+[2025-01-31 15:28:00.886] [info]  [main] window focus
+[2025-01-31 15:28:02.994] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/056ad7d2-7511-43f5-b976-c39aa042b8fe.response
+[2025-01-31 15:28:02.995] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_1d5056e1d32a4f2389ecb48c8711317f.timeline
+[2025-01-31 15:28:04.713] [info]  [main] window blur
+[2025-01-31 15:28:07.304] [info]  [main] window focus
+[2025-01-31 15:28:10.493] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/1197b589-2ac4-4114-9eaa-604dd1559498.response
+[2025-01-31 15:28:10.493] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_8ed7d4d109f449ab8f295e4ce109144d.timeline
+[2025-01-31 15:28:12.467] [info]  [main] window blur
+[2025-01-31 15:28:13.362] [info]  [main] window focus
+[2025-01-31 15:28:14.903] [info]  [main] window blur
+[2025-01-31 15:31:15.602] [info]  [main] window focus
+[2025-01-31 15:31:16.989] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/5464ac75-7abe-4dd5-976f-82331ef203d4.response
+[2025-01-31 15:31:16.990] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_37413b1abbeb48e4a0d0c6e3abe19fad.timeline
+[2025-01-31 15:31:18.891] [info]  [main] window blur
+[2025-01-31 15:31:21.246] [info]  [main] window focus
+[2025-01-31 15:31:24.429] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/1fe2dce3-7f9c-4247-b076-9832ccfcbb18.response
+[2025-01-31 15:31:24.430] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_e3d8281b16454ee4a9664ce2a5342858.timeline
+[2025-01-31 15:31:27.526] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/9be4004d-38d0-482b-aef8-c48a696f8014.response
+[2025-01-31 15:31:27.527] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_6769118cf7eb4b09ae6362afd5a207e2.timeline
+[2025-01-31 15:31:28.145] [info]  [main] window blur
+[2025-01-31 15:31:55.718] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:31:55.724] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:31:55.725] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:31:55.726] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:31:55.735] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:31:55.736] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:32:07.271] [warn]  [analytics] Error sending segment event TimeoutError: The operation was aborted due to timeout
+    at new DOMException (node:internal/per_context/domexception:53:5)
+    at Timeout._onTimeout (node:internal/abort_controller:129:9)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+[2025-01-31 15:32:07.272] [warn]  [analytics] Error sending segment event TimeoutError: The operation was aborted due to timeout
+    at new DOMException (node:internal/per_context/domexception:53:5)
+    at Timeout._onTimeout (node:internal/abort_controller:129:9)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+[2025-01-31 15:32:07.272] [warn]  [analytics] Error sending segment event TimeoutError: The operation was aborted due to timeout
+    at new DOMException (node:internal/per_context/domexception:53:5)
+    at Timeout._onTimeout (node:internal/abort_controller:129:9)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+[2025-01-31 15:32:07.273] [warn]  [analytics] Error sending segment event TimeoutError: The operation was aborted due to timeout
+    at new DOMException (node:internal/per_context/domexception:53:5)
+    at Timeout._onTimeout (node:internal/abort_controller:129:9)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+[2025-01-31 15:32:17.836] [warn]  [analytics] Error sending segment event TimeoutError: The operation was aborted due to timeout
+    at new DOMException (node:internal/per_context/domexception:53:5)
+    at Timeout._onTimeout (node:internal/abort_controller:129:9)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+[2025-01-31 15:32:46.914] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:32:46.916] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:32:46.921] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:32:46.922] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:32:46.923] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:32:46.923] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:33:18.801] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:33:18.805] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:33:26.945] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:33:26.949] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:34:41.868] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:34:41.872] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:05.720] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:05.722] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:10.618] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:10.621] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:14.815] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:14.818] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:18.807] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:18.809] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:22.599] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:22.602] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:26.734] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:26.736] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:30.638] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:30.642] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:34.708] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:34.712] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:38.781] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:38.785] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:42.666] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:42.668] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:46.455] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:46.459] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:50.244] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:50.246] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:54.034] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:54.037] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:57.821] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:35:57.825] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:36:01.613] [error] Error: net::ERR_SSL_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:36:01.616] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 15:36:54.063] [info]  [main] window focus
+[2025-01-31 19:47:54.475] [error] Error: net::ERR_CONNECTION_REFUSED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:115482)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+[2025-01-31 20:29:22.312] [info]  [main] window blur
+[2025-01-31 20:29:24.220] [info]  [main] window focus
+[2025-01-31 20:29:25.996] [info]  [main] window blur
+[2025-01-31 23:39:19.846] [info]  [main] window focus
+[2025-01-31 23:39:22.407] [info]  [main] window blur
+[2025-01-31 23:39:24.213] [info]  [main] window focus
+[2025-01-31 23:39:31.693] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_fe2b91c373094a99827d21cc48a0444f.timeline
+[2025-01-31 23:39:31.694] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/58a012a8-6050-4bdb-b47c-7db64650f18b.response
+[2025-01-31 23:39:35.177] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/6233742e-78fd-4046-81aa-165a6978ed0f.response
+[2025-01-31 23:39:35.177] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_a8c29e5da2d240559a5461423f6c562e.timeline
+[2025-01-31 23:39:38.409] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/4858284e-944d-4e33-9211-b90f566a3e7b.response
+[2025-01-31 23:39:38.410] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_9d457739755741ccaa9af9c6ca4d2057.timeline
+[2025-01-31 23:39:43.585] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/6056506a-e0d8-49fb-9d81-62556c17fd17.response
+[2025-01-31 23:39:43.586] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_50c69ef044084684b2781ae65754f964.timeline
+[2025-01-31 23:39:45.220] [info]  [main] window blur
+[2025-01-31 23:39:51.669] [info]  [main] window focus
+[2025-01-31 23:39:52.804] [info]  [main] window blur
+[2025-01-31 23:40:10.770] [info]  [main] window focus
+[2025-01-31 23:40:11.654] [info]  [main] window blur
+[2025-01-31 23:40:29.250] [info]  [main] window focus
+[2025-01-31 23:40:30.184] [info]  [main] window blur
+[2025-01-31 23:40:43.017] [info]  [main] window focus
+[2025-01-31 23:40:56.987] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/d62d2711-8d6a-4740-8449-cbcfa0d59b59.response
+[2025-01-31 23:40:56.988] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_aa45088860c74de781e712785727a490.timeline
+[2025-01-31 23:40:57.998] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/b4d24072-2bba-4f59-bc20-8e2312d51599.response
+[2025-01-31 23:40:57.998] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_148d3f5279714a05864cc44855a7037c.timeline
+[2025-01-31 23:40:58.792] [info]  [main] window blur
+[2025-01-31 23:41:15.239] [info]  [main] window focus
+[2025-01-31 23:41:22.565] [info]  [main] window blur
+[2025-01-31 23:55:45.042] [info]  [main] window focus

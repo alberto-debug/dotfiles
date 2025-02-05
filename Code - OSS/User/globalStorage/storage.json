@@ -6,7 +6,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/alberto/Desktop/Projects/deli"
+                "folderUri": "file:///home/alberto/Desktop/Projects/front"
             }
         ],
         "emptyWindows": []
@@ -15,7 +15,8 @@
         "workspaces": {
             "file:///home/alberto/Desktop/Projects/eventbrite-react": "__default__profile__",
             "file:///home/alberto/Desktop/Projects/events": "__default__profile__",
-            "file:///home/alberto/Desktop/Projects/deli": "__default__profile__"
+            "file:///home/alberto/Desktop/Projects/deli": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/front": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -69,10 +70,22 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/front",
+                                        "path": "/home/alberto/Desktop/Projects/front",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/front"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -141,13 +154,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -443,8 +449,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
@@ -1088,7 +1093,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1688,14 +1694,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/alberto/Desktop/Projects/deli",
-            "backupPath": "/home/alberto/.config/Code - OSS/Backups/6c867555d85bbc09e0c2d5ceb2ef9614",
+            "folder": "file:///home/alberto/Desktop/Projects/front",
+            "backupPath": "/home/alberto/.config/Code - OSS/Backups/268d31a03c9c0b6c93cbf4f8327ad736",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 1920,
-                "height": 1080
+                "width": 960,
+                "height": 1052
             }
         },
         "openedWindows": []

@@ -1,0 +1,8 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
+</application>
