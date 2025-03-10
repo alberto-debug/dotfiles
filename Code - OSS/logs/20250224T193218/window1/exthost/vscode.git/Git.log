@@ -1,0 +1,23 @@
+2025-02-24 19:32:21.631 [info] [main] Log level: Info
+2025-02-24 19:32:21.631 [info] [main] Validating found git in: "git"
+2025-02-24 19:32:21.631 [info] [main] Using git "2.48.1" from "git"
+2025-02-24 19:32:21.631 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-24 19:32:21.631 [info] > git rev-parse --show-toplevel [11ms]
+2025-02-24 19:32:21.632 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2025-02-24 19:32:21.650 [info] [Model][openRepository] Opened repository: /home/alberto/Desktop/Projects/codecrafters/codecrafters-git-java
+2025-02-24 19:32:22.552 [info] > git rev-parse --show-toplevel [879ms]
+2025-02-24 19:32:22.553 [info] > git config --get commit.template [890ms]
+2025-02-24 19:32:22.681 [info] > git rev-parse --show-toplevel [27ms]
+2025-02-24 19:32:22.696 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2025-02-24 19:32:22.697 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-24 19:32:22.744 [info] > git status -z -uall [17ms]
+2025-02-24 19:32:22.745 [info] > git rev-parse --show-toplevel [32ms]
+2025-02-24 19:32:22.746 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-24 19:32:22.774 [info] > git show --textconv :src/main/java/Main.java [14ms]
+2025-02-24 19:32:22.775 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+2025-02-24 19:32:22.816 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2025-02-24 19:32:22.830 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/codecrafters/codecrafters-git-java/src/main/java/Main.java [58ms]
+2025-02-24 19:32:22.849 [info] > git cat-file -s f7fcb52ed431ee42579d035ef697627a8373b788 [6ms]
+2025-02-24 19:32:22.850 [info] > git config --get --local branch.master.vscode-merge-base [19ms]
+2025-02-24 19:32:22.850 [warning] [Git][config] git config failed: Failed to execute git
+2025-02-24 19:32:22.864 [info] > git config --get commit.template [50ms]

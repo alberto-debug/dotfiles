@@ -1,0 +1,31 @@
+2025-02-28 23:55:52.877 [info] Started local extension host with pid 2720560.
+2025-02-28 23:55:55.231 [error] Error while getting the latest version for the extension angular.ng-template. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:55:55.232 [error] Error while getting the latest version for the extension dbaeumer.vscode-eslint. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:55:55.232 [error] Error while getting the latest version for the extension dsznajder.es7-react-js-snippets. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:55:55.233 [error] Error while getting the latest version for the extension emmanuelbeziat.vscode-great-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:55:55.233 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:55:55.233 [error] Error while getting the latest version for the extension github.github-vscode-theme. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:55:55.234 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:55:55.234 [error] Error while getting the latest version for the extension vscode-icons-team.vscode-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:55:56.100 [info] [perf] Render performance baseline is 485ms
+2025-02-28 23:56:14.987 [info] Started local extension host with pid 2721500.
+2025-02-28 23:56:17.321 [error] Error while getting the latest version for the extension angular.ng-template. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:56:17.322 [error] Error while getting the latest version for the extension dbaeumer.vscode-eslint. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:56:17.323 [error] Error while getting the latest version for the extension dsznajder.es7-react-js-snippets. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:56:17.324 [error] Error while getting the latest version for the extension emmanuelbeziat.vscode-great-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:56:17.325 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:56:17.326 [error] Error while getting the latest version for the extension github.github-vscode-theme. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:56:17.327 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:56:17.327 [error] Error while getting the latest version for the extension vscode-icons-team.vscode-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-28 23:56:18.067 [info] [perf] Render performance baseline is 475ms
+2025-03-01 00:12:21.881 [error] Error: The editor could not be opened because the file was not found.
+    at aye.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2107:120310)
+    at async aye.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2107:119468)
+    at async NFe.U (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:526:19761)
+    at async NFe.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:526:18312)
+    at async NFe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:526:17394)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:638:23634
+    at async uA.openEditors (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:638:24023)
+    at async Promise.all (index 0)
+    at async Object.e [as settled] (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:79378)
+    at async t3e.openEditors (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1268:33598)

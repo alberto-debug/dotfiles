@@ -5,14 +5,27 @@ FullScreen=false
 LockSidebar=true
 ShowSidebar=true
 
-[MainWindow]
-ToolBarsMovable=Disabled
-
 [Recent Files]
-File1[$e]=$HOME/Downloads/01 Introduction to Web Development.pdf
-File2[$e]=$HOME/Downloads/Alberto Araujo Manuel Junior_832486_0.pdf
-Name1[$e]=01 Introduction to Web Development.pdf
-Name2[$e]=Alberto Araujo Manuel Junior_832486_0.pdf
+File1[$e]=$HOME/Downloads/week3.pdf
+File10[$e]=$HOME/Downloads/Week7 Implementation.pdf
+File2[$e]=$HOME/Downloads/Week6 SQL (Data Manipulation Language).pdf
+File3[$e]=$HOME/Downloads/Week7 Database System devlopment Lifecycle.pdf
+File4[$e]=$HOME/Downloads/Campus Event Preparation Guide/Appendix 0 - Huawei Campus Ambassador Program - Brief.pdf
+File5[$e]=$HOME/Documents/110062586.pdf
+File6[$e]=$HOME/Documents/Event Proposal.pdf
+File7[$e]=$HOME/Downloads/Draft Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
+File8[$e]=$HOME/Downloads/Week4 Requirements Engineering.pdf
+File9[$e]=$HOME/Downloads/Week6 Architectural design.pdf
+Name1[$e]=week3.pdf
+Name10[$e]=Week7 Implementation.pdf
+Name2[$e]=Week6 SQL (Data Manipulation Language).pdf
+Name3[$e]=Week7 Database System devlopment Lifecycle.pdf
+Name4[$e]=Appendix 0 - Huawei Campus Ambassador Program - Brief.pdf
+Name5[$e]=110062586.pdf
+Name6[$e]=Event Proposal.pdf
+Name7[$e]=Draft Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
+Name8[$e]=Week4 Requirements Engineering.pdf
+Name9[$e]=Week6 Architectural design.pdf
 
 [UiSettings]
 ColorScheme=KvArcDark

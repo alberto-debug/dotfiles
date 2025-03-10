@@ -5,7 +5,7 @@
 
     "layer": "top",
     "output": [ "*" ],
-    "position": "bottom",
+    "position": "top",
     "mod": "dock",
     "height": 21,
     "exclusive": true,

@@ -1,0 +1,7 @@
+2025/03/08-20:01:19.154 2df36a Reusing MANIFEST /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/08-20:01:19.155 2df36a Recovering log #4
+2025/03/08-20:01:19.156 2df36a Reusing old log /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000004.log 
+2025/03/08-20:01:19.193 2df38b Level-0 table #8: started
+2025/03/08-20:01:19.195 2df38b Level-0 table #8: 8790 bytes OK
+2025/03/08-20:01:19.197 2df38b Delete type=0 #4
+2025/03/08-20:01:19.198 2df38b Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

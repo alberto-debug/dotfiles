@@ -1,0 +1,8 @@
+package.json roots detected: /home/alberto/Desktop/Projects/others/climate-action (5)/.next,
+  /home/alberto/Desktop/Projects/others/climate-action (5)/.next/types,
+  /home/alberto/Desktop/Projects/others/climate-action (5)
+[Info  - 7:41:08 PM] Angular language server process ID: 664617
+[Info  - 7:41:08 PM] Imported typescript/lib/tsserverlibrary is version 5.6.2.
+[Info  - 7:41:08 PM] Using @angular/language-service v19.0.6 from /home/alberto/.vscode-oss/extensions/angular.ng-template-19.0.4-universal/node_modules/@angular/language-service/index.js
+[Info  - 7:41:08 PM] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 7:41:14 PM] Disabling language service for /home/alberto/Desktop/Projects/others/climate-action (5)/tsconfig.json because project is not an Angular project ('@angular/core' could not be found).

@@ -1,0 +1,197 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="nodes" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="dwfah7piis7o" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Node.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Node.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTree.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#66#67#0" expanded="true" />
+                <element signature="e#96#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"BinaryTree.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 24,
+      "lastUsed": 1741637778106
+    }
+  }
+}]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/alberto/Desktop/Projects/algorithm/nodes/src/Node.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/algorithm/nodes/src/Main.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/algorithm/nodes/src/BinaryTree.java&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="24" lastUsage="1741637778106" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15647858" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.15647858" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33030593" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.33030593" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.33030593" left="0.15647858" />
+    </layoutV2>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="283" width="468" height="456" key="FileChooserDialogImpl" timestamp="1741644297635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="742" y="283" width="468" height="456" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741644297635" />
+    <state x="697" y="373" key="Github.ShareDialog" timestamp="1740733144077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="697" y="373" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1740733144077" />
+    <state x="771" y="251" key="Github.UntrackedFilesDialog" timestamp="1740733154615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="771" y="251" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1740733154615" />
+    <state width="1832" height="303" key="GridCell.Tab.0.bottom" timestamp="1741025718986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741025718986" />
+    <state width="1832" height="303" key="GridCell.Tab.0.center" timestamp="1741025718986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741025718986" />
+    <state width="1832" height="303" key="GridCell.Tab.0.left" timestamp="1741025718986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741025718986" />
+    <state width="1832" height="303" key="GridCell.Tab.0.right" timestamp="1741025718986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741025718986" />
+    <state width="1832" height="303" key="GridCell.Tab.1.bottom" timestamp="1741025718978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741025718978" />
+    <state width="1832" height="303" key="GridCell.Tab.1.center" timestamp="1741025718977">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741025718977" />
+    <state width="1832" height="303" key="GridCell.Tab.1.left" timestamp="1741025718977">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741025718977" />
+    <state width="1832" height="303" key="GridCell.Tab.1.right" timestamp="1741025718977">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="303" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741025718977" />
+    <state x="559" y="256" width="802" height="539" key="Vcs.Push.Dialog.v2" timestamp="1741637826968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="256" width="802" height="539" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741637826968" />
+    <state x="559" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1741178602482" />
+    <state x="623" y="228" width="672" height="695" key="search.everywhere.popup" timestamp="1740732732463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="228" width="672" height="695" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1740732732463" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

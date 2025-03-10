@@ -1,0 +1,72 @@
+2025-02-19 17:10:16.632 [info] [main] Log level: Info
+2025-02-19 17:10:16.632 [info] [main] Validating found git in: "git"
+2025-02-19 17:10:16.632 [info] [main] Using git "2.48.1" from "git"
+2025-02-19 17:10:16.632 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-19 17:10:16.632 [info] > git rev-parse --show-toplevel [74ms]
+2025-02-19 17:10:16.632 [info] > git rev-parse --git-dir --git-common-dir [44ms]
+2025-02-19 17:10:16.632 [info] [Model][openRepository] Opened repository: /home/alberto/Desktop/Projects/others/climate-action (5)
+2025-02-19 17:10:16.668 [info] > git rev-parse --show-toplevel [6ms]
+2025-02-19 17:10:16.669 [info] > git config --get commit.template [20ms]
+2025-02-19 17:10:16.709 [info] > git rev-parse --show-toplevel [18ms]
+2025-02-19 17:10:16.724 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2025-02-19 17:10:16.727 [info] > git rev-parse --show-toplevel [4ms]
+2025-02-19 17:10:16.896 [info] > git status -z -uall [137ms]
+2025-02-19 17:10:16.897 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [123ms]
+2025-02-19 17:10:16.930 [info] > git rev-parse --show-toplevel [188ms]
+2025-02-19 17:10:16.968 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2025-02-19 17:10:16.990 [info] > git rev-parse --show-toplevel [24ms]
+2025-02-19 17:10:16.992 [info] > git config --get commit.template [38ms]
+2025-02-19 17:10:17.019 [info] > git config --get --local branch.main.vscode-merge-base [38ms]
+2025-02-19 17:10:17.049 [info] > git rev-parse --show-toplevel [41ms]
+2025-02-19 17:10:17.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [84ms]
+2025-02-19 17:10:17.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [97ms]
+2025-02-19 17:10:17.176 [info] > git merge-base refs/heads/main refs/remotes/origin/main [31ms]
+2025-02-19 17:10:17.190 [info] > git rev-parse --show-toplevel [63ms]
+2025-02-19 17:10:17.214 [info] > git diff --name-status -z --diff-filter=ADMR 9aababefefb76cca18836efcd9785df93a6b5efc...refs/remotes/origin/main [25ms]
+2025-02-19 17:10:17.327 [info] > git rev-parse --show-toplevel [118ms]
+2025-02-19 17:10:17.327 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-19 17:10:17.389 [info] > git show --textconv :app/login/page.tsx [46ms]
+2025-02-19 17:10:17.389 [info] > git status -z -uall [17ms]
+2025-02-19 17:10:17.396 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2025-02-19 17:10:17.403 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/others/climate-action (5)/app/login/page.tsx [45ms]
+2025-02-19 17:10:17.420 [info] > git cat-file -s 43de4d58473df2d6e57fcf9b4820916cb27d4185 [3ms]
+2025-02-19 17:10:17.457 [info] > git check-ignore -v -z --stdin [5ms]
+2025-02-19 17:10:17.598 [info] > git blame --root --incremental 9aababefefb76cca18836efcd9785df93a6b5efc -- /home/alberto/Desktop/Projects/others/climate-action (5)/app/login/page.tsx [119ms]
+2025-02-19 17:10:42.574 [info] [main] Log level: Info
+2025-02-19 17:10:42.574 [info] [main] Validating found git in: "git"
+2025-02-19 17:10:42.574 [info] [main] Using git "2.48.1" from "git"
+2025-02-19 17:10:42.574 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-19 17:10:42.574 [info] > git rev-parse --show-toplevel [14ms]
+2025-02-19 17:10:43.721 [info] > git rev-parse --git-dir --git-common-dir [110ms]
+2025-02-19 17:10:43.750 [info] [Model][openRepository] Opened repository: /home/alberto/Desktop/Projects/spring/frontEnd/auth-app
+2025-02-19 17:10:43.804 [info] > git rev-parse --show-toplevel [9ms]
+2025-02-19 17:10:43.805 [info] > git config --get commit.template [27ms]
+2025-02-19 17:10:43.848 [info] > git rev-parse --show-toplevel [22ms]
+2025-02-19 17:10:43.849 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-19 17:10:43.887 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2025-02-19 17:10:43.941 [info] > git status -z -uall [16ms]
+2025-02-19 17:10:44.024 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [86ms]
+2025-02-19 17:10:44.068 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2025-02-19 17:10:44.087 [info] > git config --get --local branch.main.vscode-merge-base [3ms]
+2025-02-19 17:10:44.087 [warning] [Git][config] git config failed: Failed to execute git
+2025-02-19 17:10:44.102 [info] > git config --get commit.template [39ms]
+2025-02-19 17:10:44.152 [info] > git reflog main --grep-reflog=branch: Created from *. [51ms]
+2025-02-19 17:10:44.169 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2025-02-19 17:10:44.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2025-02-19 17:10:44.219 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [34ms]
+2025-02-19 17:10:44.261 [info] > git config --add --local branch.main.vscode-merge-base origin/main [27ms]
+2025-02-19 17:10:44.408 [info] > git check-ignore -v -z --stdin [4ms]
+2025-02-19 17:10:44.410 [info] > git config --get commit.template [22ms]
+2025-02-19 17:10:44.410 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+2025-02-19 17:10:44.427 [info] > git config --get --local branch.main.vscode-merge-base [2ms]
+2025-02-19 17:10:44.460 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [20ms]
+2025-02-19 17:10:44.477 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2025-02-19 17:10:44.478 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2025-02-19 17:10:44.523 [info] > git status -z -uall [16ms]
+2025-02-19 17:10:44.523 [info] > git diff --name-status -z --diff-filter=ADMR 829eb9a17621e0a85301e23ae652761e92859698...refs/remotes/origin/main [30ms]
+2025-02-19 17:10:44.525 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-19 17:11:07.309 [info] > git check-ignore -v -z --stdin [3ms]
+2025-02-19 17:11:07.872 [info] > git config --get commit.template [21ms]
+2025-02-19 17:11:07.873 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-02-19 17:11:07.911 [info] > git status -z -uall [21ms]
+2025-02-19 17:11:07.914 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]

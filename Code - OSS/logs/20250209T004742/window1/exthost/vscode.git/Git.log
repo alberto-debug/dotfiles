@@ -1,0 +1,291 @@
+2025-02-09 00:47:49.077 [info] [main] Log level: Info
+2025-02-09 00:47:49.077 [info] [main] Validating found git in: "git"
+2025-02-09 00:47:49.077 [info] [main] Using git "2.48.1" from "git"
+2025-02-09 00:47:49.077 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-09 00:47:49.077 [info] > git rev-parse --show-toplevel [7ms]
+2025-02-09 00:47:49.077 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2025-02-09 00:47:49.077 [info] [Model][openRepository] Opened repository: /home/alberto/Desktop/Projects/spring/other/teste
+2025-02-09 00:47:49.077 [info] > git rev-parse --show-toplevel [2045ms]
+2025-02-09 00:47:49.077 [info] > git config --get commit.template [2065ms]
+2025-02-09 00:47:49.077 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:47:49.080 [info] > git rev-parse --show-toplevel [78ms]
+2025-02-09 00:47:49.081 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-09 00:47:49.124 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [49ms]
+2025-02-09 00:47:49.177 [info] > git status -z -uall [30ms]
+2025-02-09 00:47:49.177 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2025-02-09 00:47:49.244 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [37ms]
+2025-02-09 00:47:49.275 [info] > git config --local branch.master.vscode-merge-base [9ms]
+2025-02-09 00:47:49.276 [warning] [Git][config] git config failed: Failed to execute git
+2025-02-09 00:47:49.300 [info] > git config --get commit.template [58ms]
+2025-02-09 00:47:49.336 [info] > git check-ignore -v -z --stdin [6ms]
+2025-02-09 00:47:49.339 [info] > git reflog master --grep-reflog=branch: Created from *. [40ms]
+2025-02-09 00:47:49.380 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:47:49.384 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [26ms]
+2025-02-09 00:47:49.384 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-02-09 00:47:49.384 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-02-09 00:47:49.389 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-02-09 00:47:49.434 [info] > git status -z -uall [26ms]
+2025-02-09 00:47:49.599 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [167ms]
+2025-02-09 00:51:22.302 [info] > git check-ignore -v -z --stdin [2ms]
+2025-02-09 00:51:27.784 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:51:27.787 [info] > git config --get commit.template [22ms]
+2025-02-09 00:51:27.788 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2025-02-09 00:51:27.845 [info] > git status -z -uall [26ms]
+2025-02-09 00:51:27.847 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:51:29.821 [info] > git show --textconv :src/App.tsx [26ms]
+2025-02-09 00:51:29.826 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/App.tsx [7ms]
+2025-02-09 00:51:29.865 [info] > git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845 [4ms]
+2025-02-09 00:51:30.579 [info] > git blame --root --incremental d95b3d1b7a14997ccd181ce63ddc8b3d9e227311 -- /home/alberto/Desktop/Projects/spring/other/teste/src/App.tsx [5ms]
+2025-02-09 00:51:33.944 [info] > git config --get commit.template [23ms]
+2025-02-09 00:51:33.966 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:51:33.973 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-02-09 00:51:34.009 [info] > git status -z -uall [20ms]
+2025-02-09 00:51:34.011 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-09 00:52:05.522 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:52:05.524 [info] > git config --get commit.template [25ms]
+2025-02-09 00:52:05.525 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:52:05.563 [info] > git status -z -uall [20ms]
+2025-02-09 00:52:05.566 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:52:10.593 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:52:10.614 [info] > git config --get commit.template [23ms]
+2025-02-09 00:52:10.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-02-09 00:52:10.654 [info] > git status -z -uall [21ms]
+2025-02-09 00:52:10.657 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-09 00:52:27.757 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:52:27.758 [info] > git config --get commit.template [25ms]
+2025-02-09 00:52:27.761 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-02-09 00:52:27.807 [info] > git status -z -uall [24ms]
+2025-02-09 00:52:27.810 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-09 00:52:56.697 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:52:56.722 [info] > git config --get commit.template [26ms]
+2025-02-09 00:52:56.724 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:52:56.767 [info] > git status -z -uall [23ms]
+2025-02-09 00:52:56.772 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-02-09 00:53:03.348 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:53:03.349 [info] > git config --get commit.template [18ms]
+2025-02-09 00:53:03.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 00:53:03.388 [info] > git status -z -uall [20ms]
+2025-02-09 00:53:03.390 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:53:18.776 [info] > git check-ignore -v -z --stdin [3ms]
+2025-02-09 00:53:29.142 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:53:29.143 [info] > git config --get commit.template [22ms]
+2025-02-09 00:53:29.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:53:29.184 [info] > git status -z -uall [20ms]
+2025-02-09 00:53:29.189 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-02-09 00:54:52.613 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:54:52.614 [info] > git config --get commit.template [34ms]
+2025-02-09 00:54:52.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:54:52.670 [info] > git status -z -uall [29ms]
+2025-02-09 00:54:52.674 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-02-09 00:55:28.704 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:55:28.706 [info] > git config --get commit.template [35ms]
+2025-02-09 00:55:28.709 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-02-09 00:55:28.777 [info] > git status -z -uall [37ms]
+2025-02-09 00:55:28.781 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2025-02-09 00:55:42.453 [info] > git config --get commit.template [2ms]
+2025-02-09 00:55:42.472 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:55:42.474 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 00:55:42.534 [info] > git status -z -uall [40ms]
+2025-02-09 00:55:42.534 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2025-02-09 00:55:54.504 [info] > git show --textconv :src/components/Navbar.tsx [19ms]
+2025-02-09 00:55:54.506 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/components/Navbar.tsx [3ms]
+2025-02-09 00:55:54.720 [info] > git check-ignore -v -z --stdin [2ms]
+2025-02-09 00:55:55.341 [info] > git config --get commit.template [3ms]
+2025-02-09 00:55:55.360 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:55:55.362 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:55:55.396 [info] > git status -z -uall [17ms]
+2025-02-09 00:55:55.398 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:55:55.520 [info] > git blame --root --incremental d95b3d1b7a14997ccd181ce63ddc8b3d9e227311 -- /home/alberto/Desktop/Projects/spring/other/teste/src/components/Navbar.tsx [7ms]
+2025-02-09 00:55:55.520 [info] fatal: no such path src/components/Navbar.tsx in d95b3d1b7a14997ccd181ce63ddc8b3d9e227311
+2025-02-09 00:56:00.437 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:56:00.437 [info] > git config --get commit.template [22ms]
+2025-02-09 00:56:00.440 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 00:56:00.473 [info] > git status -z -uall [18ms]
+2025-02-09 00:56:00.474 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-09 00:56:31.637 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:56:31.638 [info] > git config --get commit.template [23ms]
+2025-02-09 00:56:31.640 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:56:31.678 [info] > git status -z -uall [19ms]
+2025-02-09 00:56:31.680 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-09 00:57:02.247 [info] > git config --get commit.template [4ms]
+2025-02-09 00:57:02.248 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:57:02.270 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 00:57:02.307 [info] > git status -z -uall [18ms]
+2025-02-09 00:57:02.309 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:57:12.021 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:57:12.042 [info] > git config --get commit.template [22ms]
+2025-02-09 00:57:12.044 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:57:12.082 [info] > git status -z -uall [19ms]
+2025-02-09 00:57:12.084 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-09 00:57:19.090 [info] > git show --textconv :src/components/Footer.tsx [18ms]
+2025-02-09 00:57:19.093 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/components/Footer.tsx [4ms]
+2025-02-09 00:57:19.341 [info] > git check-ignore -v -z --stdin [2ms]
+2025-02-09 00:57:19.855 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:57:19.856 [info] > git config --get commit.template [16ms]
+2025-02-09 00:57:19.856 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 00:57:19.891 [info] > git status -z -uall [19ms]
+2025-02-09 00:57:19.893 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-02-09 00:57:20.220 [info] > git blame --root --incremental d95b3d1b7a14997ccd181ce63ddc8b3d9e227311 -- /home/alberto/Desktop/Projects/spring/other/teste/src/components/Footer.tsx [3ms]
+2025-02-09 00:57:20.220 [info] fatal: no such path src/components/Footer.tsx in d95b3d1b7a14997ccd181ce63ddc8b3d9e227311
+2025-02-09 00:57:24.924 [info] > git config --get commit.template [1ms]
+2025-02-09 00:57:24.946 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:57:24.950 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 00:57:24.981 [info] > git status -z -uall [17ms]
+2025-02-09 00:57:24.983 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:57:44.887 [info] > git config --get commit.template [4ms]
+2025-02-09 00:57:44.914 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:57:44.918 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 00:57:44.970 [info] > git status -z -uall [27ms]
+2025-02-09 00:57:44.972 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:57:56.881 [info] > git config --get commit.template [2ms]
+2025-02-09 00:57:56.903 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:57:56.906 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 00:57:56.944 [info] > git status -z -uall [20ms]
+2025-02-09 00:57:56.947 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-09 00:58:03.062 [info] > git show --textconv :src/components/Register.tsx [17ms]
+2025-02-09 00:58:03.065 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/components/Register.tsx [3ms]
+2025-02-09 00:58:03.335 [info] > git check-ignore -v -z --stdin [2ms]
+2025-02-09 00:58:03.916 [info] > git config --get commit.template [4ms]
+2025-02-09 00:58:03.938 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:58:03.941 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:58:03.969 [info] > git status -z -uall [15ms]
+2025-02-09 00:58:03.971 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-09 00:58:04.125 [info] > git blame --root --incremental d95b3d1b7a14997ccd181ce63ddc8b3d9e227311 -- /home/alberto/Desktop/Projects/spring/other/teste/src/components/Register.tsx [3ms]
+2025-02-09 00:58:04.125 [info] fatal: no such path src/components/Register.tsx in d95b3d1b7a14997ccd181ce63ddc8b3d9e227311
+2025-02-09 00:58:14.897 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:58:14.898 [info] > git config --get commit.template [22ms]
+2025-02-09 00:58:14.901 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-02-09 00:58:14.938 [info] > git status -z -uall [19ms]
+2025-02-09 00:58:14.940 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:58:57.551 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:58:57.555 [info] > git config --get commit.template [46ms]
+2025-02-09 00:58:57.557 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-02-09 00:58:57.642 [info] > git status -z -uall [43ms]
+2025-02-09 00:58:57.647 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2025-02-09 00:58:59.023 [info] > git show --textconv :src/App.tsx [41ms]
+2025-02-09 00:58:59.028 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/App.tsx [8ms]
+2025-02-09 00:58:59.059 [info] > git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845 [5ms]
+2025-02-09 00:59:03.318 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:59:03.335 [info] > git config --get commit.template [19ms]
+2025-02-09 00:59:03.337 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 00:59:03.375 [info] > git status -z -uall [20ms]
+2025-02-09 00:59:03.377 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:59:12.622 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:59:12.623 [info] > git config --get commit.template [22ms]
+2025-02-09 00:59:12.626 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 00:59:12.668 [info] > git status -z -uall [23ms]
+2025-02-09 00:59:12.670 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:59:17.715 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:59:17.716 [info] > git config --get commit.template [17ms]
+2025-02-09 00:59:17.717 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 00:59:17.747 [info] > git status -z -uall [16ms]
+2025-02-09 00:59:17.748 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-09 00:59:21.685 [info] > git check-ignore -v -z --stdin [6ms]
+2025-02-09 00:59:23.860 [info] > git config --get commit.template [3ms]
+2025-02-09 00:59:23.881 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:59:23.883 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 00:59:23.917 [info] > git status -z -uall [18ms]
+2025-02-09 00:59:23.918 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-09 00:59:28.963 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:59:28.964 [info] > git config --get commit.template [16ms]
+2025-02-09 00:59:28.964 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 00:59:28.993 [info] > git status -z -uall [14ms]
+2025-02-09 00:59:28.995 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 00:59:52.745 [info] > git show --textconv :src/pages/Home.tsx [36ms]
+2025-02-09 00:59:52.750 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/pages/Home.tsx [10ms]
+2025-02-09 00:59:52.999 [info] > git check-ignore -v -z --stdin [3ms]
+2025-02-09 00:59:54.576 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:59:54.596 [info] > git config --get commit.template [22ms]
+2025-02-09 00:59:54.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 00:59:54.649 [info] > git status -z -uall [24ms]
+2025-02-09 00:59:54.653 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-02-09 00:59:55.844 [info] > git blame --root --incremental d95b3d1b7a14997ccd181ce63ddc8b3d9e227311 -- /home/alberto/Desktop/Projects/spring/other/teste/src/pages/Home.tsx [4ms]
+2025-02-09 00:59:55.844 [info] fatal: no such path src/pages/Home.tsx in d95b3d1b7a14997ccd181ce63ddc8b3d9e227311
+2025-02-09 00:59:59.586 [info] > git show --textconv :src/App.tsx [17ms]
+2025-02-09 00:59:59.588 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/App.tsx [4ms]
+2025-02-09 00:59:59.607 [info] > git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845 [4ms]
+2025-02-09 00:59:59.676 [info] > git config --get commit.template [3ms]
+2025-02-09 00:59:59.691 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 00:59:59.693 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 00:59:59.726 [info] > git status -z -uall [19ms]
+2025-02-09 00:59:59.731 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-02-09 01:00:03.714 [info] > git show --textconv :src/pages/Register.tsx [15ms]
+2025-02-09 01:00:03.716 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/pages/Register.tsx [3ms]
+2025-02-09 01:00:03.739 [info] > git blame --root --incremental d95b3d1b7a14997ccd181ce63ddc8b3d9e227311 -- /home/alberto/Desktop/Projects/spring/other/teste/src/pages/Register.tsx [3ms]
+2025-02-09 01:00:03.739 [info] fatal: no such path src/pages/Register.tsx in d95b3d1b7a14997ccd181ce63ddc8b3d9e227311
+2025-02-09 01:00:12.317 [info] > git show --textconv :src/pages/Login [31ms]
+2025-02-09 01:00:12.317 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/pages/Login [2ms]
+2025-02-09 01:00:12.557 [info] > git check-ignore -v -z --stdin [3ms]
+2025-02-09 01:00:13.081 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:00:13.083 [info] > git config --get commit.template [23ms]
+2025-02-09 01:00:13.084 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 01:00:13.118 [info] > git status -z -uall [14ms]
+2025-02-09 01:00:13.119 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-09 01:00:17.602 [info] > git show --textconv :src/pages/Login.tsx [58ms]
+2025-02-09 01:00:17.614 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/pages/Login.tsx [14ms]
+2025-02-09 01:00:17.729 [info] > git check-ignore -v -z --stdin [3ms]
+2025-02-09 01:00:22.177 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:00:22.178 [info] > git config --get commit.template [21ms]
+2025-02-09 01:00:22.181 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 01:00:22.222 [info] > git status -z -uall [20ms]
+2025-02-09 01:00:22.224 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 01:00:24.857 [info] > git blame --root --incremental d95b3d1b7a14997ccd181ce63ddc8b3d9e227311 -- /home/alberto/Desktop/Projects/spring/other/teste/src/pages/Login.tsx [3ms]
+2025-02-09 01:00:24.857 [info] fatal: no such path src/pages/Login.tsx in d95b3d1b7a14997ccd181ce63ddc8b3d9e227311
+2025-02-09 01:00:27.257 [info] > git config --get commit.template [6ms]
+2025-02-09 01:00:27.279 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:00:27.282 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 01:00:27.320 [info] > git status -z -uall [19ms]
+2025-02-09 01:00:27.323 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-02-09 01:00:27.482 [info] > git show --textconv :src/App.tsx [17ms]
+2025-02-09 01:00:27.484 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/App.tsx [3ms]
+2025-02-09 01:00:27.503 [info] > git cat-file -s a53698aab3c66049c61980112dd0109dd2cd0845 [2ms]
+2025-02-09 01:00:39.945 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:00:39.946 [info] > git config --get commit.template [16ms]
+2025-02-09 01:00:39.948 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 01:00:39.987 [info] > git status -z -uall [17ms]
+2025-02-09 01:00:39.988 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 01:00:45.011 [info] > git config --get commit.template [2ms]
+2025-02-09 01:00:45.025 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:00:45.027 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 01:00:45.057 [info] > git status -z -uall [16ms]
+2025-02-09 01:00:45.058 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 01:00:50.097 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:00:50.098 [info] > git config --get commit.template [19ms]
+2025-02-09 01:00:50.099 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 01:00:50.131 [info] > git status -z -uall [18ms]
+2025-02-09 01:00:50.132 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-09 01:01:07.683 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:01:07.684 [info] > git config --get commit.template [22ms]
+2025-02-09 01:01:07.686 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 01:01:07.725 [info] > git status -z -uall [21ms]
+2025-02-09 01:01:07.727 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-09 01:02:00.478 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:02:00.480 [info] > git config --get commit.template [25ms]
+2025-02-09 01:02:00.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-02-09 01:02:00.532 [info] > git status -z -uall [25ms]
+2025-02-09 01:02:00.535 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-02-09 01:02:05.564 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:02:05.587 [info] > git config --get commit.template [24ms]
+2025-02-09 01:02:05.588 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-02-09 01:02:05.625 [info] > git status -z -uall [18ms]
+2025-02-09 01:02:05.627 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-02-09 01:02:11.117 [info] > git show --textconv :src/theme.tsx [38ms]
+2025-02-09 01:02:11.123 [info] > git ls-files --stage -- /home/alberto/Desktop/Projects/spring/other/teste/src/theme.tsx [8ms]
+2025-02-09 01:02:11.349 [info] > git check-ignore -v -z --stdin [5ms]
+2025-02-09 01:02:11.856 [info] > git config --get commit.template [5ms]
+2025-02-09 01:02:11.857 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:02:11.887 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-02-09 01:02:11.938 [info] > git status -z -uall [26ms]
+2025-02-09 01:02:11.946 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2025-02-09 01:02:16.990 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:02:16.992 [info] > git config --get commit.template [20ms]
+2025-02-09 01:02:16.993 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 01:02:17.033 [info] > git status -z -uall [19ms]
+2025-02-09 01:02:17.035 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-02-09 01:02:17.418 [info] > git blame --root --incremental d95b3d1b7a14997ccd181ce63ddc8b3d9e227311 -- /home/alberto/Desktop/Projects/spring/other/teste/src/theme.tsx [6ms]
+2025-02-09 01:02:17.418 [info] fatal: no such path src/theme.tsx in d95b3d1b7a14997ccd181ce63ddc8b3d9e227311
+2025-02-09 01:02:22.083 [info] [Git][getRemotes] No remotes found in the git config file
+2025-02-09 01:02:22.084 [info] > git config --get commit.template [21ms]
+2025-02-09 01:02:22.086 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-02-09 01:02:22.125 [info] > git status -z -uall [21ms]
+2025-02-09 01:02:22.127 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]

@@ -1,5 +1,4 @@
 {
-  "workbench.colorTheme": "GitHub Dark",
   "window.menuBarVisibility": "toggle",
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.verticalScrollbarSize": 0,
@@ -14,8 +13,9 @@
   "terminal.sourceControlRepositoriesKind": "both",
   "telemetry.telemetryLevel": "off",
   "workbench.iconTheme": "vscode-icons",
-  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.preferredDarkColorTheme": "GitHub Dark Default",
   "workbench.preferredLightColorTheme": "Default Dark+",
-  "files.autoSave": "onFocusChange",
-  "editor.fontSize": 13
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 13,
+  "workbench.colorTheme": "wallbash"
 }

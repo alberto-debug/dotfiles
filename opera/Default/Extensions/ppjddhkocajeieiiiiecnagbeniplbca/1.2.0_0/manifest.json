@@ -1,0 +1,178 @@
+{
+   "author": "Opera Software",
+   "description": "Interstellar",
+   "developer": {
+      "name": "Opera Software"
+   },
+   "icons": {
+      "218": "icon.png"
+   },
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAmIJaEKy7OB64a9Wxjgh/JBxB0uUuzz4v8aC/bFkHdK30LW6K9/nGn1tg6J+OEd7Uqu7LTcYW+t7uaN2li/Ho+E2bMukRInzz6YXfQ0U/ZOOZ4yA7jJMMbT7TOhSzDz+xzSrxk/rA0K55HzikfMx5bve3m668XEQonTj7AqeUSe4Pc+ZpFwmgKXTFyUJdpQ67ohYTXYhmbRWAFXkZHAwKcpqMAd+XCReqWRwQ5MczsdMWGdc25+uIkFWPBlES2AGMLrqzQHRCYfDJUvUuydj2Mlnw7Wd65jX/0DvtFKvoxuHyQuMyk3niLj80cQYb0sT0O5p1drjbCeFabzM1CajsyfZPTorsamMSUSVxBr/31HhVdFTud4z/x502zupAljG98T+qmS3HEhL9LKMCL5kiXj73h/1cioDJNoI+wxTMgZp67MunXqw0amLWZfNy6+CKKqt3KGeYWQ2QNRw5EP4EAHXRoXoL6/USgISgqKfhV1gHotP3QqqJ4PKLajSq0kjpL5ZxGDWKMe5eSVlIVXKjrgRPT0Kj4moLPSxRdltzqp0SKVAqk7+Oadb4LBDpWjrut0ugDFPo6iipG+1pUD7zt6xfEh86GYQl6fxOPO7zsJRD+apbRNGiQIGTeXMD5OSecHJnE5jTiwqo6eCM3Bbg95AJEJQNPYcRGeZxZW5lk+UCAwEAAQ==",
+   "manifest_version": 3,
+   "mod": {
+      "flavor": {
+         "features": [  ],
+         "hash": "74be16979710d4c4e7c6647856088456",
+         "parent_hash": "d41d8cd98f00b204e9800998ecf8427e"
+      },
+      "payload": {
+         "background_music": [ {
+            "author": "Opera",
+            "id": "0",
+            "name": "Interstellar",
+            "tracks": [ "music/music.mp4" ]
+         } ],
+         "browser_sounds": [ {
+            "author": "Opera Software",
+            "id": "0",
+            "name": "Interstellar",
+            "sounds": {
+               "ARIA_COMMAND_LINE_SHOWN": [ "sounds/aria.mp4" ],
+               "ARIA_SIDEBAR_PANEL_SHOWN": [ "sounds/aria.mp4" ],
+               "CLICK": [ "sounds/click.mp4" ],
+               "SPLIT_SCREEN_CREATE": [ "sounds/split_create.mp4" ],
+               "SPLIT_SCREEN_REMOVE": [ "sounds/split_remove.mp4" ],
+               "TAB_CLOSE": [ "sounds/tab_close.mp4" ],
+               "TAB_GROUP_COLLAPSE": [ "sounds/group_collapse.mp4" ],
+               "TAB_GROUP_CREATE": [ "sounds/group_create.mp4" ],
+               "TAB_INSERT": [ "sounds/tab_open.mp4" ]
+            }
+         } ],
+         "keyboard_sounds": [ {
+            "author": "Opera Software",
+            "id": "0",
+            "name": "Interstellar",
+            "sounds": {
+               "TYPING_BACKSPACE": [ "sounds/backspace.mp4" ],
+               "TYPING_ENTER": [ "sounds/enter.mp4" ],
+               "TYPING_LETTER": [ "sounds/typing0.mp4", "sounds/typing1.mp4", "sounds/typing2.mp4" ],
+               "TYPING_SPACE": [ "sounds/space.mp4" ]
+            }
+         } ],
+         "theme": [ {
+            "dark": {
+               "accent": {
+                  "h": 242,
+                  "l": 53,
+                  "s": 71
+               },
+               "background": {
+                  "h": 230,
+                  "l": 6,
+                  "s": 60
+               },
+               "gx_accent": {
+                  "h": 242,
+                  "l": 53,
+                  "s": 71
+               },
+               "gx_secondary_base": {
+                  "h": 230,
+                  "l": 6,
+                  "s": 60
+               }
+            },
+            "id": "vibe",
+            "light": {
+               "accent": {
+                  "h": 287,
+                  "l": 44,
+                  "s": 24
+               },
+               "background": {
+                  "h": 291,
+                  "l": 87,
+                  "s": 20
+               },
+               "gx_accent": {
+                  "h": 287,
+                  "l": 44,
+                  "s": 24
+               },
+               "gx_secondary_base": {
+                  "h": 291,
+                  "l": 87,
+                  "s": 20
+               }
+            },
+            "name": "default"
+         } ],
+         "wallpaper": [ {
+            "dark": {
+               "groups": [ {
+                  "layers": [ {
+                     "resource": "wallpaper/dark.jpg",
+                     "type": "image"
+                  } ]
+               } ],
+               "preview": {
+                  "270x360": "wallpaper/preview_dark.png"
+               },
+               "text_color": "#ffffff",
+               "text_shadow": "#000000"
+            },
+            "full_browser": false,
+            "id": "default",
+            "light": {
+               "groups": [ {
+                  "layers": [ {
+                     "resource": "wallpaper/light.jpg",
+                     "type": "image"
+                  } ]
+               } ],
+               "preview": {
+                  "270x360": "wallpaper/preview_light.png"
+               },
+               "text_color": "#ffffff",
+               "text_shadow": "#ffffff"
+            },
+            "name": "default",
+            "title": "Default"
+         } ]
+      },
+      "schema_version": 2,
+      "settings": [ {
+         "id": "color_picker_x_axis",
+         "label": "x-axis",
+         "max": 1,
+         "max_label": "",
+         "min": 0,
+         "min_label": "",
+         "name": "color-picker-x-axis",
+         "step": 0.1,
+         "type": "range",
+         "value": 0.5
+      }, {
+         "id": "color_picker_y_axis",
+         "label": "y-axis",
+         "max": 1,
+         "max_label": "",
+         "min": 0,
+         "min_label": "",
+         "name": "color-picker-y-axis",
+         "step": 0.1,
+         "type": "range",
+         "value": 0.5
+      } ],
+      "vibe": {
+         "color-picker-palettes": {
+            "dark": {
+               "accent": "wallpaper/color_picker/accent_dark.png",
+               "background": "wallpaper/color_picker/background_dark.png"
+            },
+            "light": {
+               "accent": "wallpaper/color_picker/accent_light.png",
+               "background": "wallpaper/color_picker/background_light.png"
+            }
+         },
+         "preview": "wallpaper/preview.png",
+         "wallpaper": {
+            "animated": false,
+            "type": "image"
+         }
+      }
+   },
+   "name": "Opera One: Interstellar",
+   "update_url": "https://api.gx.me/store/mods/update",
+   "version": "1.2.0"
+}

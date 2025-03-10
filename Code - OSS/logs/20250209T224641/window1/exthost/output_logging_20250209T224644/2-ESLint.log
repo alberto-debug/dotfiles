@@ -1,0 +1,95 @@
+[Info  - 10:46:50 PM] ESLint server is starting.
+[Info  - 10:46:50 PM] ESLint server running in node v20.18.1
+[Info  - 10:46:50 PM] ESLint server is running.
+[Info  - 10:47:42 PM] ESLint library loaded from: /home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/eslint/lib/api.js
+[Error - 10:59:17 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-responsive-app/src/App.tsx) failed.
+Error: ESLint configuration in package.json » eslint-config-react-app is invalid:
+	- Property "overrides" is the wrong type (expected array but got `{"files":["**/*.ts","**/*.tsx"],"parser":"@typescript-eslint/parser","parserOptions":{"ecmaVersion":2018,"sourceType":"module","ecmaFeatures":{"jsx":true},"warnOnUnsupportedTypeScriptVersion":true},"plugins":["@typescript-eslint"],"rules":{"default-case":"off","no-dupe-class-members":"off","@typescript-eslint/no-angle-bracket-type-assertion":"warn","no-array-constructor":"off","@typescript-eslint/no-array-constructor":"warn","@typescript-eslint/no-namespace":"error","no-unused-vars":"off","@typescript-eslint/no-unused-vars":["warn",{"args":"none","ignoreRestSiblings":true}],"no-useless-constructor":"off","@typescript-eslint/no-useless-constructor":"warn"}}`).
+
+Referenced from: /home/alberto/Desktop/Projects/spring/other/my-responsive-app/package.json
+    at ConfigValidator.validateConfigSchema (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2177:19)
+    at ConfigArrayFactory._normalizeConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3019:19)
+    at ConfigArrayFactory._loadConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2984:21)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3285:21)
+    at ConfigArrayFactory._loadExtends (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+[Error - 10:59:17 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-responsive-app/src/index.tsx) failed.
+Error: ESLint configuration in package.json » eslint-config-react-app is invalid:
+	- Property "overrides" is the wrong type (expected array but got `{"files":["**/*.ts","**/*.tsx"],"parser":"@typescript-eslint/parser","parserOptions":{"ecmaVersion":2018,"sourceType":"module","ecmaFeatures":{"jsx":true},"warnOnUnsupportedTypeScriptVersion":true},"plugins":["@typescript-eslint"],"rules":{"default-case":"off","no-dupe-class-members":"off","@typescript-eslint/no-angle-bracket-type-assertion":"warn","no-array-constructor":"off","@typescript-eslint/no-array-constructor":"warn","@typescript-eslint/no-namespace":"error","no-unused-vars":"off","@typescript-eslint/no-unused-vars":["warn",{"args":"none","ignoreRestSiblings":true}],"no-useless-constructor":"off","@typescript-eslint/no-useless-constructor":"warn"}}`).
+
+Referenced from: /home/alberto/Desktop/Projects/spring/other/my-responsive-app/package.json
+    at ConfigValidator.validateConfigSchema (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2177:19)
+    at ConfigArrayFactory._normalizeConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3019:19)
+    at ConfigArrayFactory._loadConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2984:21)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3285:21)
+    at ConfigArrayFactory._loadExtends (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+[Error - 10:59:31 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-responsive-app/tsconfig.json) failed.
+Error: ESLint configuration in package.json » eslint-config-react-app is invalid:
+	- Property "overrides" is the wrong type (expected array but got `{"files":["**/*.ts","**/*.tsx"],"parser":"@typescript-eslint/parser","parserOptions":{"ecmaVersion":2018,"sourceType":"module","ecmaFeatures":{"jsx":true},"warnOnUnsupportedTypeScriptVersion":true},"plugins":["@typescript-eslint"],"rules":{"default-case":"off","no-dupe-class-members":"off","@typescript-eslint/no-angle-bracket-type-assertion":"warn","no-array-constructor":"off","@typescript-eslint/no-array-constructor":"warn","@typescript-eslint/no-namespace":"error","no-unused-vars":"off","@typescript-eslint/no-unused-vars":["warn",{"args":"none","ignoreRestSiblings":true}],"no-useless-constructor":"off","@typescript-eslint/no-useless-constructor":"warn"}}`).
+
+Referenced from: /home/alberto/Desktop/Projects/spring/other/my-responsive-app/package.json
+    at ConfigValidator.validateConfigSchema (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2177:19)
+    at ConfigArrayFactory._normalizeConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3019:19)
+    at ConfigArrayFactory._loadConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2984:21)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3285:21)
+    at ConfigArrayFactory._loadExtends (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+[Error - 10:59:41 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-responsive-app/package.json) failed.
+Error: ESLint configuration in package.json » eslint-config-react-app is invalid:
+	- Property "overrides" is the wrong type (expected array but got `{"files":["**/*.ts","**/*.tsx"],"parser":"@typescript-eslint/parser","parserOptions":{"ecmaVersion":2018,"sourceType":"module","ecmaFeatures":{"jsx":true},"warnOnUnsupportedTypeScriptVersion":true},"plugins":["@typescript-eslint"],"rules":{"default-case":"off","no-dupe-class-members":"off","@typescript-eslint/no-angle-bracket-type-assertion":"warn","no-array-constructor":"off","@typescript-eslint/no-array-constructor":"warn","@typescript-eslint/no-namespace":"error","no-unused-vars":"off","@typescript-eslint/no-unused-vars":["warn",{"args":"none","ignoreRestSiblings":true}],"no-useless-constructor":"off","@typescript-eslint/no-useless-constructor":"warn"}}`).
+
+Referenced from: /home/alberto/Desktop/Projects/spring/other/my-responsive-app/package.json
+    at ConfigValidator.validateConfigSchema (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2177:19)
+    at ConfigArrayFactory._normalizeConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3019:19)
+    at ConfigArrayFactory._loadConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2984:21)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3285:21)
+    at ConfigArrayFactory._loadExtends (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+[Error - 10:59:49 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-responsive-app/package-lock.json) failed.
+Error: ESLint configuration in package.json » eslint-config-react-app is invalid:
+	- Property "overrides" is the wrong type (expected array but got `{"files":["**/*.ts","**/*.tsx"],"parser":"@typescript-eslint/parser","parserOptions":{"ecmaVersion":2018,"sourceType":"module","ecmaFeatures":{"jsx":true},"warnOnUnsupportedTypeScriptVersion":true},"plugins":["@typescript-eslint"],"rules":{"default-case":"off","no-dupe-class-members":"off","@typescript-eslint/no-angle-bracket-type-assertion":"warn","no-array-constructor":"off","@typescript-eslint/no-array-constructor":"warn","@typescript-eslint/no-namespace":"error","no-unused-vars":"off","@typescript-eslint/no-unused-vars":["warn",{"args":"none","ignoreRestSiblings":true}],"no-useless-constructor":"off","@typescript-eslint/no-useless-constructor":"warn"}}`).
+
+Referenced from: /home/alberto/Desktop/Projects/spring/other/my-responsive-app/package.json
+    at ConfigValidator.validateConfigSchema (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2177:19)
+    at ConfigArrayFactory._normalizeConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3019:19)
+    at ConfigArrayFactory._loadConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2984:21)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3285:21)
+    at ConfigArrayFactory._loadExtends (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+[Error - 10:59:55 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-responsive-app/package.json) failed.
+Error: ESLint configuration in package.json » eslint-config-react-app is invalid:
+	- Property "overrides" is the wrong type (expected array but got `{"files":["**/*.ts","**/*.tsx"],"parser":"@typescript-eslint/parser","parserOptions":{"ecmaVersion":2018,"sourceType":"module","ecmaFeatures":{"jsx":true},"warnOnUnsupportedTypeScriptVersion":true},"plugins":["@typescript-eslint"],"rules":{"default-case":"off","no-dupe-class-members":"off","@typescript-eslint/no-angle-bracket-type-assertion":"warn","no-array-constructor":"off","@typescript-eslint/no-array-constructor":"warn","@typescript-eslint/no-namespace":"error","no-unused-vars":"off","@typescript-eslint/no-unused-vars":["warn",{"args":"none","ignoreRestSiblings":true}],"no-useless-constructor":"off","@typescript-eslint/no-useless-constructor":"warn"}}`).
+
+Referenced from: /home/alberto/Desktop/Projects/spring/other/my-responsive-app/package.json
+    at ConfigValidator.validateConfigSchema (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2177:19)
+    at ConfigArrayFactory._normalizeConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3019:19)
+    at ConfigArrayFactory._loadConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2984:21)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3285:21)
+    at ConfigArrayFactory._loadExtends (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/alberto/Desktop/Projects/spring/other/my-responsive-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+[Info  - 11:06:50 PM] ESLint server stopped.

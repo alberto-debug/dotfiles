@@ -1,0 +1,4 @@
+2025-02-28 23:55:55.934 [info] Log level: Info
+2025-02-28 23:56:17.632 [info] Log level: Info
+2025-02-28 23:56:18.374 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-03-01 00:11:06.762 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for alberto-debug/Spendee-frontEnd: Error: No GitHub authentication session available.

@@ -1,0 +1,42 @@
+2025-02-08 23:53:08.800 [info] Extension host with pid 146990 started
+2025-02-08 23:53:08.800 [info] Skipping acquiring lock for /home/alberto/.config/Code - OSS/User/workspaceStorage/54567bfa04701c9e31686feaef1d0026.
+2025-02-08 23:53:08.814 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-08 23:53:08.822 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-02-08 23:53:08.903 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-08 23:53:09.027 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-08 23:53:09.198 [info] Eager extensions activated
+2025-02-08 23:53:09.289 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-08 23:53:09.294 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-08 23:53:09.336 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-02-08 23:53:09.425 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-02-08 23:53:10.154 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-02-08 23:53:10.278 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-02-08 23:53:10.291 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-02-08 23:53:10.759 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-08 23:53:14.069 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-08 23:53:14.091 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-08 23:53:14.113 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-02-08 23:53:14.356 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-02-09 00:00:07.904 [error] Error: Repository not initialized
+	at O.run (/usr/lib/code/extensions/git/dist/main.js:2:1058920)
+	at O.checkIgnore (/usr/lib/code/extensions/git/dist/main.js:2:1057727)
+	at m.checkIgnoreSoon (/usr/lib/code/extensions/git/dist/main.js:2:900236)
+	at Timeout._onTimeout (/usr/lib/code/extensions/git/dist/main.js:2:905369)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-02-09 00:00:08.524 [error] Error: spawn git ENOENT
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:922998)
+	at Object.onceWrapper (node:events:633:26)
+	at ChildProcess.emit (node:events:518:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-09 00:00:08.906 [error] Error: Repository not initialized
+	at O.run (/usr/lib/code/extensions/git/dist/main.js:2:1058920)
+	at O.checkIgnore (/usr/lib/code/extensions/git/dist/main.js:2:1057727)
+	at m.checkIgnoreSoon (/usr/lib/code/extensions/git/dist/main.js:2:900236)
+	at Timeout._onTimeout (/usr/lib/code/extensions/git/dist/main.js:2:905369)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-02-09 00:00:09.430 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-09 00:00:09.461 [info] Extension host with pid 146990 exiting with code 0

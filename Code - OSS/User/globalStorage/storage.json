@@ -4,21 +4,32 @@
     "telemetry.devDeviceId": "a880444b-5023-473f-9be7-fd8764d82d71",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
+        "folders": [],
+        "emptyWindows": [
             {
-                "folderUri": "file:///home/alberto/Desktop/Projects/front"
+                "backupFolder": "1740856229215"
             }
-        ],
-        "emptyWindows": []
+        ]
     },
     "profileAssociations": {
         "workspaces": {
             "file:///home/alberto/Desktop/Projects/eventbrite-react": "__default__profile__",
             "file:///home/alberto/Desktop/Projects/events": "__default__profile__",
             "file:///home/alberto/Desktop/Projects/deli": "__default__profile__",
-            "file:///home/alberto/Desktop/Projects/front": "__default__profile__"
+            "file:///home/alberto/Desktop/Projects/front": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/spring/front/finance-app-frontend": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/spring/other/my-app": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/spring/other/front": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/spring/other/teste": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/spring/other/my-responsive-app": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/others/climate-action%20%285%29": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/spring/frontEnd/auth-app": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-git-java": "__default__profile__",
+            "file:///home/alberto/Desktop/Projects/teste2/frontEnd/auth-app": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1740856229215": "__default__profile__"
+        }
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -80,12 +91,56 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/alberto/Desktop/Projects/front",
-                                        "path": "/home/alberto/Desktop/Projects/front",
+                                        "external": "file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-git-java",
+                                        "path": "/home/alberto/Desktop/Projects/codecrafters/codecrafters-git-java",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Projects/front"
+                                    "label": "~/Desktop/Projects/codecrafters/codecrafters-git-java"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/spring/frontEnd/auth-app",
+                                        "path": "/home/alberto/Desktop/Projects/spring/frontEnd/auth-app",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/spring/frontEnd/auth-app"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/others/climate-action%20%285%29",
+                                        "path": "/home/alberto/Desktop/Projects/others/climate-action (5)",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/others/climate-action (5)"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/spring/other/my-responsive-app",
+                                        "path": "/home/alberto/Desktop/Projects/spring/other/my-responsive-app",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/spring/other/my-responsive-app"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/spring/other/teste",
+                                        "path": "/home/alberto/Desktop/Projects/spring/other/teste",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/spring/other/teste"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -97,6 +152,53 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/Projects/deli"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/spring/other/front",
+                                        "path": "/home/alberto/Desktop/Projects/spring/other/front",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/spring/other/front"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/spring/other/my-app",
+                                        "path": "/home/alberto/Desktop/Projects/spring/other/my-app",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/spring/other/my-app"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/front",
+                                        "path": "/home/alberto/Desktop/Projects/front",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/front"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alberto/Desktop/Projects/codecrafters/codecrafters-git-java/src/main/java/Main.java",
+                                        "path": "/home/alberto/Desktop/Projects/codecrafters/codecrafters-git-java/src/main/java/Main.java",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/Projects/codecrafters/codecrafters-git-java/src/main/java/Main.java"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -135,11 +237,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "saveAll",
@@ -183,20 +287,12 @@
                                     "label": "&&Settings"
                                 },
                                 {
-                                    "id": "workbench.view.extensions",
-                                    "label": "&&Extensions"
-                                },
-                                {
                                     "id": "workbench.action.openGlobalKeybindings",
                                     "label": "Keyboard Shortcuts"
                                 },
                                 {
                                     "id": "workbench.action.openSnippets",
                                     "label": "Configure Snippets"
-                                },
-                                {
-                                    "id": "workbench.action.tasks.openUserTasks",
-                                    "label": "Tasks"
                                 },
                                 {
                                     "id": "submenuitem.ThemesSubMenu",
@@ -233,15 +329,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -286,11 +380,13 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find"
+                        "label": "&&Find",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace"
+                        "label": "&&Replace",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -388,10 +484,6 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "workbench.action.toggleMultiCursorModifier",
-                        "label": "Switch to Ctrl+Click for Multi-Cursor"
-                    },
-                    {
                         "id": "editor.action.toggleColumnSelection",
                         "label": "Column &&Selection Mode"
                     }
@@ -436,8 +528,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -736,16 +827,23 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
+                        "id": "workbench.panel.chat",
+                        "label": "&&Chat"
+                    },
+                    {
+                        "id": "workbench.panel.chatEditing",
+                        "label": "Copilot Ed&&its"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
                         "id": "workbench.actions.view.problems",
                         "label": "&&Problems"
                     },
                     {
                         "id": "workbench.action.output.toggleOutput",
                         "label": "&&Output"
-                    },
-                    {
-                        "id": "workbench.debug.action.toggleRepl",
-                        "label": "De&&bug Console"
                     },
                     {
                         "id": "workbench.action.terminal.toggleTerminal",
@@ -756,7 +854,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     }
                 ]
             },
@@ -764,7 +863,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -773,7 +873,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -970,116 +1071,6 @@
             "Run": {
                 "items": [
                     {
-                        "id": "workbench.action.debug.start",
-                        "label": "&&Start Debugging"
-                    },
-                    {
-                        "id": "workbench.action.debug.run",
-                        "label": "Run &&Without Debugging"
-                    },
-                    {
-                        "id": "workbench.action.debug.stop",
-                        "label": "&&Stop Debugging",
-                        "enabled": false
-                    },
-                    {
-                        "id": "workbench.action.debug.restart",
-                        "label": "&&Restart Debugging",
-                        "enabled": false
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
-                        "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations",
-                        "enabled": false
-                    },
-                    {
-                        "id": "debug.addConfiguration",
-                        "label": "A&&dd Configuration..."
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
-                        "id": "workbench.action.debug.stepOver",
-                        "label": "Step &&Over",
-                        "enabled": false
-                    },
-                    {
-                        "id": "workbench.action.debug.stepInto",
-                        "label": "Step &&Into",
-                        "enabled": false
-                    },
-                    {
-                        "id": "workbench.action.debug.stepOut",
-                        "label": "Step O&&ut",
-                        "enabled": false
-                    },
-                    {
-                        "id": "workbench.action.debug.continue",
-                        "label": "&&Continue",
-                        "enabled": false
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
-                        "id": "editor.debug.action.toggleBreakpoint",
-                        "label": "Toggle &&Breakpoint"
-                    },
-                    {
-                        "id": "submenuitem.MenubarNewBreakpointMenu",
-                        "label": "&&New Breakpoint",
-                        "submenu": {
-                            "items": [
-                                {
-                                    "id": "editor.debug.action.conditionalBreakpoint",
-                                    "label": "&&Conditional Breakpoint..."
-                                },
-                                {
-                                    "id": "editor.debug.action.editBreakpoint",
-                                    "label": "&&Edit Breakpoint"
-                                },
-                                {
-                                    "id": "editor.debug.action.toggleInlineBreakpoint",
-                                    "label": "Inline Breakp&&oint"
-                                },
-                                {
-                                    "id": "workbench.debug.viewlet.action.addFunctionBreakpointAction",
-                                    "label": "&&Function Breakpoint..."
-                                },
-                                {
-                                    "id": "editor.debug.action.addLogPoint",
-                                    "label": "&&Logpoint..."
-                                },
-                                {
-                                    "id": "editor.debug.action.triggerByBreakpoint",
-                                    "label": "&&Triggered Breakpoint..."
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
-                        "id": "workbench.debug.viewlet.action.enableAllBreakpoints",
-                        "label": "&&Enable All Breakpoints"
-                    },
-                    {
-                        "id": "workbench.debug.viewlet.action.disableAllBreakpoints",
-                        "label": "Disable A&&ll Breakpoints"
-                    },
-                    {
-                        "id": "workbench.debug.viewlet.action.removeAllBreakpoints",
-                        "label": "Remove &&All Breakpoints"
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
                         "id": "debug.installAdditionalDebuggers",
                         "label": "&&Install Additional Debuggers..."
                     }
@@ -1100,49 +1091,12 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "workbench.action.tasks.runTask",
-                        "label": "&&Run Task..."
-                    },
-                    {
-                        "id": "workbench.action.tasks.build",
-                        "label": "Run &&Build Task..."
-                    },
-                    {
                         "id": "workbench.action.terminal.runActiveFile",
                         "label": "Run &&Active File"
                     },
                     {
                         "id": "workbench.action.terminal.runSelectedText",
                         "label": "Run &&Selected Text"
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
-                        "id": "workbench.action.tasks.showTasks",
-                        "label": "Show Runnin&&g Tasks...",
-                        "enabled": false
-                    },
-                    {
-                        "id": "workbench.action.tasks.restartTask",
-                        "label": "R&&estart Running Task...",
-                        "enabled": false
-                    },
-                    {
-                        "id": "workbench.action.tasks.terminate",
-                        "label": "&&Terminate Task...",
-                        "enabled": false
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
-                        "id": "workbench.action.tasks.configureTaskRunner",
-                        "label": "&&Configure Tasks..."
-                    },
-                    {
-                        "id": "workbench.action.tasks.configureDefaultBuildTask",
-                        "label": "Configure De&&fault Build Task..."
                     }
                 ]
             },
@@ -1189,10 +1143,6 @@
                     {
                         "id": "workbench.action.openRequestFeatureUrl",
                         "label": "&&Search Feature Requests"
-                    },
-                    {
-                        "id": "workbench.action.openIssueReporter",
-                        "label": "Report &&Issue"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1264,10 +1214,6 @@
                 "label": "Ctrl+,",
                 "userSettingsLabel": "ctrl+,"
             },
-            "workbench.view.extensions": {
-                "label": "Ctrl+Shift+X",
-                "userSettingsLabel": "ctrl+shift+x"
-            },
             "workbench.action.openGlobalKeybindings": {
                 "label": "Ctrl+K Ctrl+S",
                 "isNative": false,
@@ -1281,11 +1227,6 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
-            },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1464,6 +1405,18 @@
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
             },
+            "workbench.view.extensions": {
+                "label": "Ctrl+Shift+X",
+                "userSettingsLabel": "ctrl+shift+x"
+            },
+            "workbench.panel.chat": {
+                "label": "Ctrl+Alt+I",
+                "userSettingsLabel": "ctrl+alt+i"
+            },
+            "workbench.panel.chatEditing": {
+                "label": "Ctrl+Shift+Alt+I",
+                "userSettingsLabel": "ctrl+shift+alt+i"
+            },
             "workbench.actions.view.problems": {
                 "label": "Ctrl+Shift+M",
                 "userSettingsLabel": "ctrl+shift+m"
@@ -1472,10 +1425,6 @@
                 "label": "Ctrl+K Ctrl+H",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+h"
-            },
-            "workbench.debug.action.toggleRepl": {
-                "label": "Ctrl+Shift+Y",
-                "userSettingsLabel": "ctrl+shift+y"
             },
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
@@ -1604,46 +1553,6 @@
                 "label": "Shift+Alt+F3",
                 "userSettingsLabel": "shift+alt+f3"
             },
-            "workbench.action.debug.start": {
-                "label": "F5",
-                "userSettingsLabel": "f5"
-            },
-            "workbench.action.debug.run": {
-                "label": "Ctrl+F5",
-                "userSettingsLabel": "ctrl+f5"
-            },
-            "workbench.action.debug.stop": {
-                "label": "Shift+F5",
-                "userSettingsLabel": "shift+f5"
-            },
-            "workbench.action.debug.restart": {
-                "label": "Ctrl+Shift+F5",
-                "userSettingsLabel": "ctrl+shift+f5"
-            },
-            "workbench.action.debug.stepOver": {
-                "label": "F10",
-                "userSettingsLabel": "f10"
-            },
-            "workbench.action.debug.stepInto": {
-                "label": "F11",
-                "userSettingsLabel": "f11"
-            },
-            "workbench.action.debug.stepOut": {
-                "label": "Shift+F11",
-                "userSettingsLabel": "shift+f11"
-            },
-            "workbench.action.debug.continue": {
-                "label": "F5",
-                "userSettingsLabel": "f5"
-            },
-            "editor.debug.action.toggleBreakpoint": {
-                "label": "F9",
-                "userSettingsLabel": "f9"
-            },
-            "editor.debug.action.toggleInlineBreakpoint": {
-                "label": "Shift+F9",
-                "userSettingsLabel": "shift+f9"
-            },
             "workbench.action.terminal.new": {
                 "label": "Ctrl+Shift+`",
                 "userSettingsLabel": "ctrl+shift+`"
@@ -1651,10 +1560,6 @@
             "workbench.action.terminal.split": {
                 "label": "Ctrl+Shift+5",
                 "userSettingsLabel": "ctrl+shift+5"
-            },
-            "workbench.action.tasks.build": {
-                "label": "Ctrl+Shift+B",
-                "userSettingsLabel": "ctrl+shift+b"
             },
             "workbench.action.keybindingsReference": {
                 "label": "Ctrl+K Ctrl+R",
@@ -1664,38 +1569,39 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#24292e",
+    "themeBackground": "#151524",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#d1d5da",
-            "background": "#24292e",
-            "editorBackground": "#24292e",
-            "titleBarBackground": "#24292e",
-            "titleBarBorder": "#1b1f23",
-            "activityBarBackground": "#24292e",
-            "activityBarBorder": "#1b1f23",
-            "sideBarBackground": "#1f2428",
-            "sideBarBorder": "#1b1f23",
-            "statusBarBackground": "#24292e",
-            "statusBarBorder": "#1b1f23",
-            "statusBarNoFolderBackground": "#24292e"
+            "foreground": "#ffffff",
+            "background": "#151524",
+            "editorBackground": "#151524",
+            "titleBarBackground": "#151524",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#292952",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#292952",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#151524",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#151524",
+            "windowBorder": "rgba(0, 0, 0, 0)"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 199,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
             "statusBarHeight": 0,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/alberto/Desktop/Projects/front",
-            "backupPath": "/home/alberto/.config/Code - OSS/Backups/268d31a03c9c0b6c93cbf4f8327ad736",
+            "backupPath": "/home/alberto/.config/Code - OSS/Backups/1740856229215",
             "uiState": {
                 "mode": 0,
                 "x": 0,

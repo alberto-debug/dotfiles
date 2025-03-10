@@ -7,10 +7,12 @@
         <entry encoding="base64">d3E=</entry>
         <entry encoding="base64">JTY=</entry>
         <entry encoding="base64">JWQ=</entry>
-        <entry encoding="base64">JXk=</entry>
         <entry encoding="base64">d1w=</entry>
         <entry encoding="base64" />
         <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">ZXhpdDs=</entry>
+        <entry encoding="base64">ZXhpdA==</entry>
+        <entry encoding="base64">JXk=</entry>
       </history-cmd>
       <history-search />
     </history>
@@ -282,70 +284,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java-master/pom.xml" protocol="file" />
     </project>
     <project id="AuthandFinance-e3026b7c">
-      <jump line="76" column="20" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="54" column="33" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="61" column="19" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="64" column="8" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="0" column="1" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="28" column="10" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="9" column="12" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="77" column="18" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="70" column="19" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/pom.xml" protocol="file" />
-      <jump line="8" column="44" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/AuthFinanceApplication.java" protocol="file" />
-      <jump line="13" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/AuthFinanceApplication.java" protocol="file" />
-      <jump line="5" column="29" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/resources/application.properties" protocol="file" />
-      <jump line="2" column="18" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/model/User.java" protocol="file" />
-      <jump line="2" column="32" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" protocol="file" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" protocol="file" />
-      <jump line="31" column="23" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
-      <jump line="33" column="3" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
-      <jump line="28" column="23" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
-      <jump line="29" column="3" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
-      <jump line="8" column="62" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" protocol="file" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" protocol="file" />
-      <jump line="16" column="47" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
-      <jump line="55" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
-      <jump line="64" column="19" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
-      <jump line="12" column="44" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" protocol="file" />
-      <jump line="2" column="26" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="5" column="5" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="18" column="65" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="8" column="7" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="32" column="83" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="40" column="23" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="11" column="27" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="17" column="29" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="21" column="48" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="3" column="41" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="36" column="5" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="38" column="52" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="37" column="8" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="39" column="27" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="42" column="38" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="35" column="44" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="43" column="42" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="30" column="69" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="27" column="25" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="28" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="23" column="49" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="19" column="26" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="15" column="7" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="13" column="46" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="16" column="13" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="25" column="155" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="15" column="158" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="19" column="14" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="27" column="58" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="32" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="30" column="54" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="29" column="47" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
       <jump line="35" column="12" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="42" column="79" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
-      <jump line="44" column="46" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
       <jump line="43" column="9" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
       <jump line="38" column="26" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
       <jump line="23" column="58" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
@@ -353,29 +292,115 @@
       <jump line="46" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
       <jump line="51" column="9" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
       <jump line="53" column="5" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="2" column="38" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="10" column="13" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="21" column="33" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="19" column="2" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="22" column="2" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="20" column="90" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="23" column="3" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="5" column="29" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/resources/application.properties" protocol="file" />
+      <jump line="16" column="13" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
+      <jump line="21" column="60" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/resources/application.properties" protocol="file" />
+      <jump line="18" column="38" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
+      <jump line="3" column="41" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
+      <jump line="2" column="4" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SpringSecurity.java" protocol="file" />
+      <jump line="49" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SpringSecurity.java" protocol="file" />
+      <jump line="19" column="13" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="35" column="92" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="2" column="28" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="26" column="41" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/dto/RegisterRequestDTO.java" protocol="file" />
+      <jump line="30" column="71" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="35" column="17" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="40" column="41" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="36" column="43" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="43" column="50" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="41" column="80" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="34" column="38" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="2" column="14" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/dto/RegisterRequestDTO.java" protocol="file" />
+      <jump line="2" column="53" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/dto/ResponseDTO.java" protocol="file" />
+      <jump line="44" column="51" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="2" column="42" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/dto/LoginRequestDTO.java" protocol="file" />
+      <jump line="13" column="78" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" protocol="file" />
+      <jump line="17" column="13" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" protocol="file" />
+      <jump line="49" column="113" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="54" column="52" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="59" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="56" column="3" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="45" column="4" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="46" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="2" column="28" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/UserController.java" protocol="file" />
+      <jump line="12" column="25" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/UserController.java" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/UserController.java" protocol="file" />
+      <jump line="2" column="24" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/cors/CorsConfig.java" protocol="file" />
+      <jump line="10" column="1" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/cors/CorsConfig.java" protocol="file" />
+      <jump line="4" column="4" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/cors/CorsConfig.java" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/cors/CorsConfig.java" protocol="file" />
+      <jump line="16" column="1" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/cors/CorsConfig.java" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/cors/CorsConfig.java" protocol="file" />
+      <jump line="28" column="4" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="42" column="9" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="44" column="5" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="48" column="33" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="47" column="60" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="32" column="50" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="27" column="14" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" protocol="file" />
+      <jump line="64" column="19" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="26" column="25" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="30" column="2" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="32" column="23" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="36" column="30" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="40" column="25" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="44" column="34" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="48" column="26" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="52" column="36" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="60" column="42" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/AuthFinanceApplication.java" protocol="file" />
+      <jump line="25" column="9" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="23" column="33" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="28" column="13" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="29" column="74" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="22" column="14" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityConfig.java" protocol="file" />
+      <jump line="12" column="44" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" protocol="file" />
+      <jump line="22" column="33" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="17" column="23" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="19" column="5" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
+      <jump line="23" column="33" filename="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" protocol="file" />
     </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$USER_HOME$/Desktop/Projects/backandfront/src/main/java/com/example/backandfront/repository/UserRepository.java" timestamp="1738447690071">
-        <mark key="&quot;" line="9" column="63" />
-        <mark key="]" line="9" column="64" />
-        <mark key="^" line="9" column="64" />
-        <mark key="." line="9" column="63" />
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/CustomUserDetailsService.java" timestamp="1738843312286">
+        <mark key="[" line="22" column="119" />
+        <mark key="]" line="13" column="79" />
+        <mark key="." line="13" column="78" />
+        <mark key="^" line="13" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1738782240848">
+      <file name="/Dummy.txt" timestamp="1738844389269">
         <mark key="&quot;" line="0" column="0" />
-        <mark key="[" line="0" column="6" />
+        <mark key="[" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java/src/main/java/Main.java" timestamp="1738448021409">
         <mark key="&quot;" line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Projects/backandfront/src/main/resources/application.properties" timestamp="1738447690063">
-        <mark key="&quot;" line="17" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/domain/user/User.java" timestamp="1738680101573">
         <mark key="[" line="36" column="24" />
@@ -383,21 +408,10 @@
         <mark key="^" line="64" column="20" />
         <mark key="." line="64" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/backandfront/src/main/java/com/example/backandfront/model/User.java" timestamp="1738447690025">
-        <mark key="&quot;" line="7" column="20" />
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="25" column="4" />
-        <mark key="^" line="13" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Projects/algorithm-class/src/Main.java" timestamp="1738316303145">
-        <mark key="&quot;" line="28" column="4" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Projects/backandfront/src/main/java/com/example/backandfront/service/UserService.java" timestamp="1738447690040">
-        <mark key="&quot;" line="25" column="43" />
-        <mark key="[" line="25" column="45" />
-        <mark key="]" line="25" column="45" />
-        <mark key="^" line="25" column="45" />
-        <mark key="." line="25" column="44" />
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/cors/CorsConfig.java" timestamp="1738862630560">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="6" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java/README.md" timestamp="1738448021403">
         <mark key="&quot;" line="0" column="0" />
@@ -407,33 +421,35 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/backandfront/src/main/java/com/example/backandfront/BackandfrontApplication.java" timestamp="1738447689993">
-        <mark key="&quot;" line="17" column="0" />
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="82" />
-        <mark key="." line="20" column="81" />
-        <mark key="^" line="20" column="82" />
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/UserController.java" timestamp="1738862472410">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/backandfront/src/main/java/com/example/backandfront/controller/UserController.java" timestamp="1738447690053">
-        <mark key="&quot;" line="14" column="0" />
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="22" column="32" />
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/dto/LoginRequestDTO.java" timestamp="1738855776453">
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="2" column="58" />
+        <mark key="." line="2" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java/your_program.sh" timestamp="1738448021422">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" timestamp="1738789888158">
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SecurityFilter.java" timestamp="1738865616306">
+        <mark key="&quot;" line="26" column="0" />
         <mark key="[" line="19" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java/src/main/java/command/BuiltIn.java" timestamp="1738447990186">
-        <mark key="&quot;" line="2" column="59" />
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/controller/AuthController.java" timestamp="1739301947247">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/resources/application.properties" timestamp="1738678418127">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/resources/application.properties" timestamp="1738844229338">
+        <mark key="[" line="16" column="33" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -443,63 +459,69 @@
         <mark key="^" line="70" column="20" />
         <mark key="." line="70" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" timestamp="1738782986625">
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="41" column="38" />
-        <mark key="." line="41" column="37" />
-        <mark key="^" line="41" column="38" />
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/TokenService.java" timestamp="1738865622157">
+        <mark key="&quot;" line="17" column="13" />
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" timestamp="1738680209103">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="45" />
-        <mark key="^" line="12" column="45" />
-        <mark key="." line="12" column="44" />
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/repository/UserRepository.java" timestamp="1739301845234">
+        <mark key="&quot;" line="13" column="44" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Projects/spring/AuthandFinance/src/main/java/com/example/AuthFinance/infra/security/SpringSecurity.java" timestamp="1738844321013">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="LINE_WISE">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay52YXI7ZGQK</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZXhhbXBsZS5BdXRoRmluYW5jZS5jb250cm9sbGVyOwoKaW1wb3J0IGNvbS5leGFtcGxlLkF1dGhGaW5hbmNlLmRvbWFpbi51c2VyLlVzZXI7CmltcG9ydCBjb20uZXhhbXBsZS5BdXRoRmluYW5jZS5kdG8uTG9naW5SZXF1ZXN0RFRPOwppbXBvcnQgY29tLmV4YW1wbGUuQXV0aEZpbmFuY2UuZHRvLlJlZ2lzdGVyUmVxdWVzdERUTzsKaW1wb3J0IGNvbS5leGFtcGxlLkF1dGhGaW5hbmNlLmR0by5SZXNwb25zZURUTzsKaW1wb3J0IGNvbS5leGFtcGxlLkF1dGhGaW5hbmNlLmluZnJhLnNlY3VyaXR5LlRva2VuU2VydmljZTsKaW1wb3J0IGNvbS5leGFtcGxlLkF1dGhGaW5hbmNlLnJlcG9zaXRvcnkuVXNlclJlcG9zaXRvcnk7CmltcG9ydCBsb21ib2suUmVxdWlyZWRBcmdzQ29uc3RydWN0b3I7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuUmVzcG9uc2VFbnRpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNyeXB0by5wYXNzd29yZC5QYXNzd29yZEVuY29kZXI7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uKjsKCmltcG9ydCBqYXZhLnV0aWwuT3B0aW9uYWw7CgpAUmVzdENvbnRyb2xsZXIKQFJlcXVlc3RNYXBwaW5nKCIvYXV0aCIpCkBSZXF1aXJlZEFyZ3NDb25zdHJ1Y3RvcgpwdWJsaWMgY2xhc3MgQXV0aENvbnRyb2xsZXIgewoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgZmluYWwgVXNlclJlcG9zaXRvcnkgdXNlclJlcG9zaXRvcnk7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBmaW5hbCBQYXNzd29yZEVuY29kZXIgcGFzc3dvcmRFbmNvZGVyOwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgZmluYWwgVG9rZW5TZXJ2aWNlIHRva2VuU2VydmljZTsKCiAgICBAUG9zdE1hcHBpbmcoIi9yZWdpc3RlciIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgcmVnaXN0ZXIoQFJlcXVlc3RCb2R5IFJlZ2lzdGVyUmVxdWVzdERUTyBib2R5KXsKICAgICAgICBPcHRpb25hbDxVc2VyPiB1c2VyID0gdXNlclJlcG9zaXRvcnkuZmluZEJ5RW1haWwoYm9keS5lbWFpbCgpKTsKCiAgICAgICAgaWYgKHVzZXIuaXNFbXB0eSgpKXsKICAgICAgICAgICAgVXNlciBuZXdVc2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgbmV3VXNlci5zZXRQYXNzd29yZChwYXNzd29yZEVuY29kZXIuZW5jb2RlKGJvZHkuUGFzc3dvcmQoKSkpOwogICAgICAgICAgICBuZXdVc2VyLnNldEVtYWlsKGJvZHkuZW1haWwoKSk7CiAgICAgICAgICAgIG5ld1VzZXIuc2V0TmFtZShib2R5Lm5hbWUoKSk7CiAgICAgICAgICAgIHRoaXMudXNlclJlcG9zaXRvcnkuc2F2ZShuZXdVc2VyKTsKCiAgICAgICAgICAgIFN0cmluZyB0b2tlbiA9IHRoaXMudG9rZW5TZXJ2aWNlLmdlbmVyYXRlVG9rZW4obmV3VXNlcik7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhuZXcgUmVzcG9uc2VEVE8obmV3VXNlci5nZXROYW1lKCksIHRva2VuKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5iYWRSZXF1ZXN0KCkuYnVpbGQoKTsKICAgIH0KCiAgICBAR2V0TWFwcGluZygiL2xvZ2luIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eSBsb2dpbihAUmVxdWVzdEJvZHkgTG9naW5SZXF1ZXN0RFRPIGJvZHkpewogICAgICAgIFVzZXIgdXNlciA9IHRoaXMudXNlclJlcG9zaXRvcnkuZmluZEJ5RW1haWwoYm9keS5lbWFpbCgpKS5vckVsc2VUaHJvdygoKS0+IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJVU2VyICIpKTsKICAgICAgICBpZiAocGFzc3dvcmRFbmNvZGVyLm1hdGNoZXMoYm9keS5QYXNzd29yZCgpLCB1c2VyLmdldFBhc3N3b3JkKCkpKXsKICAgICAgICAgICAgU3RyaW5nIHRva2VuID0gdGhpcy50b2tlblNlcnZpY2UuZ2VuZXJhdGVUb2tlbih1c2VyKTsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm9rKG5ldyBSZXNwb25zZURUTyh1c2VyLmdldE5hbWUoKSwgdG9rZW4pKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuICBSZXNwb25zZUVudGl0eS5iYWRSZXF1ZXN0KCkuYnVpbGQoKTsKICAgIH0KCn0K</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
         <text encoding="base64">ICB2YXIgbG9naW4gPSB0b2tlblNlcnZpY2UudmFsaWRhdGVUb2tlbih0KQ==</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">ZGQ=</text>
+        <text encoding="base64">dXU=</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBBbGdvcml0aG0gYWxnb3JpdGhtID0gQWxnb3JpdGhtLkhNQUMyNTYoc2VjcmV0KTsKICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZXhhbXBsZS5BdXRoRmluYW5jZS5jb250cm9sbGVyOwoKaW1wb3J0IGNvbS5leGFtcGxlLkF1dGhGaW5hbmNlLmRvbWFpbi51c2VyLlVzZXI7CmltcG9ydCBjb20uZXhhbXBsZS5BdXRoRmluYW5jZS5kdG8uTG9naW5SZXF1ZXN0RFRPOwppbXBvcnQgY29tLmV4YW1wbGUuQXV0aEZpbmFuY2UuZHRvLlJlZ2lzdGVyUmVxdWVzdERUTzsKaW1wb3J0IGNvbS5leGFtcGxlLkF1dGhGaW5hbmNlLmR0by5SZXNwb25zZURUTzsKaW1wb3J0IGNvbS5leGFtcGxlLkF1dGhGaW5hbmNlLmluZnJhLnNlY3VyaXR5LlRva2VuU2VydmljZTsKaW1wb3J0IGNvbS5leGFtcGxlLkF1dGhGaW5hbmNlLnJlcG9zaXRvcnkuVXNlclJlcG9zaXRvcnk7CmltcG9ydCBsb21ib2suUmVxdWlyZWRBcmdzQ29uc3RydWN0b3I7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuUmVzcG9uc2VFbnRpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNyeXB0by5wYXNzd29yZC5QYXNzd29yZEVuY29kZXI7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uKjsKCmltcG9ydCBqYXZhLnV0aWwuT3B0aW9uYWw7CgpAUmVzdENvbnRyb2xsZXIKQFJlcXVlc3RNYXBwaW5nKCIvYXV0aCIpCkBSZXF1aXJlZEFyZ3NDb25zdHJ1Y3RvcgpwdWJsaWMgY2xhc3MgQXV0aENvbnRyb2xsZXIgewoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgZmluYWwgVXNlclJlcG9zaXRvcnkgdXNlclJlcG9zaXRvcnk7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBmaW5hbCBQYXNzd29yZEVuY29kZXIgcGFzc3dvcmRFbmNvZGVyOwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgZmluYWwgVG9rZW5TZXJ2aWNlIHRva2VuU2VydmljZTsKCiAgICBAUG9zdE1hcHBpbmcoIi9yZWdpc3RlciIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgcmVnaXN0ZXIoQFJlcXVlc3RCb2R5IFJlZ2lzdGVyUmVxdWVzdERUTyBib2R5KXsKICAgICAgICBPcHRpb25hbDxVc2VyPiB1c2VyID0gdXNlclJlcG9zaXRvcnkuZmluZEJ5RW1haWwoYm9keS5lbWFpbCgpKTsKCiAgICAgICAgaWYgKHVzZXIuaXNFbXB0eSgpKXsKICAgICAgICAgICAgVXNlciBuZXdVc2VyID0gbmV3IFVzZXIoKTsKICAgICAgICAgICAgbmV3VXNlci5zZXRQYXNzd29yZChwYXNzd29yZEVuY29kZXIuZW5jb2RlKGJvZHkuUGFzc3dvcmQoKSkpOwogICAgICAgICAgICBuZXdVc2VyLnNldEVtYWlsKGJvZHkuZW1haWwoKSk7CiAgICAgICAgICAgIG5ld1VzZXIuc2V0TmFtZShib2R5Lm5hbWUoKSk7CiAgICAgICAgICAgIHRoaXMudXNlclJlcG9zaXRvcnkuc2F2ZShuZXdVc2VyKTsKCiAgICAgICAgICAgIFN0cmluZyB0b2tlbiA9IHRoaXMudG9rZW5TZXJ2aWNlLmdlbmVyYXRlVG9rZW4obmV3VXNlcik7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhuZXcgUmVzcG9uc2VEVE8obmV3VXNlci5nZXROYW1lKCksIHRva2VuKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5iYWRSZXF1ZXN0KCkuYnVpbGQoKTsKICAgIH0KCiAgICBAR2V0TWFwcGluZygiL2xvZ2luIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eSBsb2dpbihAUmVxdWVzdEJvZHkgTG9naW5SZXF1ZXN0RFRPIGJvZHkpewogICAgICAgIFVzZXIgdXNlciA9IHRoaXMudXNlclJlcG9zaXRvcnkuZmluZEJ5RW1haWwoYm9keS5lbWFpbCgpKS5vckVsc2VUaHJvdygoKS0+IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJVU2VyICIpKTsKICAgICAgICBpZiAocGFzc3dvcmRFbmNvZGVyLm1hdGNoZXMoYm9keS5QYXNzd29yZCgpLCB1c2VyLmdldFBhc3N3b3JkKCkpKXsKICAgICAgICAgICAgU3RyaW5nIHRva2VuID0gdGhpcy50b2tlblNlcnZpY2UuZ2VuZXJhdGVUb2tlbih1c2VyKTsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm9rKG5ldyBSZXNwb25zZURUTyh1c2VyLmdldE5hbWUoKSwgdG9rZW4pKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuICBSZXNwb25zZUVudGl0eS5iYWRSZXF1ZXN0KCkuYnVpbGQoKTsKICAgIH0KCn0K</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay52YXI7ZGQK</text>
+        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
-      <register name="3" type="CHARACTER_WISE">
-        <text encoding="base64">aXZhdGUgU3RyaW5nIHJlY292ZXJUb2tlbihIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCl7CiAgICAgICAgdmFyIGF1dGhIZWFkZXIgPSAgcmVxdWVzdC5nZXRIZWFkZXIoIkF1dGhvcml6YXRpb24iKTsKICAgICAgICBpZiAoYXV0aEhlYWRlciA9PSBudWxsKSByZXR1cm4gbnVsbDsKICAgICAgICByZXR1cm4gYXV0aEhlYWRlci5yZXBsYWNlKCJCZWFyZXIgIiwgIiIpOwogICAgfQ==</text>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBDb3JzQ29uZmlnIHsKfQo=</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHNlY3JldDsKCiAgICBwdWJsaWMgU3RyaW5nIGdlbmVyYXRlVG9rZW4oVXNlciB1c2VyKXsKICAgICAgICB0cnkgewogICAgICAgICAgICBBbGdvcml0aG0gYWxnb3JpdGhtID0gQWxnb3JpdGhtLkhNQUMyNTYoc2VjcmV0KTsKICAgICAgICAgICAgU3RyaW5nIHRva2VuID0gSldULmNyZWF0ZSgpCiAgICAgICAgICAgICAgICAgICAgLndpdGhJc3N1ZXIoImxvZ2luLWF1dGgtYXBpIikKICAgICAgICAgICAgICAgICAgICAud2l0aFN1YmplY3QodXNlci5nZXRFbWFpbCgpKQogICAgICAgICAgICAgICAgICAgIC53aXRoRXhwaXJlc0F0KGdlbmVyYXRlRXhwaXJhdGlvbkRhdGUoKSkKICAgICAgICAgICAgICAgICAgICAuc2lnbihhbGdvcml0aG0pOwogICAgICAgICAgICByZXR1cm4gdG9rZW47CiAgICAgICAgfWNhdGNoIChKV1RDcmVhdGlvbkV4Y2VwdGlvbiBleGNlcHRpb24pewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiRXJyb3Igd2hpbGUgYXV0aGVudGljYXRpbmciKTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIFN0cmluZyB2YWxpZGF0ZVRva2VuKFN0cmluZyB0b2tlbil7CiAgICAgICAgdHJ5ewogICAgICAgICAgICBBbGdvcml0aG0gYWxnb3JpdGhtID0gQWxnb3JpdGhtLkhNQUMyNTYoc2VjcmV0KTsKICAgICAgICAgICAgcmV0dXJuIEpXVC5yZXF1aXJlKGFsZ29yaXRobSkKICAgICAgICAgICAgICAgICAgICAud2l0aElzc3VlcigibG9naW4tYXV0aC1hcGkiKQogICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgICAgICAgICAgICAgLnZlcmlmeSh0b2tlbikKICAgICAgICAgICAgICAgICAgICAuZ2V0U3ViamVjdCgpOwogICAgICAgIH0gY2F0Y2ggKEpXVENyZWF0aW9uRXhjZXB0aW9uIGV4Y2VwdGlvbil7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBzZWNyZXQ7CgogICAgcHVibGljIFN0cmluZyBnZW5lcmF0ZVRva2VuKFVzZXIgdXNlcil7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgQWxnb3JpdGhtIGFsZ29yaXRobSA9IEFsZ29yaXRobS5ITUFDMjU2KHNlY3JldCk7CgogICAgICAgIH0gY2F0Y2ggKEpXVENyZWF0aW9uRXhjZXB0aW9uIGV4Y2VwdGlvbikgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiRXJyb3Igd2hpbGUgQXV0aGVudGljYXRpbmciKTsKICAgICAgICB9CgoKCiAgICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBBbGdvcml0aG0gYWxnb3JpdGhtID0gQWxnb3JpdGhtLkhNQUMyNTYoc2VjcmV0KTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFNwcmluZ1NlY3VyaXR5IHsK</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJVc2VyIisgcmVnaXN0ZXJlZFVzZXIuZ2V0TmFtZSgpKyAiIFJlZ2lzdGVyZWQiKTsK</text>
+        <text encoding="base64">CiAgICByZXR1cm4gbmV3IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyKHVzZXIuZ2V0RW1haWwoKSwgdXNlci5nZXRQYXNzd29yZCgpLCBuZXcgQXJyYXlMaXN0PD4oKSk7Cg==</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJVc2VyIisgcmVnaXN0ZXJlZFVzZXIuZ2V0TmFtZSgpKyAiIFJlZ2lzdGVyZWQiKTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFNwcmluZ1NlY3VyaXR5IHsKfQo=</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6aDI6bWVtOnRlc3RkYgpzcHJpbmcuZGF0YXNvdXJjZS5kcml2ZXItY2xhc3MtbmFtZT1vcmcuaDIuRHJpdmVyCnNwcmluZy5kYXRhc291cmNlLnVzZXJuYW1lPXNhCnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS5jb3JlLnVzZXJkZXRhaWxzLlVzZXIodXNlci5nZXRFbWFpbCgpLCB1c2VyLmdldFBhc3N3b3JkKCksIG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
-        <text encoding="base64">dw==</text>
+        <text encoding="base64">JXk=</text>
       </register>
     </registers>
   </component>

@@ -1,0 +1,10 @@
+2025-02-19 17:17:52.403 [info] Started local extension host with pid 1225233.
+2025-02-19 17:17:54.695 [error] Error while getting the latest version for the extension angular.ng-template. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:17:54.696 [error] Error while getting the latest version for the extension dbaeumer.vscode-eslint. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:17:54.697 [error] Error while getting the latest version for the extension dsznajder.es7-react-js-snippets. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:17:54.697 [error] Error while getting the latest version for the extension emmanuelbeziat.vscode-great-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:17:54.697 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:17:54.698 [error] Error while getting the latest version for the extension github.github-vscode-theme. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:17:54.698 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:17:54.698 [error] Error while getting the latest version for the extension vscode-icons-team.vscode-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:17:55.094 [info] [perf] Render performance baseline is 53ms

@@ -1,0 +1,23 @@
+2025-02-19 17:10:12.174 [info] Started local extension host with pid 1205752.
+2025-02-19 17:10:14.764 [error] Error while getting the latest version for the extension angular.ng-template. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:14.766 [error] Error while getting the latest version for the extension dbaeumer.vscode-eslint. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:14.766 [error] Error while getting the latest version for the extension dsznajder.es7-react-js-snippets. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:14.767 [error] Error while getting the latest version for the extension emmanuelbeziat.vscode-great-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:14.770 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:14.772 [error] Error while getting the latest version for the extension github.github-vscode-theme. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:14.775 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:14.781 [error] Error while getting the latest version for the extension vscode-icons-team.vscode-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:15.948 [info] [perf] Render performance baseline is 62ms
+2025-02-19 17:10:40.439 [warning] [backup tracker] suspended, ignoring unregister event file:///home/alberto/Desktop/Projects/others/climate-action%20%285%29/package.json 
+2025-02-19 17:10:40.440 [warning] [backup tracker] suspended, ignoring unregister event file:///home/alberto/Desktop/Projects/others/climate-action%20%285%29/.next/package.json 
+2025-02-19 17:10:41.192 [info] Started local extension host with pid 1207123.
+2025-02-19 17:10:43.510 [error] Error while getting the latest version for the extension angular.ng-template. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:43.510 [error] Error while getting the latest version for the extension dbaeumer.vscode-eslint. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:43.510 [error] Error while getting the latest version for the extension dsznajder.es7-react-js-snippets. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:43.511 [error] Error while getting the latest version for the extension emmanuelbeziat.vscode-great-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:43.511 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:43.512 [error] Error while getting the latest version for the extension github.github-vscode-theme. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:43.512 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:43.513 [error] Error while getting the latest version for the extension vscode-icons-team.vscode-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-19 17:10:43.885 [info] [perf] Render performance baseline is 67ms
+2025-02-19 17:12:01.010 [warning] [backup tracker] suspended, ignoring unregister event file:///home/alberto/Desktop/Projects/spring/frontEnd/auth-app/package.json 

@@ -1,0 +1,451 @@
+{
+  "schemaVersion": 2,
+  "campaigns": [
+    {
+      "version": 1,
+      "advertiserId": "846dfc87-cea8-46f2-98b1-d9e42ef147b6",
+      "campaignId": "a782280d-d6b6-4d62-bf86-557878f00746",
+      "startAt": "2025-01-21T05:00:00.000Z",
+      "endAt": "2025-03-15T03:59:00.000Z",
+      "dailyCap": 20,
+      "priority": 1,
+      "ptr": 1,
+      "geoTargets": [
+        "US"
+      ],
+      "creativeSets": [
+        {
+          "creativeSetId": "3a25fdd4-4ad5-4075-bb96-df92ffde06b2",
+          "perDay": 5,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 5,
+          "value": "0",
+          "creatives": [
+            {
+              "creativeInstanceId": "fed66fff-ee3a-4c80-9d1a-e3e47c97b066",
+              "targetUrl": "https://blocksurvey.io/brave-survey-OUtGT7XhSZOG6eci2CC.8Q?language=en_US&region=US&operating_system=Desktop&cohort_age=30",
+              "alt": "Survey | Tell us what you think about Brave | Give feedback",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "46dd9959-44b8-4e4c-a445-66784c1e3555.png",
+                "button": {
+                  "image": {
+                    "relativeUrl": "12b36ec0-bf85-447f-b13a-2510fe8cdfda.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              },
+              "conditionMatchers": [
+                {
+                  "prefPath": "[virtual]:operating_system|locale|region",
+                  "condition": "US"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|locale|language",
+                  "condition": "en"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|name",
+                  "condition": "^(Windows|Mac OS X|Linux)$"
+                },
+                {
+                  "prefPath": "[virtual]:browser|build_channel",
+                  "condition": "stable"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≥]:30"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|fed66fff-ee3a-4c80-9d1a-e3e47c97b066|views",
+                  "condition": "[R≤]:5"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|fed66fff-ee3a-4c80-9d1a-e3e47c97b066|clicks",
+                  "condition": "[R≤]:2"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≤]:180"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "creativeSetId": "c9e19247-c33e-4c46-95b9-ad4b66f243cb",
+          "perDay": 5,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 5,
+          "value": "0",
+          "creatives": [
+            {
+              "creativeInstanceId": "37bfdedc-dec4-41ba-a2a6-589c46cfe6ef",
+              "targetUrl": "https://blocksurvey.io/brave-survey-OUtGT7XhSZOG6eci2CC.8Q?language=en_US&region=US&operating_system=Desktop&cohort_age=1",
+              "alt": "Survey | Tell us what you think about Brave | Give feedback",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "46dd9959-44b8-4e4c-a445-66784c1e3555.png",
+                "button": {
+                  "image": {
+                    "relativeUrl": "12b36ec0-bf85-447f-b13a-2510fe8cdfda.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              },
+              "conditionMatchers": [
+                {
+                  "prefPath": "[virtual]:operating_system|locale|region",
+                  "condition": "US"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|locale|language",
+                  "condition": "en"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|name",
+                  "condition": "^(Windows|Mac OS X|Linux)$"
+                },
+                {
+                  "prefPath": "[virtual]:browser|build_channel",
+                  "condition": "stable"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≥]:1"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|37bfdedc-dec4-41ba-a2a6-589c46cfe6ef|views",
+                  "condition": "[R≤]:5"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|37bfdedc-dec4-41ba-a2a6-589c46cfe6ef|clicks",
+                  "condition": "[R≤]:2"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≤]:2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "creativeSetId": "d847e4b3-3635-4593-b03a-3f62716e8bc8",
+          "perDay": 5,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 5,
+          "value": "0",
+          "creatives": [
+            {
+              "creativeInstanceId": "4215936a-ffb8-4826-b650-656e95b25a28",
+              "targetUrl": "https://blocksurvey.io/brave-survey-OUtGT7XhSZOG6eci2CC.8Q?language=en_US&region=US&operating_system=Desktop&cohort_age=7",
+              "alt": "Survey | Tell us what you think about Brave | Give feedback",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "46dd9959-44b8-4e4c-a445-66784c1e3555.png",
+                "button": {
+                  "image": {
+                    "relativeUrl": "12b36ec0-bf85-447f-b13a-2510fe8cdfda.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              },
+              "conditionMatchers": [
+                {
+                  "prefPath": "[virtual]:operating_system|locale|region",
+                  "condition": "US"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|locale|language",
+                  "condition": "en"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|name",
+                  "condition": "^(Windows|Mac OS X|Linux)$"
+                },
+                {
+                  "prefPath": "[virtual]:browser|build_channel",
+                  "condition": "stable"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≥]:7"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|4215936a-ffb8-4826-b650-656e95b25a28|views",
+                  "condition": "[R≤]:5"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|4215936a-ffb8-4826-b650-656e95b25a28|clicks",
+                  "condition": "[R≤]:2"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≤]:10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "advertiserId": "216c5e8c-434d-4c72-a9c5-3a11343dde48",
+      "campaignId": "0b5dc9ab-80f6-4d4d-b8ef-11225f6ad1b5",
+      "startAt": "2025-03-08T05:00:00.000Z",
+      "endAt": "2025-03-09T04:59:00.000Z",
+      "dailyCap": 20,
+      "priority": 1,
+      "ptr": 1,
+      "geoTargets": [
+        "AD",
+        "AE",
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AW",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BM",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CD",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GM",
+        "GN",
+        "GP",
+        "GR",
+        "GT",
+        "GU",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IQ",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MQ",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SV",
+        "SZ",
+        "TG",
+        "TH",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TW",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VC",
+        "VI",
+        "VN",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "creativeSets": [
+        {
+          "creativeSetId": "2042b4ed-e11e-4bf7-8f7f-5cce1562182e",
+          "perDay": 20,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 20,
+          "value": "0",
+          "creatives": [
+            {
+              "creativeInstanceId": "1859b6e6-22ed-486a-9d37-0dd2e14e909f",
+              "targetUrl": "https://search.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-search&mtm_content=1859b6e6-22ed-486a-9d37-0dd2e14e909f&mtm_date=20250301",
+              "alt": "Protecting your privacy. Fighting censorship. Since 2021.",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "71a0dc63-4bed-435d-a0fa-079833d8b43b.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "3b57b1ec-f205-42af-84f3-3b0b5c09f0e6.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            },
+            {
+              "creativeInstanceId": "ebc346ae-73a1-4b18-b40b-8cb0f46d8008",
+              "targetUrl": "https://search.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-search&mtm_content=ebc346ae-73a1-4b18-b40b-8cb0f46d8008&mtm_date=20250301",
+              "alt": "Protecting your privacy. Fighting censorship. Since 2021.",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "62d5c548-dc59-4150-bb5e-86455335d09c.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "6fdadfdf-d72b-4872-ad3c-67642170e382.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

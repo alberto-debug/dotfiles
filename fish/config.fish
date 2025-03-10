@@ -30,6 +30,9 @@ alias statusxamp='sudo /opt/lampp/lampp status'
 
 alias mysqlxamp='sudo /opt/lampp/bin/mysql -u root'
 
+
+set -gx NVM_DIR $HOME/.nvm
+
 set_color normal red
 set_color --bold green
 set_color --background black

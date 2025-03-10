@@ -1,0 +1,377 @@
+[Info  - 11:53:13 PM] ESLint server is starting.
+[Info  - 11:53:14 PM] ESLint server running in node v20.18.1
+[Info  - 11:53:14 PM] ESLint server is running.
+[Info  - 11:53:15 PM] ESLint library loaded from: /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/eslint/lib/api.js
+[0;33mOne of your dependencies, babel-preset-react-app, is importing the
+"@babel/plugin-proposal-private-property-in-object" package without
+declaring it in its dependencies. This is currently working because
+"@babel/plugin-proposal-private-property-in-object" is already in your
+node_modules folder for unrelated reasons, but it [1mmay break at any time[0;33m.
+
+babel-preset-react-app is part of the create-react-app project, [1mwhich
+is not maintianed anymore[0;33m. It is thus unlikely that this bug will
+ever be fixed. Add "@babel/plugin-proposal-private-property-in-object" to
+your devDependencies to work around this error. This will make this message
+go away.[0m
+  
+[Error - 11:54:50 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-app/src/components/navbar.tsx) failed.
+Error: Failed to load parser '@typescript-eslint/parser' declared in 'package.json » eslint-config-react-app#overrides[0]': Cannot find module 'typescript'
+Require stack:
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+    at Module._load (node:internal/modules/cjs/loader:1058:27)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js:4:19)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js:18:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js:8:29)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+[Error - 11:55:18 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-app/src/components/CardSection.tsx) failed.
+Error: Failed to load parser '@typescript-eslint/parser' declared in 'package.json » eslint-config-react-app#overrides[0]': Cannot find module 'typescript'
+Require stack:
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+    at Module._load (node:internal/modules/cjs/loader:1058:27)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js:4:19)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js:18:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js:8:29)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+[Error - 11:55:50 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-app/src/components/Footer.tsx) failed.
+Error: Failed to load parser '@typescript-eslint/parser' declared in 'package.json » eslint-config-react-app#overrides[0]': Cannot find module 'typescript'
+Require stack:
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+    at Module._load (node:internal/modules/cjs/loader:1058:27)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js:4:19)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js:18:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js:8:29)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+[Error - 11:57:14 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-app/src/index.tsx) failed.
+Error: Failed to load parser '@typescript-eslint/parser' declared in 'package.json » eslint-config-react-app#overrides[0]': Cannot find module 'typescript'
+Require stack:
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+    at Module._load (node:internal/modules/cjs/loader:1058:27)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js:4:19)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js:18:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js:8:29)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+[Error - 11:57:24 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-app/src/App.tsx) failed.
+Error: Failed to load parser '@typescript-eslint/parser' declared in 'package.json » eslint-config-react-app#overrides[0]': Cannot find module 'typescript'
+Require stack:
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+    at Module._load (node:internal/modules/cjs/loader:1058:27)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js:4:19)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js:18:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js:8:29)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+[Error - 11:57:38 PM] Calculating config file for file:///home/alberto/Desktop/Projects/spring/other/my-app/src/components/Navbar.tsx) failed.
+Error: Failed to load parser '@typescript-eslint/parser' declared in 'package.json » eslint-config-react-app#overrides[0]': Cannot find module 'typescript'
+Require stack:
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js
+- /home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+    at Module._load (node:internal/modules/cjs/loader:1058:27)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/convert.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/ast-converter.js:4:19)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/parser.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/typescript-estree/dist/index.js:18:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/parser.js:8:29)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Module.require (node:internal/modules/cjs/loader:1318:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/alberto/Desktop/Projects/spring/other/my-app/node_modules/@typescript-eslint/parser/dist/index.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+[Info  - 12:00:09 AM] ESLint server stopped.

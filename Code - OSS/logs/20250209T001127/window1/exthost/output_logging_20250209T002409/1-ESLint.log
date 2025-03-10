@@ -1,0 +1,17 @@
+[Info  - 12:24:13 AM] ESLint server is starting.
+[Info  - 12:24:13 AM] ESLint server running in node v20.18.1
+[Info  - 12:24:13 AM] ESLint server is running.
+[Info  - 12:24:15 AM] ESLint library loaded from: /home/alberto/Desktop/Projects/deli/node_modules/eslint/lib/api.js
+[0;33mOne of your dependencies, babel-preset-react-app, is importing the
+"@babel/plugin-proposal-private-property-in-object" package without
+declaring it in its dependencies. This is currently working because
+"@babel/plugin-proposal-private-property-in-object" is already in your
+node_modules folder for unrelated reasons, but it [1mmay break at any time[0;33m.
+
+babel-preset-react-app is part of the create-react-app project, [1mwhich
+is not maintianed anymore[0;33m. It is thus unlikely that this bug will
+ever be fixed. Add "@babel/plugin-proposal-private-property-in-object" to
+your devDependencies to work around this error. This will make this message
+go away.[0m
+  
+[Info  - 12:27:54 AM] ESLint server stopped.

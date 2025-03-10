@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 2,
+  "campaigns": [
+    {
+      "version": 1,
+      "advertiserId": "846dfc87-cea8-46f2-98b1-d9e42ef147b6",
+      "campaignId": "a782280d-d6b6-4d62-bf86-557878f00746",
+      "startAt": "2025-01-21T05:00:00.000Z",
+      "endAt": "2025-03-15T03:59:00.000Z",
+      "dailyCap": 20,
+      "priority": 1,
+      "ptr": 1,
+      "geoTargets": [
+        "US"
+      ],
+      "creativeSets": [
+        {
+          "creativeSetId": "3a25fdd4-4ad5-4075-bb96-df92ffde06b2",
+          "perDay": 5,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 5,
+          "value": "0",
+          "creatives": [
+            {
+              "creativeInstanceId": "fed66fff-ee3a-4c80-9d1a-e3e47c97b066",
+              "targetUrl": "https://blocksurvey.io/brave-survey-OUtGT7XhSZOG6eci2CC.8Q?language=en_US&region=US&operating_system=Desktop&cohort_age=30",
+              "alt": "Survey | Tell us what you think about Brave | Give feedback",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "46dd9959-44b8-4e4c-a445-66784c1e3555.png",
+                "button": {
+                  "image": {
+                    "relativeUrl": "12b36ec0-bf85-447f-b13a-2510fe8cdfda.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              },
+              "conditionMatchers": [
+                {
+                  "prefPath": "[virtual]:operating_system|locale|region",
+                  "condition": "US"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|locale|language",
+                  "condition": "en"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|name",
+                  "condition": "^(Windows|Mac OS X|Linux)$"
+                },
+                {
+                  "prefPath": "[virtual]:browser|build_channel",
+                  "condition": "stable"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≥]:30"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|fed66fff-ee3a-4c80-9d1a-e3e47c97b066|views",
+                  "condition": "[R≤]:5"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|fed66fff-ee3a-4c80-9d1a-e3e47c97b066|clicks",
+                  "condition": "[R≤]:2"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≤]:180"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "creativeSetId": "c9e19247-c33e-4c46-95b9-ad4b66f243cb",
+          "perDay": 5,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 5,
+          "value": "0",
+          "creatives": [
+            {
+              "creativeInstanceId": "37bfdedc-dec4-41ba-a2a6-589c46cfe6ef",
+              "targetUrl": "https://blocksurvey.io/brave-survey-OUtGT7XhSZOG6eci2CC.8Q?language=en_US&region=US&operating_system=Desktop&cohort_age=1",
+              "alt": "Survey | Tell us what you think about Brave | Give feedback",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "46dd9959-44b8-4e4c-a445-66784c1e3555.png",
+                "button": {
+                  "image": {
+                    "relativeUrl": "12b36ec0-bf85-447f-b13a-2510fe8cdfda.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              },
+              "conditionMatchers": [
+                {
+                  "prefPath": "[virtual]:operating_system|locale|region",
+                  "condition": "US"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|locale|language",
+                  "condition": "en"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|name",
+                  "condition": "^(Windows|Mac OS X|Linux)$"
+                },
+                {
+                  "prefPath": "[virtual]:browser|build_channel",
+                  "condition": "stable"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≥]:1"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|37bfdedc-dec4-41ba-a2a6-589c46cfe6ef|views",
+                  "condition": "[R≤]:5"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|37bfdedc-dec4-41ba-a2a6-589c46cfe6ef|clicks",
+                  "condition": "[R≤]:2"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≤]:2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "creativeSetId": "d847e4b3-3635-4593-b03a-3f62716e8bc8",
+          "perDay": 5,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 5,
+          "value": "0",
+          "creatives": [
+            {
+              "creativeInstanceId": "4215936a-ffb8-4826-b650-656e95b25a28",
+              "targetUrl": "https://blocksurvey.io/brave-survey-OUtGT7XhSZOG6eci2CC.8Q?language=en_US&region=US&operating_system=Desktop&cohort_age=7",
+              "alt": "Survey | Tell us what you think about Brave | Give feedback",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "46dd9959-44b8-4e4c-a445-66784c1e3555.png",
+                "button": {
+                  "image": {
+                    "relativeUrl": "12b36ec0-bf85-447f-b13a-2510fe8cdfda.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              },
+              "conditionMatchers": [
+                {
+                  "prefPath": "[virtual]:operating_system|locale|region",
+                  "condition": "US"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|locale|language",
+                  "condition": "en"
+                },
+                {
+                  "prefPath": "[virtual]:operating_system|name",
+                  "condition": "^(Windows|Mac OS X|Linux)$"
+                },
+                {
+                  "prefPath": "[virtual]:browser|build_channel",
+                  "condition": "stable"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≥]:7"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|4215936a-ffb8-4826-b650-656e95b25a28|views",
+                  "condition": "[R≤]:5"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|4215936a-ffb8-4826-b650-656e95b25a28|clicks",
+                  "condition": "[R≤]:2"
+                },
+                {
+                  "prefPath": "uninstall_metrics.installation_date2",
+                  "condition": "[T≤]:10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "advertiserId": "d5e9cc3c-6a26-42ab-99a4-30a98f993e26",
+      "campaignId": "3b5617f8-ca55-4822-9489-47e1671ee501",
+      "startAt": "2025-03-07T05:00:00.000Z",
+      "endAt": "2025-03-08T04:59:59.999Z",
+      "dailyCap": 20,
+      "priority": 1,
+      "ptr": 1,
+      "geoTargets": [
+        "US"
+      ],
+      "creativeSets": [
+        {
+          "creativeSetId": "2f1928e9-999f-4a9f-b8c8-a5b44823387e",
+          "perDay": 20,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 20,
+          "value": "0.01",
+          "creatives": [
+            {
+              "creativeInstanceId": "e79ff9d5-5842-4d2f-844a-1f30e53f77b4",
+              "targetUrl": "https://www.fragpunk.com/fab/1/#/?utm_source=brave",
+              "alt": "FragPunk - 5v5 Hero Shooter -Break the rules - Play Free Now",
+              "companyName": "FragPunk",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "e66e3ff7-c42b-4e2c-b43d-b0571745441d.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "03cc1706-af8c-4388-a814-79ebbcd0f637.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            },
+            {
+              "creativeInstanceId": "6544b712-76cf-40c2-8276-8eb04b6f943a",
+              "targetUrl": "https://www.fragpunk.com/fab/1/#/?utm_source=brave",
+              "alt": "FragPunk - 5v5 Hero Shooter -Break the rules - Play Free Now",
+              "companyName": "FragPunk",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "02cd41fd-d073-44f1-ba13-88382d13b24d.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "03cc1706-af8c-4388-a814-79ebbcd0f637.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

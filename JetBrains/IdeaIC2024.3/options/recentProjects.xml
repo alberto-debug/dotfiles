@@ -18,22 +18,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/Projects/Financial-Tracker--Backend">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Financial-Tracker--Backend – jwtRequestFilter.java" projectWorkspaceId="2oFa8PsxfPwzRD6oXjiGxEDRWol">
-              <option name="activationTimestamp" value="1730682995240" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-242.23726.103" />
-              <option name="buildTimestamp" value="1729940520000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="1923" y="3" width="1912" height="1039" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1730585050049" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Desktop/data_structures/Trees">
           <value>
             <RecentProjectMetaInfo frameTitle="Trees – BinaryTree.java" projectWorkspaceId="2oMcg6YbfmoFiBwsA7TARmWIHS5">
@@ -162,22 +146,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/Projects/deli">
-          <value>
-            <RecentProjectMetaInfo frameTitle="deli – SecurityFilter.java" projectWorkspaceId="2qettvkDuBcgh5VNBGl7FiiEuKX">
-              <option name="activationTimestamp" value="1735060889227" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-243.21565.193" />
-              <option name="buildTimestamp" value="1731634860000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="3" y="3" width="1914" height="1046" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1735050183059" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Desktop/Projects/server">
           <value>
             <RecentProjectMetaInfo frameTitle="server – StudentService.java" projectWorkspaceId="2pWoesfmhjaRfgsph28mLFF1fkP">
@@ -207,38 +175,6 @@
               <frame x="3" y="3" width="1914" height="1046" />
               <option name="productionCode" value="IC" />
               <option name="projectOpenTimestamp" value="1735060698035" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Desktop/Projects/login-app-backend-main">
-          <value>
-            <RecentProjectMetaInfo frameTitle="login-app-backend-main – AdminController.java" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
-              <option name="activationTimestamp" value="1737316846459" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-243.21565.193" />
-              <option name="buildTimestamp" value="1731634860000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="3" y="3" width="1914" height="1046" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1737316577963" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Desktop/Projects/algorithm">
-          <value>
-            <RecentProjectMetaInfo frameTitle="algorithm" projectWorkspaceId="2s4OBJuBKUMvJZJSFS9tdVDUEjJ">
-              <option name="activationTimestamp" value="1737711275990" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-243.21565.193" />
-              <option name="buildTimestamp" value="1731634860000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="0" y="0" width="1920" height="1080" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1737711246351" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -274,22 +210,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/Projects/backandfront">
-          <value>
-            <RecentProjectMetaInfo frameTitle="backandfront – UserController.java" projectWorkspaceId="2sMfCcsruvY2ZSMvrclrLopj5LE">
-              <option name="activationTimestamp" value="1738447689160" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-243.22562.218" />
-              <option name="buildTimestamp" value="1735896480000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
-              </option>
-              <frame x="3" y="3" width="1914" height="1046" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1738316304381" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-shell-java">
           <value>
             <RecentProjectMetaInfo frameTitle="codecrafters-shell-java – Main.java" projectWorkspaceId="2s9uXwaUAWFVA95rfmMXoK6g2Pj">
@@ -322,10 +242,58 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/deli">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deli – README.md" projectWorkspaceId="2syvTkXNQvsA8Shm2JfMvursPoV">
+              <option name="activationTimestamp" value="1739440637620" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.22562.218" />
+              <option name="buildTimestamp" value="1735896480000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="962" y="3" width="955" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739440638321" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/Financial-Tracker--Backend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Financial-Tracker--Backend – JwtUtil.java" projectWorkspaceId="2oFa8PsxfPwzRD6oXjiGxEDRWol">
+              <option name="activationTimestamp" value="1739440709117" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.22562.218" />
+              <option name="buildTimestamp" value="1735896480000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="962" y="3" width="955" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739440709660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/backandfront">
+          <value>
+            <RecentProjectMetaInfo frameTitle="backandfront – UserController.java" projectWorkspaceId="2sMfCcsruvY2ZSMvrclrLopj5LE">
+              <option name="activationTimestamp" value="1739440772240" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.22562.218" />
+              <option name="buildTimestamp" value="1735896480000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="962" y="3" width="955" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739440772894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Desktop/Projects/spring/AuthandFinance">
           <value>
-            <RecentProjectMetaInfo frameTitle="AuthandFinance – SecurityFilter.java" opened="true" projectWorkspaceId="2sZKvbwoo40z0Wy5UQgOE7AGkQG">
-              <option name="activationTimestamp" value="1738792472339" />
+            <RecentProjectMetaInfo frameTitle="AuthandFinance – ~/Desktop/Projects/login-app-backend-main/src/main/java/com/example/loginauthapi/domain/user/User.java" projectWorkspaceId="2sZKvbwoo40z0Wy5UQgOE7AGkQG">
+              <option name="activationTimestamp" value="1739446262847" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-243.22562.218" />
               <option name="buildTimestamp" value="1735896480000" />
@@ -334,13 +302,187 @@
               </option>
               <frame x="3" y="3" width="1914" height="1046" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1738657888992" />
+              <option name="projectOpenTimestamp" value="1739445886753" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/login-app-backend-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="login-app-backend-main" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+              <option name="activationTimestamp" value="1739447602992" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.22562.218" />
+              <option name="buildTimestamp" value="1735896480000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1923" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739446027664" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/spring/Spendee-Track-spending-easily">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2sz70aBC8Y1pV4ELKG9m3X0u529">
+              <option name="activationTimestamp" value="1739446979928" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.22562.218" />
+              <option name="buildTimestamp" value="1735896480000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739446326606" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/others/backend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="backend – README.md" projectWorkspaceId="2syvTkXNQvsA8Shm2JfMvursPoV">
+              <option name="activationTimestamp" value="1739550444156" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.22562.218" />
+              <option name="buildTimestamp" value="1735896480000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="962" y="3" width="955" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739550445093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/codecrafters/codecrafters-git-java">
+          <value>
+            <RecentProjectMetaInfo frameTitle="codecrafters-git-java – Main.java" projectWorkspaceId="2tUkV7HVynMe2kfu16t6qiyTntv">
+              <option name="activationTimestamp" value="1740598221637" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.23654.189" />
+              <option name="buildTimestamp" value="1738404000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1740414060544" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/spring/login-app-backend-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="login-app-backend-main – Transaction.java" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+              <option name="activationTimestamp" value="1740678581139" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.24978.46" />
+              <option name="buildTimestamp" value="1739795520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1740598224094" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/others/login-app-backend-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="login-app-backend-main – application.properties" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+              <option name="activationTimestamp" value="1740768814792" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.24978.46" />
+              <option name="buildTimestamp" value="1739795520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1740740262073" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/teste2/login-app-backend-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="login-app-backend-main" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+              <option name="activationTimestamp" value="1740827174410" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.24978.46" />
+              <option name="buildTimestamp" value="1739795520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1740768817200" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/SPENDEE/login-app-backend-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="login-app-backend-main [~/Desktop/Projects/SPENDEE/login-app-backend-main] – application.properties" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+              <option name="activationTimestamp" value="1740994851864" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.24978.46" />
+              <option name="buildTimestamp" value="1739795520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1740945679570" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/demo-spendee/login-app-backend-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="login-app-backend-main – TokenService.java" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+              <option name="activationTimestamp" value="1740995524174" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.24978.46" />
+              <option name="buildTimestamp" value="1739795520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1740994854370" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/algorithm/nodes">
+          <value>
+            <RecentProjectMetaInfo frameTitle="nodes – BinaryTree.java" projectWorkspaceId="2tfAKsSIsVPxItWPSpZ6TfQcjop">
+              <option name="activationTimestamp" value="1741644299075" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.24978.46" />
+              <option name="buildTimestamp" value="1739795520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="3" y="3" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1740995525360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/CHAT/EphemeralChatApplication">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2u8y3pR3rRiREmbdoJqFq9czwMW">
+              <option name="activationTimestamp" value="1741646090707" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.24978.46" />
+              <option name="buildTimestamp" value="1739795520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1741644299704" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/spring/AuthandFinance" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Projects/spring" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/CHAT/EphemeralChatApplication" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Projects/CHAT" />
   </component>
 </application>

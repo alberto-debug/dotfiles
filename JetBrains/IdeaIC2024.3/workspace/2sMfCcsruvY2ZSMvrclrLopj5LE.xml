@@ -7,7 +7,7 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="2a9qoe2yvqclb" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+    <leaf ideFingerprint="2c62m1k8xcixi" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/backandfront/BackandfrontApplication.java">
           <provider editor-type-id="text-editor" selected="true">
@@ -16,7 +16,7 @@
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -26,22 +26,10 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/backandfront/model/User.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="154">
+            <state relative-caret-position="110">
               <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#763#764#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,7 +39,7 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/backandfront/service/UserService.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="550">
+            <state relative-caret-position="308">
               <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,8 +47,6 @@
                 <element signature="e#551#552#0" expanded="true" />
                 <element signature="e#592#593#0" expanded="true" />
                 <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,12 +94,12 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 24,
-      "lastUsed": 1738447653423
+      "usageCount": 29,
+      "lastUsed": 1739440772911
     },
     "Properties": {
-      "usageCount": 5,
-      "lastUsed": 1738447652608
+      "usageCount": 6,
+      "lastUsed": 1739440772909
     }
   }
 }]]></component>
@@ -145,10 +131,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="24" lastUsage="1738447653423" />
+      <summary usageCount="29" lastUsage="1739440772911" />
     </language>
     <language id="Properties">
-      <summary usageCount="5" lastUsage="1738447652611" />
+      <summary usageCount="6" lastUsage="1739440772909" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -316,7 +302,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/backandfront/controller/UserController.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="UserController" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="UserController" />
                           <item name="UserController" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
@@ -334,7 +320,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/backandfront/model/User.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="User" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="User" />
                           <item name="User" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
@@ -352,7 +338,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/backandfront/repository/UserRepository.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/interface.svg" iconPlugin="com.mallowigi" isLeaf="true" text="UserRepository" />
+                          <data iconPath="glyphs/nodes/interface.svg" iconPlugin="com.mallowigi" isLeaf="true" text="UserRepository" />
                           <item name="UserRepository" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
@@ -370,7 +356,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/backandfront/service/UserService.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="UserService" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="UserService" />
                           <item name="UserService" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
@@ -380,7 +366,7 @@
                             <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/backandfront/BackandfrontApplication.java" />
                           </map>
                         </attributes>
-                        <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="BackandfrontApplication" />
+                        <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="BackandfrontApplication" />
                         <item name="BackandfrontApplication" type="1a9f42e2:ClassTreeNode" />
                       </presentation>
                     </presentation>
@@ -521,7 +507,7 @@
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20924765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20890051" />
       <window_info id="Commit" order="1" weight="0.20924765" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -537,7 +523,7 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.33030593" left="0.20924765" />
+      <unified_weights bottom="0.33030593" left="0.20890051" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
@@ -614,10 +600,27 @@
     <state x="438" y="234" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1738325809113" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/backandfront/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="110">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/backandfront/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -641,41 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/backandfront/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/backandfront/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -686,7 +658,7 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
           </folding>
         </state>
       </provider>
