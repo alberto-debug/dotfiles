@@ -29,9 +29,9 @@
     "MarketplacePluginsSearchHistory": "lombok\nlombokl\n/suggested\nq\nline",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
-    "NextRunPlatformUpdateBuild": "IC-243.25659.59",
-    "NextRunPlatformUpdateSelfBuild": "IC-243.24978.46",
-    "NextRunPlatformUpdateVersion": "2024.3.4.1",
+    "NextRunPlatformUpdateBuild": "IC-243.26053.27",
+    "NextRunPlatformUpdateSelfBuild": "IC-243.25659.59",
+    "NextRunPlatformUpdateVersion": "2024.3.5",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "SettingsSearchHistory": "lombo\nfont",
@@ -42,7 +42,7 @@
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.used.version": "243.24978.46",
+    "experimental.ui.used.version": "243.25659.59",
     "file.gist.reindex.count": "6",
     "fileTypeChangedCounter": "6",
     "fontSizeToResetConsole": "13.0",
@@ -51,7 +51,7 @@
     "ide.memory.adjusted": "true",
     "ideavim.statistics.timestamp": "1739299878348",
     "ignore.ide.script.launcher.used": "true",
-    "installed.kotlin.plugin.version": "243.24978.46-IJ",
+    "installed.kotlin.plugin.version": "243.25659.59-IJ",
     "jdk.selected.JAVA_MODULE": "21",
     "last_opened_file_path": "/home/alberto/Desktop/Projects",
     "migrated.non.roamable.values.from.general.settings": "true",
@@ -62,7 +62,7 @@
     "project.wizard.group": "NPW.simple-project.Java",
     "promo.framework.suggestion.dismissed.spring.boot": "true",
     "promo.ignore.ultimate.edition": "true",
-    "registry.to.advanced.settings.migration.build": "IC-243.24978.46"
+    "registry.to.advanced.settings.migration.build": "IC-243.25659.59"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [

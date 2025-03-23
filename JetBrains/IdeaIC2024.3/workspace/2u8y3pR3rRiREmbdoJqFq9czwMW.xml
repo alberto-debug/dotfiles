@@ -7,30 +7,155 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="dwfah7piis7o">
-      <file current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java">
+    <leaf ideFingerprint="gtaedgoc6w5c" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="407">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"ChatController.java","foregroundColor":-13854245,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"2c99db"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"WebSocketConfig.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"WebConfig.java","foregroundColor":-13854245,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"2c99db"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatMessage.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ChatMessage.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatRoom.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="396">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ChatRoom.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="495">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ChatRoomService.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="671">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"WebSocketController.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="385">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"chatRoomController.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/EphemeralChatApplication.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"EphemeralChatApplication.java","foregroundColor":-5789008,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 1,
-      "lastUsed": 1741644383601
+      "usageCount": 59,
+      "lastUsed": 1742650694988
     }
   }
 }]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
   <component name="IdeDocumentHistory"><![CDATA[{
   "changedPaths": [
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java"
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/websocket/ChatWebSocketHandler.java",
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/model/ChatMessage.java",
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/model/ChatRoom.java",
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java",
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java",
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java",
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java",
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java",
+    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -42,7 +167,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="1" lastUsage="1741644383602" />
+      <summary usageCount="59" lastUsage="1742650694988" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -96,7 +221,34 @@
               <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/config}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EphemeralChatApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EphemeralChatApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EphemeralChatApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Service}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,6 +326,33 @@
                       <presentation>
                         <attributes>
                           <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="config" />
+                        <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/config}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebConfig" />
+                          <item name="WebConfig" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebSocketConfig" />
+                          <item name="WebSocketConfig" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
                             <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller" />
                           </map>
                         </attributes>
@@ -182,21 +361,66 @@
                         <presentation>
                           <attributes>
                             <map>
-                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java" />
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatController" />
-                          <item name="ChatController" type="1a9f42e2:ClassTreeNode" />
+                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="chatRoomController" />
+                          <item name="chatRoomController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebSocketController" />
+                          <item name="WebSocketController" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
                       <presentation>
                         <attributes>
                           <map>
-                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/websocket" />
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model" />
                           </map>
                         </attributes>
-                        <data iconPath="icons/nodes/package.svg" iconPlugin="com.mallowigi" isLeaf="true" text="websocket" />
-                        <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/websocket}" type="462c0819:PsiDirectoryNode" />
+                        <data isLeaf="false" text="model" />
+                        <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/model}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatMessage.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatMessage" />
+                          <item name="ChatMessage" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatRoom.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatRoom" />
+                          <item name="ChatRoom" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Service" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="Service" />
+                        <item name="dir{file:///home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Service}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatRoomService" />
+                          <item name="ChatRoomService" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
                       </presentation>
                       <presentation>
                         <attributes>
@@ -204,7 +428,7 @@
                             <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/EphemeralChatApplication.java" />
                           </map>
                         </attributes>
-                        <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="EphemeralChatApplication" />
+                        <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="EphemeralChatApplication" />
                         <item name="EphemeralChatApplication" type="1a9f42e2:ClassTreeNode" />
                       </presentation>
                     </presentation>
@@ -336,33 +560,198 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Unnamed" />
+    </history>
+  </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17710526" />
-      <window_info id="Commit" order="1" weight="0.25" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1684953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Commit" order="2" weight="0.1684953" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.33030593" />
+      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.3790631" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights left="0.17710526" />
+      <unified_weights bottom="0.3790631" left="0.1684953" />
     </layoutV2>
     <recentWindows>
+      <value>Debug</value>
       <value>Project</value>
+      <value>Commit</value>
+      <value>Find</value>
     </recentWindows>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1741878025817">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741878025817" />
+    <state x="767" y="248" width="376" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1741996570922">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="767" y="248" width="376" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741996570922" />
+    <state x="696" y="360" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1741878023261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="360" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741878023261" />
+    <state width="1832" height="354" key="GridCell.Tab.0.bottom" timestamp="1742651363572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651363572" />
+    <state width="1832" height="354" key="GridCell.Tab.0.center" timestamp="1742651363572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="354" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651363572" />
+    <state width="1832" height="354" key="GridCell.Tab.0.left" timestamp="1742651363572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="354" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651363572" />
+    <state width="1832" height="354" key="GridCell.Tab.0.right" timestamp="1742651363572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="354" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651363572" />
+    <state width="1832" height="354" key="GridCell.Tab.1.bottom" timestamp="1742651363402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651363402" />
+    <state width="1832" height="354" key="GridCell.Tab.1.center" timestamp="1742651363402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="354" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651363402" />
+    <state width="1832" height="354" key="GridCell.Tab.1.left" timestamp="1742651363402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="354" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651363402" />
+    <state width="1832" height="354" key="GridCell.Tab.1.right" timestamp="1742651363402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="354" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651363402" />
+    <state x="559" y="304" width="802" height="539" key="Vcs.Push.Dialog.v2" timestamp="1742651029289">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="304" width="802" height="539" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742651029289" />
+    <state x="777" y="343" key="chooseDestDirectoryDialog" timestamp="1741877312130">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="777" y="343" key="chooseDestDirectoryDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741877312130" />
+    <state x="623" y="256" width="672" height="680" key="search.everywhere.popup" timestamp="1742147258379">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="256" width="672" height="680" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742147258379" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/websocket/ChatWebSocketHandler.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/EphemeralChatApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

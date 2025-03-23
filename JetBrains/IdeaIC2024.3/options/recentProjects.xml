@@ -467,16 +467,17 @@
         </entry>
         <entry key="$USER_HOME$/Desktop/Projects/CHAT/EphemeralChatApplication">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2u8y3pR3rRiREmbdoJqFq9czwMW">
-              <option name="activationTimestamp" value="1741646090707" />
+            <RecentProjectMetaInfo frameTitle="EphemeralChatApplication – ChatWebSocketHandler.java" opened="true" projectWorkspaceId="2u8y3pR3rRiREmbdoJqFq9czwMW">
+              <option name="activationTimestamp" value="1742651821010" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-243.24978.46" />
-              <option name="buildTimestamp" value="1739795520000" />
+              <option name="build" value="IC-243.25659.59" />
+              <option name="buildTimestamp" value="1741603500000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
+              <frame x="3" y="31" width="1914" height="1046" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1741644299704" />
+              <option name="projectOpenTimestamp" value="1741874500260" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -1,0 +1,11 @@
+2025/03/23-14:26:48.634 3a33d2 Creating DB /home/alberto/.config/discord/Local Storage/leveldb since it was missing.
+2025/03/23-14:26:48.661 3a33d2 Reusing MANIFEST /home/alberto/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/03/23-14:42:50.775 3a33d3 Level-0 table #5: started
+2025/03/23-14:42:50.805 3a33d3 Level-0 table #5: 1002508 bytes OK
+2025/03/23-14:42:50.807 3a33d3 Delete type=0 #3
+2025/03/23-14:43:01.865 3a33d3 Level-0 table #7: started
+2025/03/23-14:43:01.900 3a33d3 Level-0 table #7: 2507412 bytes OK
+2025/03/23-14:43:01.903 3a33d3 Delete type=0 #4
+2025/03/23-15:23:56.525 3a33d3 Level-0 table #9: started
+2025/03/23-15:23:56.527 3a33d3 Level-0 table #9: 21391 bytes OK
+2025/03/23-15:23:56.529 3a33d3 Delete type=0 #6

@@ -6,26 +6,26 @@ LockSidebar=true
 ShowSidebar=true
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/week3.pdf
-File10[$e]=$HOME/Downloads/Week7 Implementation.pdf
-File2[$e]=$HOME/Downloads/Week6 SQL (Data Manipulation Language).pdf
-File3[$e]=$HOME/Downloads/Week7 Database System devlopment Lifecycle.pdf
-File4[$e]=$HOME/Downloads/Campus Event Preparation Guide/Appendix 0 - Huawei Campus Ambassador Program - Brief.pdf
-File5[$e]=$HOME/Documents/110062586.pdf
-File6[$e]=$HOME/Documents/Event Proposal.pdf
-File7[$e]=$HOME/Downloads/Draft Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
-File8[$e]=$HOME/Downloads/Week4 Requirements Engineering.pdf
-File9[$e]=$HOME/Downloads/Week6 Architectural design.pdf
-Name1[$e]=week3.pdf
-Name10[$e]=Week7 Implementation.pdf
-Name2[$e]=Week6 SQL (Data Manipulation Language).pdf
-Name3[$e]=Week7 Database System devlopment Lifecycle.pdf
-Name4[$e]=Appendix 0 - Huawei Campus Ambassador Program - Brief.pdf
-Name5[$e]=110062586.pdf
-Name6[$e]=Event Proposal.pdf
-Name7[$e]=Draft Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
-Name8[$e]=Week4 Requirements Engineering.pdf
-Name9[$e]=Week6 Architectural design.pdf
+File1[$e]=$HOME/Documents/Event Proposal.pdf
+File10[$e]=$HOME/Booking Confirmation _ PSI Online.pdf
+File2[$e]=$HOME/Downloads/Draft Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
+File3[$e]=$HOME/Downloads/Week4 Requirements Engineering.pdf
+File4[$e]=$HOME/Downloads/Week6 Architectural design.pdf
+File5[$e]=$HOME/Downloads/Week7 Implementation.pdf
+File6[$e]=$HOME/Downloads/Week5.pdf
+File7[$e]=$HOME/Downloads/Week6.pdf
+File8[$e]=$HOME/Downloads/Week8.pdf
+File9[$e]=$HOME/Downloads/Final Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
+Name1[$e]=Event Proposal.pdf
+Name10[$e]=Booking Confirmation _ PSI Online.pdf
+Name2[$e]=Draft Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
+Name3[$e]=Week4 Requirements Engineering.pdf
+Name4[$e]=Week6 Architectural design.pdf
+Name5[$e]=Week7 Implementation.pdf
+Name6[$e]=Week5.pdf
+Name7[$e]=Week6.pdf
+Name8[$e]=Week8.pdf
+Name9[$e]=Final Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
 
 [UiSettings]
 ColorScheme=KvArcDark
