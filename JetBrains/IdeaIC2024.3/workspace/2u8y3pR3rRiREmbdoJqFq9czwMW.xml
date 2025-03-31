@@ -7,11 +7,11 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="gtaedgoc6w5c" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+    <leaf ideFingerprint="l6haz2z9vbgr" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="407">
+            <state relative-caret-position="528">
               <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -70,7 +70,7 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="495">
+            <state relative-caret-position="660">
               <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -87,8 +87,8 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="671">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="792">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,8 +100,8 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="385">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="572">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,8 +130,8 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 59,
-      "lastUsed": 1742650694988
+      "usageCount": 67,
+      "lastUsed": 1742807772342
     }
   }
 }]]></component>
@@ -145,19 +145,19 @@
     <select />
   </component>
   <component name="GitSEFilterConfiguration">{}</component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/websocket/ChatWebSocketHandler.java",
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/model/ChatMessage.java",
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/model/ChatRoom.java",
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java",
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java",
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java",
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java",
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java",
-    "/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java"
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/websocket/ChatWebSocketHandler.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/model/ChatMessage.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/model/ChatRoom.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java&quot;,
+    &quot;/home/alberto/Desktop/Projects/CHAT/EphemeralChatApplication/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java&quot;
   ]
-}]]></component>
+}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -167,7 +167,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="59" lastUsage="1742650694988" />
+      <summary usageCount="67" lastUsage="1742807772342" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -337,7 +337,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebConfig" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebConfig" />
                           <item name="WebConfig" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                         <presentation>
@@ -346,7 +346,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebSocketConfig" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebSocketConfig" />
                           <item name="WebSocketConfig" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
@@ -364,7 +364,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="chatRoomController" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="chatRoomController" />
                           <item name="chatRoomController" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                         <presentation>
@@ -373,7 +373,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebSocketController" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="WebSocketController" />
                           <item name="WebSocketController" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
@@ -391,7 +391,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatMessage.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatMessage" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatMessage" />
                           <item name="ChatMessage" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                         <presentation>
@@ -400,7 +400,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatRoom.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatRoom" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatRoom" />
                           <item name="ChatRoom" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
@@ -418,7 +418,7 @@
                               <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java" />
                             </map>
                           </attributes>
-                          <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatRoomService" />
+                          <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ChatRoomService" />
                           <item name="ChatRoomService" type="1a9f42e2:ClassTreeNode" />
                         </presentation>
                       </presentation>
@@ -428,7 +428,7 @@
                             <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/EphemeralChatApplication.java" />
                           </map>
                         </attributes>
-                        <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="EphemeralChatApplication" />
+                        <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="EphemeralChatApplication" />
                         <item name="EphemeralChatApplication" type="1a9f42e2:ClassTreeNode" />
                       </presentation>
                     </presentation>
@@ -477,7 +477,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/.factorypath" />
                   </map>
                 </attributes>
-                <data iconPath="files/fileTypes/text.svg" iconPlugin="com.mallowigi" isLeaf="true" text=".factorypath" />
+                <data iconPath="files/expui/fileTypes/text.svg" iconPlugin="com.mallowigi" isLeaf="true" text=".factorypath" />
                 <item name=".factorypath" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
@@ -605,6 +605,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="696" y="360" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1741878023261" />
+    <state x="740" y="311" key="FileChooserDialogImpl" timestamp="1742807810134">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="311" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1742807810134" />
     <state width="1832" height="354" key="GridCell.Tab.0.bottom" timestamp="1742651363572">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -652,22 +656,15 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/websocket/ChatWebSocketHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/ChatController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/EphemeralChatApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -687,6 +684,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/chatRoomController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/model/ChatRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -697,33 +724,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/EphemeralChatApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Service/ChatRoomService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="660">
           <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -735,22 +738,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/Controller/WebSocketController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebSocketConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="528">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/EphemeralChatApplication/config/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
           </folding>
         </state>
       </provider>

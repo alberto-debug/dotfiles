@@ -1,0 +1,18 @@
+{"value":"Preparing request to http://localhost:8080/sendMail","name":"Text","timestamp":1742812576525}
+{"value":"Current time is 2025-03-24T10:36:16.525Z","name":"Text","timestamp":1742812576525}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1742812576525}
+{"value":"Using default HTTP version","name":"Text","timestamp":1742812576530}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1742812576530}
+{"value":"Enable SSL validation","name":"Text","timestamp":1742812576530}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1742812576532}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#0)\n","timestamp":1742812576533}
+{"name":"HeaderOut","value":"POST /sendMail HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 131\r\n\r\n","timestamp":1742812576533}
+{"name":"DataOut","value":"{\n\t\"recipient\":\"albertoaraujomanueljunior@gmail.com\",\n\t\"msgBody\":\"Hey! \\n\\nThis is a simple Test \\n\\nThanks\",\n\t\"subject\":\"Teste\"\n}\n","timestamp":1742812576533}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1742812582135}
+{"name":"HeaderIn","value":"HTTP/1.1 200 \r\n","timestamp":1742812582135}
+{"name":"HeaderIn","value":"Content-Type: text/plain;charset=UTF-8\r\n","timestamp":1742812582136}
+{"name":"HeaderIn","value":"Content-Length: 25\r\n","timestamp":1742812582136}
+{"name":"HeaderIn","value":"Date: Mon, 24 Mar 2025 10:36:22 GMT\r\n","timestamp":1742812582136}
+{"name":"HeaderIn","value":"\r\n","timestamp":1742812582136}
+{"name":"Text","value":"Received 25 B chunk","timestamp":1742812582136}
+{"name":"Text","value":"Connection #0 to host localhost left intact\n","timestamp":1742812582136}

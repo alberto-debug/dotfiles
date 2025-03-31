@@ -433,22 +433,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/Projects/demo-spendee/login-app-backend-main">
-          <value>
-            <RecentProjectMetaInfo frameTitle="login-app-backend-main – TokenService.java" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
-              <option name="activationTimestamp" value="1740995524174" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-243.24978.46" />
-              <option name="buildTimestamp" value="1739795520000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="3" y="3" width="1914" height="1046" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1740994854370" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Desktop/Projects/algorithm/nodes">
           <value>
             <RecentProjectMetaInfo frameTitle="nodes – BinaryTree.java" projectWorkspaceId="2tfAKsSIsVPxItWPSpZ6TfQcjop">
@@ -467,8 +451,8 @@
         </entry>
         <entry key="$USER_HOME$/Desktop/Projects/CHAT/EphemeralChatApplication">
           <value>
-            <RecentProjectMetaInfo frameTitle="EphemeralChatApplication – ChatWebSocketHandler.java" opened="true" projectWorkspaceId="2u8y3pR3rRiREmbdoJqFq9czwMW">
-              <option name="activationTimestamp" value="1742651821010" />
+            <RecentProjectMetaInfo frameTitle="EphemeralChatApplication – WebConfig.java" projectWorkspaceId="2u8y3pR3rRiREmbdoJqFq9czwMW">
+              <option name="activationTimestamp" value="1742807814426" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-243.25659.59" />
               <option name="buildTimestamp" value="1741603500000" />
@@ -481,9 +465,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/springboot-projects/email">
+          <value>
+            <RecentProjectMetaInfo frameTitle="email – EmailController.java" projectWorkspaceId="2ul0NpF0tWg8RSTYzaTOIdouaUJ">
+              <option name="activationTimestamp" value="1743006828031" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742464260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="3" y="31" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1743006797524" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/demo-spendee/login-app-backend-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="login-app-backend-main – SecurityConfig.java" opened="true" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+              <option name="activationTimestamp" value="1743199347115" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742464260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="3" y="31" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1743006832615" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/CHAT/EphemeralChatApplication" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Projects/CHAT" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/demo-spendee/login-app-backend-main" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Projects/springboot-projects" />
   </component>
 </application>

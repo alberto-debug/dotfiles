@@ -5,26 +5,26 @@ LastUsedVersion=210800
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/NAZ/0B0A3148.jpg
-File10[$e]=$HOME/Downloads/NAZ/0B0A3121.jpg
-File2[$e]=$HOME/Downloads/NAZ/0B0A3116.jpg
-File3[$e]=$HOME/Downloads/NAZ/0B0A3124.jpg
-File4[$e]=$HOME/Downloads/NAZ/0B0A3128.jpg
-File5[$e]=$HOME/Downloads/NAZ/0B0A3133.jpg
-File6[$e]=$HOME/Downloads/NAZ/0B0A3137.jpg
-File7[$e]=$HOME/Downloads/NAZ/0B0A3098.jpg
-File8[$e]=$HOME/Downloads/NAZ/0B0A3082.jpg
-File9[$e]=$HOME/Downloads/NAZ/0B0A3151.jpg
-Name1[$e]=0B0A3148.jpg
-Name10[$e]=0B0A3121.jpg
-Name2[$e]=0B0A3116.jpg
-Name3[$e]=0B0A3124.jpg
-Name4[$e]=0B0A3128.jpg
-Name5[$e]=0B0A3133.jpg
-Name6[$e]=0B0A3137.jpg
-Name7[$e]=0B0A3098.jpg
-Name8[$e]=0B0A3082.jpg
-Name9[$e]=0B0A3151.jpg
+File1[$e]=$HOME/Pictures/arch.png
+File10[$e]=$HOME/Pictures/ancient-one.jpg
+File2[$e]=$HOME/Pictures/archkali.png
+File3[$e]=$HOME/Pictures/bg7.jpg
+File4[$e]=$HOME/Pictures/bg21.jpg
+File5[$e]=$HOME/Pictures/circuits.jpg
+File6[$e]=$HOME/Pictures/forest_dark_winter.jpg
+File7[$e]=$HOME/Pictures/gif-wallpapers-HyDE-Room.gif
+File8[$e]=$HOME/Pictures/tanvdesign-fantasy-landscape.png
+File9[$e]=$HOME/Pictures/Tasgylf.gif
+Name1[$e]=arch.png
+Name10[$e]=ancient-one.jpg
+Name2[$e]=archkali.png
+Name3[$e]=bg7.jpg
+Name4[$e]=bg21.jpg
+Name5[$e]=circuits.jpg
+Name6[$e]=forest_dark_winter.jpg
+Name7[$e]=gif-wallpapers-HyDE-Room.gif
+Name8[$e]=tanvdesign-fantasy-landscape.png
+Name9[$e]=Tasgylf.gif
 
 [SideBar]
-InformationSplitterSizes=0,0
+InformationSplitterSizes=222,235

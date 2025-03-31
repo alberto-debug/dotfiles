@@ -676,3 +676,79 @@
 3/23/2025, 3:27:25 PM GMT+3 [Modules] Host is up to date.
 3/23/2025, 3:27:25 PM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 3/23/2025, 3:27:25 PM GMT+3 [Modules] No module updates available.
+3/23/2025, 8:57:36 PM GMT+3 [Modules] Modules initializing
+3/23/2025, 8:57:36 PM GMT+3 [Modules] Distribution: remote
+3/23/2025, 8:57:36 PM GMT+3 [Modules] Host updates: enabled
+3/23/2025, 8:57:36 PM GMT+3 [Modules] Module updates: enabled
+3/23/2025, 8:57:36 PM GMT+3 [Modules] Module install path: /home/alberto/.config/discord/0.0.88/modules
+3/23/2025, 8:57:36 PM GMT+3 [Modules] Module installed file path: /home/alberto/.config/discord/0.0.88/modules/installed.json
+3/23/2025, 8:57:36 PM GMT+3 [Modules] Module download path: /home/alberto/.config/discord/0.0.88/modules/pending
+3/23/2025, 8:57:37 PM GMT+3 [Modules] No updates to install
+3/23/2025, 8:57:37 PM GMT+3 [Modules] Checking for host updates.
+3/23/2025, 8:57:38 PM GMT+3 [Modules] Host is up to date.
+3/23/2025, 8:57:38 PM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+3/23/2025, 8:57:38 PM GMT+3 [Modules] No module updates available.
+3/23/2025, 8:57:54 PM GMT+3 [Modules] Checking for host updates.
+3/23/2025, 8:57:54 PM GMT+3 [Modules] Host is up to date.
+3/23/2025, 8:57:54 PM GMT+3 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+3/23/2025, 8:57:54 PM GMT+3 [Modules] No module updates available.
+3/25/2025, 9:52:56 PM GMT+3 [Modules] Modules initializing
+3/25/2025, 9:52:56 PM GMT+3 [Modules] Distribution: remote
+3/25/2025, 9:52:56 PM GMT+3 [Modules] Host updates: enabled
+3/25/2025, 9:52:56 PM GMT+3 [Modules] Module updates: enabled
+3/25/2025, 9:52:56 PM GMT+3 [Modules] Module install path: /home/alberto/.config/discord/0.0.88/modules
+3/25/2025, 9:52:56 PM GMT+3 [Modules] Module installed file path: /home/alberto/.config/discord/0.0.88/modules/installed.json
+3/25/2025, 9:52:56 PM GMT+3 [Modules] Module download path: /home/alberto/.config/discord/0.0.88/modules/pending
+3/25/2025, 9:52:57 PM GMT+3 [Modules] No updates to install
+3/25/2025, 9:52:57 PM GMT+3 [Modules] Checking for host updates.
+3/25/2025, 9:52:58 PM GMT+3 [Modules] Host update is available. Manual update required!
+3/25/2025, 9:53:34 PM GMT+3 [Modules] Modules initializing
+3/25/2025, 9:53:34 PM GMT+3 [Modules] Distribution: remote
+3/25/2025, 9:53:34 PM GMT+3 [Modules] Host updates: enabled
+3/25/2025, 9:53:34 PM GMT+3 [Modules] Module updates: enabled
+3/25/2025, 9:53:34 PM GMT+3 [Modules] Module install path: /home/alberto/.config/discord/0.0.88/modules
+3/25/2025, 9:53:34 PM GMT+3 [Modules] Module installed file path: /home/alberto/.config/discord/0.0.88/modules/installed.json
+3/25/2025, 9:53:34 PM GMT+3 [Modules] Module download path: /home/alberto/.config/discord/0.0.88/modules/pending
+3/25/2025, 9:53:35 PM GMT+3 [Modules] No updates to install
+3/25/2025, 9:53:35 PM GMT+3 [Modules] Checking for host updates.
+3/25/2025, 9:53:36 PM GMT+3 [Modules] Host update is available. Manual update required!
+3/26/2025, 12:26:55 PM GMT+3 [Modules] Modules initializing
+3/26/2025, 12:26:55 PM GMT+3 [Modules] Distribution: remote
+3/26/2025, 12:26:55 PM GMT+3 [Modules] Host updates: enabled
+3/26/2025, 12:26:55 PM GMT+3 [Modules] Module updates: enabled
+3/26/2025, 12:26:55 PM GMT+3 [Modules] Module install path: /home/alberto/.config/discord/0.0.88/modules
+3/26/2025, 12:26:55 PM GMT+3 [Modules] Module installed file path: /home/alberto/.config/discord/0.0.88/modules/installed.json
+3/26/2025, 12:26:55 PM GMT+3 [Modules] Module download path: /home/alberto/.config/discord/0.0.88/modules/pending
+3/26/2025, 12:26:55 PM GMT+3 [Modules] No updates to install
+3/26/2025, 12:26:55 PM GMT+3 [Modules] Checking for host updates.
+3/26/2025, 12:26:56 PM GMT+3 [Modules] Host update is available. Manual update required!
+3/26/2025, 12:27:45 PM GMT+3 [Modules] Modules initializing
+3/26/2025, 12:27:45 PM GMT+3 [Modules] Distribution: remote
+3/26/2025, 12:27:45 PM GMT+3 [Modules] Host updates: enabled
+3/26/2025, 12:27:45 PM GMT+3 [Modules] Module updates: enabled
+3/26/2025, 12:27:45 PM GMT+3 [Modules] Module install path: /home/alberto/.config/discord/0.0.88/modules
+3/26/2025, 12:27:45 PM GMT+3 [Modules] Module installed file path: /home/alberto/.config/discord/0.0.88/modules/installed.json
+3/26/2025, 12:27:45 PM GMT+3 [Modules] Module download path: /home/alberto/.config/discord/0.0.88/modules/pending
+3/26/2025, 12:27:46 PM GMT+3 [Modules] No updates to install
+3/26/2025, 12:27:46 PM GMT+3 [Modules] Checking for host updates.
+3/26/2025, 12:27:47 PM GMT+3 [Modules] Host update is available. Manual update required!
+3/26/2025, 12:28:04 PM GMT+3 [Modules] Modules initializing
+3/26/2025, 12:28:04 PM GMT+3 [Modules] Distribution: remote
+3/26/2025, 12:28:04 PM GMT+3 [Modules] Host updates: enabled
+3/26/2025, 12:28:04 PM GMT+3 [Modules] Module updates: enabled
+3/26/2025, 12:28:04 PM GMT+3 [Modules] Module install path: /home/alberto/.config/discord/0.0.88/modules
+3/26/2025, 12:28:04 PM GMT+3 [Modules] Module installed file path: /home/alberto/.config/discord/0.0.88/modules/installed.json
+3/26/2025, 12:28:04 PM GMT+3 [Modules] Module download path: /home/alberto/.config/discord/0.0.88/modules/pending
+3/26/2025, 12:28:04 PM GMT+3 [Modules] No updates to install
+3/26/2025, 12:28:04 PM GMT+3 [Modules] Checking for host updates.
+3/26/2025, 12:28:06 PM GMT+3 [Modules] Host update is available. Manual update required!
+3/30/2025, 7:52:46 PM GMT+3 [Modules] Modules initializing
+3/30/2025, 7:52:46 PM GMT+3 [Modules] Distribution: remote
+3/30/2025, 7:52:46 PM GMT+3 [Modules] Host updates: enabled
+3/30/2025, 7:52:46 PM GMT+3 [Modules] Module updates: enabled
+3/30/2025, 7:52:46 PM GMT+3 [Modules] Module install path: /home/alberto/.config/discord/0.0.88/modules
+3/30/2025, 7:52:46 PM GMT+3 [Modules] Module installed file path: /home/alberto/.config/discord/0.0.88/modules/installed.json
+3/30/2025, 7:52:46 PM GMT+3 [Modules] Module download path: /home/alberto/.config/discord/0.0.88/modules/pending
+3/30/2025, 7:52:46 PM GMT+3 [Modules] No updates to install
+3/30/2025, 7:52:46 PM GMT+3 [Modules] Checking for host updates.
+3/30/2025, 7:52:47 PM GMT+3 [Modules] Host update is available. Manual update required!
