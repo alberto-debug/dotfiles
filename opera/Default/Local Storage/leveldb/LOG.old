@@ -1,3 +1,6 @@
-2025/03/08-20:01:15.668 4 Reusing MANIFEST /home/alberto/.config/opera/Default/Local Storage/leveldb/MANIFEST-000001
-2025/03/08-20:01:15.690 4 Recovering log #4
-2025/03/08-20:01:15.691 4 Reusing old log /home/alberto/.config/opera/Default/Local Storage/leveldb/000004.log 
+2025/04/17-23:40:29.382 4 Reusing MANIFEST /home/alberto/.config/opera/Default/Local Storage/leveldb/MANIFEST-000001
+2025/04/17-23:40:29.390 4 Recovering log #4
+2025/04/17-23:40:29.396 4 Reusing old log /home/alberto/.config/opera/Default/Local Storage/leveldb/000004.log 
+2025/04/17-23:40:47.511 5 Level-0 table #8: started
+2025/04/17-23:40:47.514 5 Level-0 table #8: 33525 bytes OK
+2025/04/17-23:40:47.517 5 Delete type=0 #4

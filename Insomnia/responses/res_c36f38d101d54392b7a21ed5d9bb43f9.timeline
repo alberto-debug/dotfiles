@@ -1,0 +1,23 @@
+{"value":"Preparing request to http://localhost:8080/vehicle/register","name":"Text","timestamp":1743808511190}
+{"value":"Current time is 2025-04-04T23:15:11.190Z","name":"Text","timestamp":1743808511190}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1743808511190}
+{"value":"Using default HTTP version","name":"Text","timestamp":1743808511192}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1743808511192}
+{"value":"Enable SSL validation","name":"Text","timestamp":1743808511192}
+{"name":"Text","value":"Too old connection (326 seconds idle), disconnect it\n","timestamp":1743808511192}
+{"name":"Text","value":"Connection 7 seems to be dead\n","timestamp":1743808511192}
+{"name":"Text","value":"Closing connection 7\n","timestamp":1743808511192}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1743808511192}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1743808511192}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#8)\n","timestamp":1743808511192}
+{"name":"HeaderOut","value":"POST /vehicle/register HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 97\r\n\r\n","timestamp":1743808511192}
+{"name":"DataOut","value":"{\n    \"owner\": \"Alberto Junior\",\n    \"identification\": \"203.317.330-12\",\n    \"placa\": \"ABC2865\"\n}","timestamp":1743808511192}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1743808514392}
+{"name":"HeaderIn","value":"HTTP/1.1 200 \r\n","timestamp":1743808514392}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1743808514392}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1743808514392}
+{"name":"HeaderIn","value":"Date: Fri, 04 Apr 2025 23:15:14 GMT\r\n","timestamp":1743808514392}
+{"name":"HeaderIn","value":"\r\n","timestamp":1743808514392}
+{"name":"Text","value":"Received 193 B chunk","timestamp":1743808514392}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1743808514394}
+{"name":"Text","value":"Connection #8 to host localhost left intact\n","timestamp":1743808514394}

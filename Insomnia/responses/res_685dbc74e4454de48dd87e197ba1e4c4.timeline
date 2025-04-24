@@ -1,0 +1,22 @@
+{"value":"Preparing request to http://localhost:8080/vehicle/register","name":"Text","timestamp":1743807634206}
+{"value":"Current time is 2025-04-04T23:00:34.206Z","name":"Text","timestamp":1743807634206}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1743807634206}
+{"value":"Using default HTTP version","name":"Text","timestamp":1743807634208}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1743807634208}
+{"value":"Enable SSL validation","name":"Text","timestamp":1743807634208}
+{"name":"Text","value":"Hostname localhost was found in DNS cache\n","timestamp":1743807634208}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1743807634208}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#4)\n","timestamp":1743807634208}
+{"name":"HeaderOut","value":"POST /vehicle/register HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 97\r\n\r\n","timestamp":1743807634208}
+{"name":"DataOut","value":"{\n    \"owner\": \"Alberto Junior\",\n    \"identification\": \"203.397.390-40\",\n    \"placa\": \"ABD3111\"\n}","timestamp":1743807634208}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1743807635770}
+{"name":"HeaderIn","value":"HTTP/1.1 500 \r\n","timestamp":1743807635770}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1743807635770}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1743807635770}
+{"name":"HeaderIn","value":"Date: Fri, 04 Apr 2025 23:00:35 GMT\r\n","timestamp":1743807635770}
+{"name":"HeaderIn","value":"Connection: close\r\n","timestamp":1743807635770}
+{"name":"HeaderIn","value":"\r\n","timestamp":1743807635770}
+{"name":"Text","value":"Received 7.9 KB chunk","timestamp":1743807635770}
+{"name":"Text","value":"Received 3.7 KB chunk","timestamp":1743807635771}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1743807635771}
+{"name":"Text","value":"Closing connection 4\n","timestamp":1743807635771}

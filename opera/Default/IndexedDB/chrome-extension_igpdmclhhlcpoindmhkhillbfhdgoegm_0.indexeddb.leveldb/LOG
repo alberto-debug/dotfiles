@@ -1,13 +1,14 @@
-2025/03/08-20:40:48.984 2f3851 Reusing MANIFEST /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/08-20:40:48.987 2f3851 Recovering log #7
-2025/03/08-20:40:48.988 2f3851 Reusing old log /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000007.log 
-2025/03/08-20:40:49.007 2f3850 Level-0 table #11: started
-2025/03/08-20:40:49.010 2f3850 Level-0 table #11: 4926 bytes OK
-2025/03/08-20:40:49.014 2f3850 Delete type=0 #7
-2025/03/08-20:40:49.014 2f3850 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 489 : 1
-2025/03/08-20:40:49.014 2f3850 Compacting 1@0 + 1@1 files
-2025/03/08-20:40:49.017 2f3850 Generated table #12@0: 170 keys, 4330 bytes
-2025/03/08-20:40:49.018 2f3850 Compacted 1@0 + 1@1 files => 4330 bytes
-2025/03/08-20:40:49.022 2f3850 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/08-20:40:49.023 2f3850 Delete type=2 #11
-2025/03/08-20:40:49.024 2f3850 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 489 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/18-00:16:37.114 19608 Reusing MANIFEST /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/18-00:16:37.115 19608 Recovering log #17
+2025/04/18-00:16:37.115 19608 Reusing old log /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000017.log 
+2025/04/18-00:16:37.116 19608 Delete type=2 #16
+2025/04/18-00:16:37.123 1960b Level-0 table #22: started
+2025/04/18-00:16:37.124 1960b Level-0 table #22: 9003 bytes OK
+2025/04/18-00:16:37.126 1960b Delete type=0 #17
+2025/04/18-00:16:37.126 19607 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 1050 : 1
+2025/04/18-00:16:37.126 19607 Compacting 1@0 + 1@1 files
+2025/04/18-00:16:37.128 19607 Generated table #23@0: 284 keys, 7551 bytes
+2025/04/18-00:16:37.128 19607 Compacted 1@0 + 1@1 files => 7551 bytes
+2025/04/18-00:16:37.130 19607 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/18-00:16:37.130 19607 Delete type=2 #22
+2025/04/18-00:16:37.131 19607 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 1050 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

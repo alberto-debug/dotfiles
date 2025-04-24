@@ -1,192 +1,121 @@
-[2025-03-01 14:07:35.240] [info]  Running version 10.3.1
-[2025-03-01 14:07:35.297] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
-[2025-03-01 14:07:35.348] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
-[2025-03-01 14:07:35.455] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+[2025-03-31 19:20:26.566] [info]  Running version 10.3.1
+[2025-03-31 19:20:26.610] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2025-03-31 19:20:26.649] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2025-03-31 19:20:26.745] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
 '
-[2025-03-01 14:07:35.720] [info]  [fix] Running database repairs
-[2025-03-01 14:07:35.896] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
-[2025-03-01 14:07:35.897] [info]  [db] Init responses DB
-[2025-03-01 14:07:35.897] [info]  [db] Init websocket-responses DB
-[2025-03-01 14:07:35.900] [info]  [ElectronStorage] Initialized at /home/alberto/.config/Insomnia/localStorage
-[2025-03-01 14:07:35.964] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
-[2025-03-01 14:07:35.996] [info]  [main] Registering the hidden window restarting handler
-[2025-03-01 14:07:35.998] [info]  [updater] Not supported on this platform linux
-[2025-03-01 14:07:36.036] [info]  [main] window focus
-[2025-03-01 14:07:38.369] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
-[2025-03-01 14:07:38.372] [info]  [main] Check args and create windows []
-[2025-03-01 14:07:38.373] [info]  [main] Checking for newer version than  10.3.1
-[2025-03-01 14:07:39.398] [info]  [main] Found newer version
-[2025-03-01 14:07:39.417] [info]  [main] Backup found at: /home/alberto/.config/Insomnia/backups/10.3.1
-[2025-03-01 14:07:55.074] [info]  [main] window blur
-[2025-03-01 14:09:58.903] [info]  [main] window focus
-[2025-03-01 14:10:01.666] [info]  [main] window blur
-[2025-03-01 14:11:24.078] [info]  [main] window focus
-[2025-03-01 14:11:26.619] [info]  [main] window blur
-[2025-03-01 14:51:55.079] [info]  [main] window focus
-[2025-03-01 14:51:55.097] [info]  [main] window blur
-[2025-03-01 14:57:03.500] [info]  [main] window focus
-[2025-03-01 14:57:03.515] [info]  [main] window blur
-[2025-03-01 14:58:12.169] [info]  [main] window focus
-[2025-03-01 14:58:12.181] [info]  [main] window blur
-[2025-03-01 14:58:39.641] [info]  [main] window focus
-[2025-03-01 14:58:39.657] [info]  [main] window blur
-[2025-03-01 19:52:58.861] [info]  [main] window focus
-[2025-03-01 19:53:02.525] [info]  [main] window blur
-[2025-03-01 19:53:09.741] [info]  [main] window focus
-[2025-03-01 19:53:11.346] [info]  [main] window blur
-[2025-03-01 19:53:19.413] [info]  [main] window focus
-[2025-03-01 19:53:19.903] [info]  [main] window blur
-[2025-03-01 20:00:27.402] [info]  [main] window focus
-[2025-03-01 20:00:28.119] [info]  [main] window blur
-[2025-03-01 20:01:05.944] [info]  [main] window focus
-[2025-03-01 20:01:06.830] [info]  [main] window blur
-[2025-03-01 20:10:05.220] [info]  [main] window focus
-[2025-03-01 20:10:05.813] [info]  [main] window blur
-[2025-03-01 20:20:30.123] [info]  [main] window focus
-[2025-03-01 20:20:30.604] [info]  [main] window blur
-[2025-03-01 20:27:58.706] [info]  [main] window focus
-[2025-03-01 20:27:58.988] [info]  [main] window blur
-[2025-03-01 20:42:50.950] [info]  [main] window focus
-[2025-03-01 20:42:51.597] [info]  [main] window blur
-[2025-03-01 21:27:22.639] [info]  [main] window focus
-[2025-03-01 21:27:23.678] [info]  [main] window blur
-[2025-03-01 21:41:51.062] [info]  [main] window focus
-[2025-03-01 21:41:51.579] [info]  [main] window blur
-[2025-03-01 21:46:33.010] [info]  [main] window focus
-[2025-03-01 21:46:33.538] [info]  [main] window blur
-[2025-03-01 21:54:37.176] [info]  [main] window focus
-[2025-03-01 21:54:37.787] [info]  [main] window blur
-[2025-03-01 22:10:38.980] [info]  [main] window focus
-[2025-03-01 22:10:40.379] [info]  [main] window blur
-[2025-03-01 22:10:50.484] [info]  [main] window focus
-[2025-03-01 22:10:51.570] [info]  [main] window blur
-[2025-03-01 22:12:33.626] [info]  [main] window focus
-[2025-03-01 22:12:33.862] [info]  [main] window blur
-[2025-03-01 22:13:31.281] [info]  [main] window focus
-[2025-03-01 22:13:31.991] [info]  [main] window blur
-[2025-03-01 22:13:57.219] [info]  [main] window focus
-[2025-03-01 22:13:58.173] [info]  [main] window blur
-[2025-03-01 22:18:29.563] [info]  [main] window focus
-[2025-03-01 22:18:31.413] [info]  [main] window blur
-[2025-03-01 22:19:37.269] [info]  [main] window focus
-[2025-03-01 22:19:38.466] [info]  [main] window blur
-[2025-03-01 22:21:22.191] [info]  [main] window focus
-[2025-03-01 22:21:22.880] [info]  [main] window blur
-[2025-03-01 22:21:46.720] [info]  [main] window focus
-[2025-03-01 22:21:47.687] [info]  [main] window blur
-[2025-03-01 22:22:29.904] [info]  [main] window focus
-[2025-03-01 22:22:30.609] [info]  [main] window blur
-[2025-03-01 22:24:07.340] [info]  [main] window focus
-[2025-03-01 22:24:09.343] [info]  [main] window blur
-[2025-03-01 22:27:24.911] [info]  [main] window focus
-[2025-03-01 22:27:25.419] [info]  [main] window blur
-[2025-03-01 22:29:13.035] [info]  [main] window focus
-[2025-03-01 22:29:13.571] [info]  [main] window blur
-[2025-03-01 22:29:14.667] [info]  [main] window focus
-[2025-03-01 22:29:15.263] [info]  [main] window blur
-[2025-03-01 22:34:20.712] [info]  [main] window focus
-[2025-03-01 22:34:21.343] [info]  [main] window blur
-[2025-03-01 22:34:51.821] [info]  [main] window focus
-[2025-03-01 22:34:53.133] [info]  [main] window blur
-[2025-03-01 22:38:09.773] [info]  [main] window focus
-[2025-03-01 22:38:10.130] [info]  [main] window blur
-[2025-03-01 22:39:53.643] [info]  [main] window focus
-[2025-03-01 22:39:54.361] [info]  [main] window blur
-[2025-03-01 22:43:48.006] [info]  [main] window focus
-[2025-03-01 22:43:48.647] [info]  [main] window blur
-[2025-03-01 22:49:19.018] [info]  [main] window focus
-[2025-03-01 22:49:19.751] [info]  [main] window blur
-[2025-03-01 22:54:00.713] [info]  [main] window focus
-[2025-03-01 22:54:02.031] [info]  [main] window blur
-[2025-03-01 22:57:09.147] [info]  [main] window focus
-[2025-03-01 22:57:09.561] [info]  [main] window blur
-[2025-03-01 23:07:21.669] [info]  [main] window focus
-[2025-03-01 23:07:22.048] [info]  [main] window blur
-[2025-03-01 23:09:05.966] [info]  [main] window focus
-[2025-03-01 23:09:07.129] [info]  [main] window blur
-[2025-03-01 23:09:57.570] [info]  [main] window focus
-[2025-03-01 23:09:58.041] [info]  [main] window blur
-[2025-03-01 23:10:02.932] [info]  [main] window focus
-[2025-03-01 23:10:03.571] [info]  [main] window blur
-[2025-03-01 23:16:49.697] [info]  [main] window focus
-[2025-03-01 23:16:50.132] [info]  [main] window blur
-[2025-03-01 23:27:29.825] [info]  [main] window focus
-[2025-03-01 23:27:30.750] [info]  [main] window blur
-[2025-03-01 23:30:18.678] [info]  [main] window focus
-[2025-03-01 23:30:19.139] [info]  [main] window blur
-[2025-03-01 23:32:10.444] [info]  [main] window focus
-[2025-03-01 23:32:10.823] [info]  [main] window blur
-[2025-03-01 23:43:06.800] [info]  [main] window focus
-[2025-03-01 23:43:07.428] [info]  [main] window blur
-[2025-03-01 23:44:49.074] [info]  [main] window focus
-[2025-03-01 23:44:49.631] [info]  [main] window blur
-[2025-03-01 23:47:33.272] [info]  [main] window focus
-[2025-03-01 23:47:34.082] [info]  [main] window blur
-[2025-03-01 23:49:46.885] [info]  [main] window focus
-[2025-03-01 23:49:47.327] [info]  [main] window blur
-[2025-03-01 23:51:56.666] [info]  [main] window focus
-[2025-03-01 23:51:57.173] [info]  [main] window blur
-[2025-03-01 23:52:41.105] [info]  [main] window focus
-[2025-03-01 23:52:41.585] [info]  [main] window blur
-[2025-03-02 00:03:30.772] [info]  [main] window focus
-[2025-03-02 00:03:42.100] [info]  [response] Delete body 
-[2025-03-02 00:03:42.100] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_4cf4fda8bbc346eb8e830f310a191218.timeline
-[2025-03-02 00:04:05.634] [info]  [main] window blur
-[2025-03-02 00:04:06.123] [info]  [main] window focus
-[2025-03-02 00:04:06.826] [info]  [main] window blur
-[2025-03-02 00:05:29.185] [info]  [main] window focus
-[2025-03-02 00:05:44.217] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/48d22291-7db2-4965-b677-60eb9b14f71e.response
-[2025-03-02 00:05:44.218] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_e61a538c6c114ceeaab2279f85b0effd.timeline
-[2025-03-02 00:05:45.230] [info]  [main] window blur
-[2025-03-02 00:05:51.489] [info]  [main] window focus
-[2025-03-02 00:05:55.181] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/5f1b9000-90f9-4e4b-bb15-a216ac45bfd9.response
-[2025-03-02 00:05:55.181] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_5d2a0bfafd694c4e9ce52e4dd6e6aebd.timeline
-[2025-03-02 00:05:55.873] [info]  [main] window blur
-[2025-03-02 00:06:05.689] [info]  [main] window focus
-[2025-03-02 00:06:18.516] [info]  [main] window blur
-[2025-03-02 00:06:53.711] [info]  [main] window focus
-[2025-03-02 00:06:56.371] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/4f97fe98-9688-4c64-9ddd-da9fe30ca8cd.response
-[2025-03-02 00:06:56.372] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_d78199c4de924d7ab0a71163dd2b388d.timeline
-[2025-03-02 00:06:57.815] [info]  [main] window blur
-[2025-03-02 00:07:22.781] [info]  [main] window focus
-[2025-03-02 00:07:27.099] [info]  [main] window blur
-[2025-03-02 00:07:29.960] [info]  [main] window focus
-[2025-03-02 00:07:33.793] [info]  [main] window blur
-[2025-03-02 00:07:37.736] [info]  [main] window focus
-[2025-03-02 00:07:40.875] [info]  [main] window blur
-[2025-03-02 00:07:45.980] [info]  [main] window focus
-[2025-03-02 00:07:47.444] [info]  [main] window blur
-[2025-03-02 00:10:46.351] [info]  [main] window focus
-[2025-03-02 00:11:00.587] [info]  [main] window blur
-[2025-03-02 00:11:23.873] [info]  [main] window focus
-[2025-03-02 00:11:26.762] [info]  [main] window blur
-[2025-03-02 00:11:29.788] [info]  [main] window focus
-[2025-03-02 00:11:34.025] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/83ecd3fa-0121-49fc-a276-293c00b28012.response
-[2025-03-02 00:11:34.026] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_c04554d3b4b047bbad64bb3cc3eb58cf.timeline
-[2025-03-02 00:11:35.260] [info]  [main] window blur
-[2025-03-02 00:11:56.258] [info]  [main] window focus
-[2025-03-02 00:11:56.730] [info]  [main] window blur
-[2025-03-02 00:17:59.270] [info]  [main] window focus
-[2025-03-02 00:18:00.072] [info]  [main] window blur
-[2025-03-02 00:18:57.588] [info]  [main] window focus
-[2025-03-02 00:18:58.241] [info]  [main] window blur
-[2025-03-02 00:22:04.849] [info]  [main] window focus
-[2025-03-02 00:22:05.974] [info]  [main] window blur
-[2025-03-02 00:27:20.663] [info]  [main] window focus
-[2025-03-02 00:27:21.041] [info]  [main] window blur
-[2025-03-02 00:39:44.472] [info]  [main] window focus
-[2025-03-02 00:39:46.135] [info]  [main] window blur
-[2025-03-02 00:51:36.222] [info]  [main] window focus
-[2025-03-02 00:51:37.125] [info]  [main] window blur
-[2025-03-02 00:55:35.033] [info]  [main] window focus
-[2025-03-02 00:55:36.656] [info]  [main] window blur
-[2025-03-02 00:57:14.928] [info]  [main] window focus
-[2025-03-02 00:57:16.164] [info]  [main] window blur
-[2025-03-02 00:59:28.734] [info]  [main] window focus
-[2025-03-02 00:59:29.414] [info]  [main] window blur
-[2025-03-02 01:01:26.085] [info]  [main] window focus
-[2025-03-02 01:01:26.960] [info]  [main] window blur
-[2025-03-02 01:41:34.093] [info]  [main] window focus
-[2025-03-02 01:41:34.863] [info]  [main] window blur
-[2025-03-02 03:07:10.568] [info]  [main] window focus
-[2025-03-02 03:07:11.795] [info]  [main] window blur
+[2025-03-31 19:20:27.042] [info]  [fix] Running database repairs
+[2025-03-31 19:20:27.305] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
+[2025-03-31 19:20:27.306] [info]  [db] Init responses DB
+[2025-03-31 19:20:27.306] [info]  [db] Init websocket-responses DB
+[2025-03-31 19:20:27.310] [info]  [ElectronStorage] Initialized at /home/alberto/.config/Insomnia/localStorage
+[2025-03-31 19:20:27.403] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2025-03-31 19:20:27.434] [info]  [main] Registering the hidden window restarting handler
+[2025-03-31 19:20:27.436] [info]  [updater] Not supported on this platform linux
+[2025-03-31 19:20:27.479] [info]  [main] window focus
+[2025-03-31 19:20:30.393] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2025-03-31 19:20:30.398] [info]  [main] Check args and create windows []
+[2025-03-31 19:20:30.400] [info]  [main] Checking for newer version than  10.3.1
+[2025-03-31 19:20:31.411] [info]  [main] Found newer version
+[2025-03-31 19:20:31.417] [info]  [main] Backup found at: /home/alberto/.config/Insomnia/backups/10.3.1
+[2025-03-31 19:20:33.180] [info]  [main] window blur
+[2025-03-31 19:20:34.431] [info]  [main] window focus
+[2025-03-31 19:20:37.100] [info]  [main] window blur
+[2025-03-31 19:20:43.180] [info]  [main] window focus
+[2025-03-31 19:20:47.932] [info]  [main] window blur
+[2025-03-31 19:20:48.167] [info]  [main] window focus
+[2025-03-31 19:20:50.389] [info]  [main] window blur
+[2025-03-31 19:20:52.421] [info]  [main] window focus
+[2025-03-31 19:21:07.150] [info]  [main] window blur
+[2025-03-31 19:26:51.988] [info]  [main] window focus
+[2025-03-31 19:26:54.794] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/55e91c3f-60e3-4646-9fda-77940453366a.response
+[2025-03-31 19:26:54.795] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_48d5f2ada64e45a9b2d42d9e66e42b19.timeline
+[2025-03-31 19:27:01.243] [info]  [main] window blur
+[2025-03-31 19:27:07.901] [info]  [main] window focus
+[2025-03-31 19:27:14.325] [info]  [main] window blur
+[2025-03-31 19:27:45.765] [info]  [main] window focus
+[2025-03-31 19:27:51.949] [info]  [main] window blur
+[2025-03-31 19:27:59.318] [info]  [main] window focus
+[2025-03-31 19:28:01.869] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_67e4427a6fbd40b38a83874ce661c5ba.timeline
+[2025-03-31 19:28:01.869] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/5bfbdc28-ce19-4047-8bd8-6c99fbd2a37e.response
+[2025-03-31 19:28:03.640] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/8aa87c61-9a77-4523-af45-6b4f87939816.response
+[2025-03-31 19:28:03.641] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_3a66ac40084f4255b6e966d2962111eb.timeline
+[2025-03-31 19:28:04.727] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/96549b44-4554-4ab4-b80e-38454fc06441.response
+[2025-03-31 19:28:04.727] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_8f526b34bd8e46e2becb0648ba7c6268.timeline
+[2025-03-31 19:28:05.424] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/c25fa87a-3d78-4177-85fa-be2ac3262cf1.response
+[2025-03-31 19:28:05.425] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_34ecff87b2b149ce9d54156dee605fcd.timeline
+[2025-03-31 19:28:05.993] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/8b03a2fb-4ae3-4bed-8362-15889827d2fb.response
+[2025-03-31 19:28:05.994] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_83cc24770a3c400eb62811feb1e9ace7.timeline
+[2025-03-31 19:28:06.804] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/7afb409b-8fd5-4b8e-b60b-ffe72ee59b3f.response
+[2025-03-31 19:28:06.804] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_dd5fb01e4c924a498562bf62c5a7ac66.timeline
+[2025-03-31 19:28:16.229] [info]  [main] window blur
+[2025-03-31 19:28:16.918] [info]  [main] window focus
+[2025-03-31 19:28:19.478] [info]  [main] window blur
+[2025-03-31 19:28:20.542] [info]  [main] window focus
+[2025-03-31 19:28:22.835] [info]  [main] window blur
+[2025-03-31 19:28:32.793] [info]  [main] window focus
+[2025-03-31 19:28:37.613] [info]  [main] window blur
+[2025-03-31 19:29:31.685] [info]  [main] window focus
+[2025-03-31 19:29:31.814] [info]  [main] window blur
+[2025-03-31 19:29:32.312] [info]  [main] window focus
+[2025-03-31 19:29:32.714] [info]  [main] window blur
+[2025-03-31 19:30:27.790] [info]  [main] window focus
+[2025-03-31 19:30:30.010] [info]  [main] window blur
+[2025-03-31 19:36:04.836] [info]  [main] window focus
+[2025-03-31 19:36:13.457] [info]  [main] window blur
+[2025-03-31 19:40:01.948] [info]  [main] window focus
+[2025-03-31 19:40:06.181] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/c2b45bd2-824b-409d-a112-893cd655e47f.response
+[2025-03-31 19:40:06.181] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_4e0f9f8fc5334f1e83283d3193fd5e9c.timeline
+[2025-03-31 19:40:14.154] [info]  [main] window blur
+[2025-03-31 19:46:30.175] [info]  [main] window focus
+[2025-03-31 19:46:33.235] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/1fe2cfda-1c5d-4907-8fc6-b30de792afc9.response
+[2025-03-31 19:46:33.236] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_91d0769665734e52b8e8e0cac3286c49.timeline
+[2025-03-31 19:46:34.482] [info]  [main] window blur
+[2025-03-31 19:46:38.267] [info]  [main] window focus
+[2025-03-31 19:46:44.420] [info]  [main] window blur
+[2025-03-31 19:47:14.307] [info]  [main] window focus
+[2025-03-31 19:47:15.571] [info]  [main] window blur
+[2025-03-31 19:48:02.665] [info]  [main] window focus
+[2025-03-31 19:48:06.311] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/a2572b3c-117a-44d3-8948-da12b4c8368d.response
+[2025-03-31 19:48:06.312] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_e9d43cc34aeb4c7385614b19d5a3c2d8.timeline
+[2025-03-31 19:48:10.587] [info]  [main] window blur
+[2025-03-31 19:48:22.212] [info]  [main] window focus
+[2025-03-31 19:48:22.728] [info]  [main] window blur
+[2025-03-31 19:58:25.671] [info]  [main] window focus
+[2025-03-31 19:58:28.599] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/c7bd654f-b5e8-478d-b22e-1e875a18d04d.response
+[2025-03-31 19:58:28.600] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_3d245c0c52c04391bf3137ace32d4337.timeline
+[2025-03-31 19:58:30.257] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/37b5ab8c-6225-48f1-be62-2ae51e808ec9.response
+[2025-03-31 19:58:30.259] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_d3bb790cc9bd4687aeb414857eff1253.timeline
+[2025-03-31 19:58:31.133] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/b55fa1bf-0f46-464e-a40e-536ffabe0b50.response
+[2025-03-31 19:58:31.134] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_8f05e30721fe401da5d394c2db1cdc1b.timeline
+[2025-03-31 19:58:32.137] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2c7ca75d-2e47-48c6-a946-6322909293a3.response
+[2025-03-31 19:58:32.138] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_49bb5a23233b44f59ebe45d9d795ef99.timeline
+[2025-03-31 19:58:33.103] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/86e348e1-14ef-4e30-b95b-b677c9bcc8a3.response
+[2025-03-31 19:58:33.103] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_347c9d12633f43ecbff108ab99276e3e.timeline
+[2025-03-31 19:58:34.107] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/e97e0a78-cac0-4934-9b4a-29bd30aef9a9.response
+[2025-03-31 19:58:34.109] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_789a8ddca5b544e1b37f13f51e0be869.timeline
+[2025-03-31 19:58:39.235] [info]  [main] window blur
+[2025-03-31 19:58:46.232] [info]  [main] window focus
+[2025-03-31 19:58:47.933] [info]  [main] window blur
+[2025-03-31 19:59:00.149] [info]  [main] window focus
+[2025-03-31 19:59:09.409] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/368eb916-02c3-40cc-baf0-772c1334e4c2.response
+[2025-03-31 19:59:09.410] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_73c73084b2134adf80175cb28c2d42da.timeline
+[2025-03-31 19:59:13.501] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2704380e-40fb-4177-a361-ac9a17153eba.response
+[2025-03-31 19:59:13.502] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_d67f183d89954f5985a6003b1d418f63.timeline
+[2025-03-31 19:59:17.663] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_f3c93a375d3f477b94ecc4891d977f1f.timeline
+[2025-03-31 19:59:17.664] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/ff083b6a-8eac-40bb-88c6-9ad3ce49986c.response
+[2025-03-31 19:59:24.691] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_82eaed3304e64a0ebf1bdeebea630f0a.timeline
+[2025-03-31 19:59:24.692] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/da30b168-4cde-42ce-8182-9e8a78bf0f97.response
+[2025-03-31 19:59:27.888] [info]  [main] window blur
+[2025-03-31 19:59:45.011] [info]  [main] window focus
+[2025-03-31 19:59:51.479] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_18e2b126e8a34a1b81bb73927afc9bf5.timeline
+[2025-03-31 19:59:51.480] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/e0e9b256-a5b6-4f1e-985a-cce83134819d.response
+[2025-03-31 20:00:05.887] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/d61320d2-b54b-46cf-9934-42f726d23b39.response
+[2025-03-31 20:00:05.887] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_c6646f9f1af34ccf8d70d5d3a840a8d6.timeline
+[2025-03-31 20:00:18.574] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/638ac901-143b-4fa8-8c0e-39b4552ca59a.response
+[2025-03-31 20:00:18.574] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_57637ea0f1984068988de72afbb12a6d.timeline
+[2025-03-31 20:00:29.129] [info]  [main] window blur
+[2025-03-31 22:15:49.024] [info]  [main] window focus
+[2025-03-31 22:15:52.404] [info]  [main] window blur
+[2025-03-31 23:05:42.610] [info]  [main] window focus
+[2025-03-31 23:05:50.343] [info]  [main] window blur
+[2025-03-31 23:05:50.344] [info]  [main] window focus

@@ -1,0 +1,34 @@
+0:00:44 Tab1 FinishNav16
+0:00:44 Tab1 PageLoad #failure
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 PageLoad
+0:00:45 Tab1 StartNav17 #renderer-script #auto_subframe
+0:00:45 Tab1 FinishNav17
+0:00:45 Tab1 PageLoad #failure
+0:00:47 ClearBrowsingData_MaskContainsProtectedWeb
+0:00:48 TextSelectionChanged
+0:00:49 TextSelectionChanged
+0:00:52 Tab1 StartNav18 #renderer-user #link
+0:00:53 Tab1 FinishNav18
+0:00:53 Tab1 PageLoad
+0:01:10 TextSelectionChanged
+0:01:12 TextSelectionChanged
+0:01:13 TextSelectionChanged
+0:01:14 TextSelectionChanged
+0:01:14 TextSelectionChanged
+0:01:15 TextSelectionChanged
+0:01:17 TextSelectionChanged
+0:01:19 TextSelectionChanged
+0:01:20 Widget Closed: MenuHost
+0:01:21 TextSelectionChanged
+0:01:21 TextSelectionChanged
+0:01:22 TextSelectionChanged
+0:01:26 Widget Closed: StatusBubble
+0:03:10 Browser1 Switch from Tab1 to Tab2 at 1
+0:03:10 SwitchTab_Click
+0:03:10 Media.Shown
+0:03:11 Browser1 Switch from Tab2 to Tab1 at 0
+0:03:11 SwitchTab_Click
+0:03:11 Media.Hidden
+0:03:23 Widget Closed: StatusBubble
+0:04:27 Widget Closed: WindowClosingConfirmDialogView

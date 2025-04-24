@@ -1,173 +1,127 @@
-[2025-03-24 13:33:31.082] [info]  Running version 10.3.1
-[2025-03-24 13:33:31.131] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
-[2025-03-24 13:33:31.174] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
-[2025-03-24 13:33:31.290] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+[2025-04-05 01:51:18.321] [info]  Running version 10.3.1
+[2025-04-05 01:51:18.363] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2025-04-05 01:51:18.400] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2025-04-05 01:51:18.494] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
 '
-[2025-03-24 13:33:31.590] [info]  [fix] Running database repairs
-[2025-03-24 13:33:31.805] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
-[2025-03-24 13:33:31.806] [info]  [db] Init responses DB
-[2025-03-24 13:33:31.807] [info]  [db] Init websocket-responses DB
-[2025-03-24 13:33:31.811] [info]  [ElectronStorage] Initialized at /home/alberto/.config/Insomnia/localStorage
-[2025-03-24 13:33:31.906] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
-[2025-03-24 13:33:31.944] [info]  [main] Registering the hidden window restarting handler
-[2025-03-24 13:33:31.947] [info]  [updater] Not supported on this platform linux
-[2025-03-24 13:33:32.007] [info]  [main] window focus
-[2025-03-24 13:33:32.317] [info]  [main] window blur
-[2025-03-24 13:33:32.703] [info]  [main] window focus
-[2025-03-24 13:33:34.644] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
-[2025-03-24 13:33:34.650] [info]  [main] Check args and create windows []
-[2025-03-24 13:33:34.652] [info]  [main] Checking for newer version than  10.3.1
-[2025-03-24 13:33:35.283] [info]  [main] window blur
-[2025-03-24 13:33:35.298] [info]  [main] window focus
-[2025-03-24 13:33:36.116] [info]  [main] Found newer version
-[2025-03-24 13:33:36.132] [info]  [main] window blur
-[2025-03-24 13:33:36.147] [info]  [main] Backup found at: /home/alberto/.config/Insomnia/backups/10.3.1
-[2025-03-24 13:33:36.462] [info]  [main] window focus
-[2025-03-24 13:33:37.148] [info]  [main] window blur
-[2025-03-24 13:33:42.476] [info]  [main] window focus
-[2025-03-24 13:36:22.234] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/f918d506-1748-4f74-af87-3f1277d9494a.response
-[2025-03-24 13:36:22.235] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_e678bcddb80a4bf99da9bb36872d51c6.timeline
-[2025-03-24 13:36:24.590] [info]  [main] window blur
-[2025-03-24 13:38:00.328] [info]  [main] window focus
-[2025-03-24 13:38:30.665] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/8fa71ee2-a179-411d-9c99-dce462df45a0.response
-[2025-03-24 13:38:30.666] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_15a675fa9c044baf8c196d23ec050c58.timeline
-[2025-03-24 13:38:53.797] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/0ef406c3-665c-4d86-bc8a-9f17f4a4aab0.response
-[2025-03-24 13:38:53.798] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_8dead2baa9b849068b08de8e74671b1f.timeline
-[2025-03-24 13:38:59.078] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/e56a0c26-3494-4213-a854-5233540585b8.response
-[2025-03-24 13:38:59.079] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_2f344591599b41ecb5a1f14a7dcf4b9b.timeline
-[2025-03-24 13:49:57.791] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:49:57.795] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:00.478] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:00.553] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:00.807] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:00.810] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:03.822] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:03.826] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:06.835] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:06.839] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:09.850] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:09.853] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:12.863] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:12.866] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:15.877] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:15.880] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:18.889] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:18.893] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:21.902] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:21.905] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:24.915] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:24.919] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:27.930] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:27.933] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:30.943] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:30.947] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:33.958] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:33.961] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:36.971] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:36.976] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:39.988] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:39.993] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:43.005] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:43.009] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:46.019] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:46.023] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:49.035] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:49.037] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:52.048] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:52.051] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:55.062] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:55.066] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:58.078] [error] Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 13:50:58.082] [error] Error: net::ERR_UNEXPECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118398)
-    at SimpleURLLoaderWrapper.emit (node:events:518:28)
-[2025-03-24 14:40:33.998] [info]  [main] window blur
-[2025-03-24 14:50:58.682] [info]  [main] window focus
-[2025-03-24 14:51:23.220] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/0b6c95ea-29ee-4193-b71c-46bc1cd012b4.response
-[2025-03-24 14:51:23.221] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_fb352f20e17f483ca6a53e2b8a38ff9b.timeline
+[2025-04-05 01:51:18.743] [info]  [fix] Running database repairs
+[2025-04-05 01:51:18.903] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
+[2025-04-05 01:51:18.904] [info]  [db] Init responses DB
+[2025-04-05 01:51:18.904] [info]  [db] Init websocket-responses DB
+[2025-04-05 01:51:18.908] [info]  [ElectronStorage] Initialized at /home/alberto/.config/Insomnia/localStorage
+[2025-04-05 01:51:18.980] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2025-04-05 01:51:19.014] [info]  [main] Registering the hidden window restarting handler
+[2025-04-05 01:51:19.016] [info]  [updater] Not supported on this platform linux
+[2025-04-05 01:51:19.044] [info]  [main] window focus
+[2025-04-05 01:51:21.401] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2025-04-05 01:51:21.403] [info]  [main] Check args and create windows []
+[2025-04-05 01:51:21.404] [info]  [main] Checking for newer version than  10.3.1
+[2025-04-05 01:51:22.556] [info]  [main] Found newer version
+[2025-04-05 01:51:22.561] [info]  [main] Backup found at: /home/alberto/.config/Insomnia/backups/10.3.1
+[2025-04-05 01:51:26.756] [info]  [main] window blur
+[2025-04-05 01:52:43.456] [info]  [main] window focus
+[2025-04-05 01:52:50.105] [info]  [main] window blur
+[2025-04-05 01:53:10.760] [info]  [main] window focus
+[2025-04-05 01:53:11.417] [info]  [main] window blur
+[2025-04-05 01:53:33.977] [info]  [main] window focus
+[2025-04-05 01:53:52.872] [info]  [main] window blur
+[2025-04-05 01:54:00.070] [info]  [main] window focus
+[2025-04-05 01:54:00.255] [info]  [main] window blur
+[2025-04-05 01:54:41.387] [info]  [main] window focus
+[2025-04-05 01:54:41.503] [info]  [main] window blur
+[2025-04-05 01:54:55.222] [info]  [main] window focus
+[2025-04-05 01:55:01.760] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/275113b7-45ac-4e5e-8c8d-443fc665beae.response
+[2025-04-05 01:55:01.761] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_fa96e6248f014fac8112910cc9a246c1.timeline
+[2025-04-05 01:55:08.557] [info]  [main] window blur
+[2025-04-05 01:55:10.573] [info]  [main] window focus
+[2025-04-05 01:55:18.718] [info]  [main] window blur
+[2025-04-05 01:55:27.789] [info]  [main] window focus
+[2025-04-05 01:55:29.856] [info]  [main] window blur
+[2025-04-05 01:57:40.656] [info]  [main] window focus
+[2025-04-05 01:57:45.452] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/a2d8abca-2934-4022-b838-1109d526218f.response
+[2025-04-05 01:57:45.453] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_b34f8b845c0e4fa798176155b75bcd22.timeline
+[2025-04-05 01:57:59.963] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_ef499403febc4975b7f273946d862b0a.timeline
+[2025-04-05 01:57:59.963] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/74ee7059-a71c-4fd7-9266-80bb8c18245a.response
+[2025-04-05 01:58:09.831] [info]  [main] window blur
+[2025-04-05 01:59:40.746] [info]  [main] window focus
+[2025-04-05 01:59:45.383] [info]  [main] window blur
+[2025-04-05 01:59:50.224] [info]  [main] window focus
+[2025-04-05 02:00:03.664] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2ae69c62-353d-4a38-9d0d-ee1ae61534f6.response
+[2025-04-05 02:00:03.665] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_9f95967f67ae440784dd149ae51eb2b4.timeline
+[2025-04-05 02:00:04.718] [info]  [main] window blur
+[2025-04-05 02:00:08.606] [info]  [main] window focus
+[2025-04-05 02:00:27.105] [info]  [main] window blur
+[2025-04-05 02:00:32.238] [info]  [main] window focus
+[2025-04-05 02:00:35.817] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/4dba7d4b-5f3c-465e-afc1-e419a59027ac.response
+[2025-04-05 02:00:35.817] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_e2d4de6c5ae949f29f15deacd73fc513.timeline
+[2025-04-05 02:00:39.696] [info]  [main] window blur
+[2025-04-05 02:00:51.822] [info]  [main] window focus
+[2025-04-05 02:01:04.951] [info]  [main] window blur
+[2025-04-05 02:01:06.712] [info]  [main] window focus
+[2025-04-05 02:01:08.912] [info]  [main] window blur
+[2025-04-05 02:02:07.629] [info]  [main] window focus
+[2025-04-05 02:02:11.372] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/5770405a-4ccd-4972-99af-56f5204f8e8a.response
+[2025-04-05 02:02:11.373] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_51d0189b62094b42891ec87f950098b1.timeline
+[2025-04-05 02:02:30.558] [info]  [main] window blur
+[2025-04-05 02:04:19.206] [info]  [main] window focus
+[2025-04-05 02:04:29.941] [info]  [main] window blur
+[2025-04-05 02:04:31.221] [info]  [main] window focus
+[2025-04-05 02:04:35.075] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/44432180-74dc-4df9-9b70-927d49057cb7.response
+[2025-04-05 02:04:35.075] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_b54aea9253dd42bea7f2c8cf2fb20058.timeline
+[2025-04-05 02:04:48.098] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_e442cb3c9ba34e57956ed03484631dbf.timeline
+[2025-04-05 02:04:48.099] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/ec7e25d6-0a2d-41c4-be71-cc574b69f10b.response
+[2025-04-05 02:04:58.442] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_c949e297b7c4453baf46e7fd080f5caa.timeline
+[2025-04-05 02:04:58.442] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/f50fedab-7429-4f02-9f50-12c6fa1aff44.response
+[2025-04-05 02:05:17.392] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/d8ff0ff0-f2a2-407b-a2ba-d395c7e158b4.response
+[2025-04-05 02:05:17.393] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_b79b3cc67b9948eca5aa440e051146bf.timeline
+[2025-04-05 02:05:28.963] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/b4df069d-dff0-4e37-97a3-1634e795de30.response
+[2025-04-05 02:05:28.964] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_169aabb3231e4e669f59ae5dd5194ca1.timeline
+[2025-04-05 02:05:43.584] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/98c586e9-f37b-42ae-9691-dbd5e455b119.response
+[2025-04-05 02:05:43.585] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_6d90d0338d004257a948f5ff84138d7a.timeline
+[2025-04-05 02:05:58.957] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/256b6db2-e4d9-430a-9c01-0b5cc64bf96f.response
+[2025-04-05 02:05:58.957] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_360665d43f9c4940a3582308281cdf1b.timeline
+[2025-04-05 02:06:08.711] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_dd61d9c9457c474384e3c021d4afa999.timeline
+[2025-04-05 02:06:08.712] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/8877678b-2f27-4e34-9c2d-27b06117d32e.response
+[2025-04-05 02:06:17.493] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/a0015198-a23c-4e4c-b4b6-f4717f2951ce.response
+[2025-04-05 02:06:17.494] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_733b2e7644e24cca83e92d4ada9f3319.timeline
+[2025-04-05 02:06:25.901] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/6906db20-a191-4ad2-9d21-ae2cd5248350.response
+[2025-04-05 02:06:25.901] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_0080322439d04f2a81d0652a227420e9.timeline
+[2025-04-05 02:06:36.753] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_cb37e059b0794cbc9f778114dbcb8505.timeline
+[2025-04-05 02:06:36.753] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/de0ee401-ca8c-4deb-9043-3885d2d8d621.response
+[2025-04-05 02:06:55.160] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/42031548-6064-4089-980b-eae1fbb94840.response
+[2025-04-05 02:06:55.160] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_f58a469b1b4a45509e7460ddfc828d80.timeline
+[2025-04-05 02:07:01.419] [info]  [main] window blur
+[2025-04-05 02:07:03.011] [info]  [main] window focus
+[2025-04-05 02:07:18.840] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/b8eab581-559b-495f-a26d-c3dc1c64e75b.response
+[2025-04-05 02:07:18.841] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_f1b3fe6f5b084064b1525f87f518cef1.timeline
+[2025-04-05 02:07:21.691] [info]  [main] window blur
+[2025-04-05 02:09:20.457] [info]  [main] window focus
+[2025-04-05 02:09:22.049] [info]  [main] window blur
+[2025-04-05 02:09:38.249] [info]  [main] window focus
+[2025-04-05 02:09:39.113] [info]  [main] window blur
+[2025-04-05 02:09:40.098] [info]  [main] window focus
+[2025-04-05 02:09:45.001] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_4bc8a8e084e049efb125b79da6d3b4d9.timeline
+[2025-04-05 02:09:45.001] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/7c557012-4263-40a6-baec-2c0239e04b4b.response
+[2025-04-05 02:09:46.338] [info]  [main] window blur
+[2025-04-05 02:10:00.514] [info]  [main] window focus
+[2025-04-05 02:10:03.832] [info]  [main] window blur
+[2025-04-05 02:12:33.695] [info]  [main] window focus
+[2025-04-05 02:12:36.408] [info]  [main] window blur
+[2025-04-05 02:14:30.289] [info]  [main] window focus
+[2025-04-05 02:14:35.048] [info]  [main] window blur
+[2025-04-05 02:14:35.569] [info]  [main] window focus
+[2025-04-05 02:14:35.727] [info]  [main] window blur
+[2025-04-05 02:14:48.198] [info]  [main] window focus
+[2025-04-05 02:15:07.800] [info]  [main] window blur
+[2025-04-05 02:15:09.953] [info]  [main] window focus
+[2025-04-05 02:15:14.434] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_ecff03a1d7b847359f1f7017fdb8a22e.timeline
+[2025-04-05 02:15:14.435] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/20a36f78-b871-44ae-94f8-dd30f12e64d9.response
+[2025-04-05 02:15:25.608] [info]  [main] window blur
+[2025-04-05 02:17:00.850] [info]  [main] window focus
+[2025-04-05 02:17:05.332] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/4e6f37b9-1c65-4e7b-bca6-c48b64d3a8c4.response
+[2025-04-05 02:17:05.333] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_ce48c491e57642cfa85e5f16c9fc4700.timeline
+[2025-04-05 02:17:19.413] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_7f018d3e04b747e8bb98e104aafb0e4a.timeline
+[2025-04-05 02:17:19.413] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/d6cae449-da3a-4a8e-954b-899ce6b13735.response
+[2025-04-05 02:17:32.819] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_b2451d240648427994116d0ec8efe842.timeline
+[2025-04-05 02:17:32.820] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2d4a3708-1476-4dc0-94ff-e8b7f7dc948b.response
+[2025-04-05 02:17:34.838] [info]  [main] window blur
+[2025-04-05 02:18:26.366] [info]  [main] window focus

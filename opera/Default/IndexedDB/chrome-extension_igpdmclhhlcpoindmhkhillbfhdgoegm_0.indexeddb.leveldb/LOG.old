@@ -1,7 +1,25 @@
-2025/03/08-20:01:19.154 2df36a Reusing MANIFEST /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/08-20:01:19.155 2df36a Recovering log #4
-2025/03/08-20:01:19.156 2df36a Reusing old log /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000004.log 
-2025/03/08-20:01:19.193 2df38b Level-0 table #8: started
-2025/03/08-20:01:19.195 2df38b Level-0 table #8: 8790 bytes OK
-2025/03/08-20:01:19.197 2df38b Delete type=0 #4
-2025/03/08-20:01:19.198 2df38b Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/17-23:40:30.479 6f26 Reusing MANIFEST /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/17-23:40:30.480 6f26 Recovering log #10
+2025/04/17-23:40:30.481 6f26 Reusing old log /home/alberto/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000010.log 
+2025/04/17-23:40:30.481 6f26 Delete type=2 #8
+2025/04/17-23:40:30.495 6f26 Level-0 table #15: started
+2025/04/17-23:40:30.498 6f26 Level-0 table #15: 1211 bytes OK
+2025/04/17-23:40:30.500 6f26 Delete type=0 #10
+2025/04/17-23:40:30.501 6f15 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 520 : 1
+2025/04/17-23:40:30.501 6f15 Compacting 1@0 + 1@1 files
+2025/04/17-23:40:30.503 6f15 Generated table #16@0: 174 keys, 4352 bytes
+2025/04/17-23:40:30.504 6f15 Compacted 1@0 + 1@1 files => 4352 bytes
+2025/04/17-23:40:30.505 6f15 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/17-23:40:30.506 6f15 Delete type=2 #15
+2025/04/17-23:40:30.506 6f4d Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 520 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/17-23:40:38.017 6f26 Level-0 table #18: started
+2025/04/17-23:40:38.019 6f26 Level-0 table #18: 10586 bytes OK
+2025/04/17-23:40:38.020 6f26 Delete type=2 #12
+2025/04/17-23:40:38.021 6f26 Delete type=0 #14
+2025/04/17-23:40:38.021 6f26 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 803 : 1
+2025/04/17-23:40:38.021 6f26 Compacting 1@0 + 1@1 files
+2025/04/17-23:40:38.023 6f26 Generated table #19@0: 194 keys, 4450 bytes
+2025/04/17-23:40:38.023 6f26 Compacted 1@0 + 1@1 files => 4450 bytes
+2025/04/17-23:40:38.024 6f26 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/17-23:40:38.025 6f26 Delete type=2 #18
+2025/04/17-23:40:38.026 6f26 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 803 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

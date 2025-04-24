@@ -1,3 +1,6 @@
-2025/03/30-19:52:46.079 11eb1d Reusing MANIFEST /home/alberto/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/03/30-19:52:46.102 11eb1d Recovering log #11
-2025/03/30-19:52:46.103 11eb1d Reusing old log /home/alberto/.config/discord/Local Storage/leveldb/000011.log 
+2025/04/25-01:08:09.388 99e Reusing MANIFEST /home/alberto/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/04/25-01:08:09.411 99e Recovering log #4
+2025/04/25-01:08:09.411 99e Reusing old log /home/alberto/.config/discord/Local Storage/leveldb/000004.log 
+2025/04/25-01:11:35.681 99f Level-0 table #8: started
+2025/04/25-01:11:35.713 99f Level-0 table #8: 1019283 bytes OK
+2025/04/25-01:11:35.717 99f Delete type=0 #4

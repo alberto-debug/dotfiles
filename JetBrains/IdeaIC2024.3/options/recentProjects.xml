@@ -483,8 +483,8 @@
         </entry>
         <entry key="$USER_HOME$/Desktop/Projects/demo-spendee/login-app-backend-main">
           <value>
-            <RecentProjectMetaInfo frameTitle="login-app-backend-main – SecurityConfig.java" opened="true" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
-              <option name="activationTimestamp" value="1743199347115" />
+            <RecentProjectMetaInfo frameTitle="SecurityConfig.java" projectWorkspaceId="2j9dvY4TkXmQGoizB3rbOIpTmc7">
+              <option name="activationTimestamp" value="1743430741568" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-243.26053.27" />
               <option name="buildTimestamp" value="1742464260000" />
@@ -493,13 +493,44 @@
               </option>
               <frame x="3" y="31" width="1914" height="1046" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1743006832615" />
+              <option name="projectOpenTimestamp" value="1743430738571" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/spring2/VehiTrack">
+          <value>
+            <RecentProjectMetaInfo frameTitle="VehiTrack – pom.xml (VehiTrack)" projectWorkspaceId="2v5LwzmMNvqt7kwQkl9H23Sm9yq">
+              <option name="activationTimestamp" value="1745528411690" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742464260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="3" y="31" width="1914" height="1046" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1743430742134" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Projects/springboot-projects/track">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2wBwjna9AX9ElDe7rcyhrNWoApI">
+              <option name="activationTimestamp" value="1745533194561" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742464260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1745528412481" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/demo-spendee/login-app-backend-main" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/Projects/springboot-projects/track" />
     <option name="lastProjectLocation" value="$USER_HOME$/Desktop/Projects/springboot-projects" />
   </component>
 </application>

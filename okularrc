@@ -6,26 +6,26 @@ LockSidebar=true
 ShowSidebar=true
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Week6.pdf
-File10[$e]=$HOME/Downloads/Week6 Architectural design.pdf
-File2[$e]=$HOME/Downloads/Week8.pdf
-File3[$e]=$HOME/Downloads/Final Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
-File4[$e]=$HOME/Booking Confirmation _ PSI Online.pdf
-File5[$e]=$HOME/Documents/CAT.pdf
-File6[$e]=$HOME/Documents/report.pdf
-File7[$e]=$HOME/Downloads/participants.pdf
-File8[$e]=$HOME/Downloads/Campus Event Preparation Guide/Appendix 0 - Huawei Campus Ambassador Program - Brief.pdf
-File9[$e]=$HOME/Downloads/Week9 Software Evolution.pdf
-Name1[$e]=Week6.pdf
-Name10[$e]=Week6 Architectural design.pdf
-Name2[$e]=Week8.pdf
-Name3[$e]=Final Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
-Name4[$e]=Booking Confirmation _ PSI Online.pdf
-Name5[$e]=CAT.pdf
-Name6[$e]=report.pdf
-Name7[$e]=participants.pdf
-Name8[$e]=Appendix 0 - Huawei Campus Ambassador Program - Brief.pdf
-Name9[$e]=Week9 Software Evolution.pdf
+File1[$e]=$HOME/Downloads/Final Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
+File10[$e]=$HOME/Downloads/Alberto Pre booking form MAY 2025.pdf
+File2[$e]=$HOME/Booking Confirmation _ PSI Online.pdf
+File3[$e]=$HOME/Documents/CAT.pdf
+File4[$e]=$HOME/Documents/report.pdf
+File5[$e]=$HOME/Downloads/participants.pdf
+File6[$e]=$HOME/Downloads/Campus Event Preparation Guide/Appendix 0 - Huawei Campus Ambassador Program - Brief.pdf
+File7[$e]=$HOME/Downloads/Week9 Software Evolution.pdf
+File8[$e]=$HOME/Downloads/Week6 Architectural design.pdf
+File9[$e]=$HOME/Downloads/project.pdf
+Name1[$e]=Final Undergraduate, Dip & Cert Jan 2025 Exam TT.pdf
+Name10[$e]=Alberto Pre booking form MAY 2025.pdf
+Name2[$e]=Booking Confirmation _ PSI Online.pdf
+Name3[$e]=CAT.pdf
+Name4[$e]=report.pdf
+Name5[$e]=participants.pdf
+Name6[$e]=Appendix 0 - Huawei Campus Ambassador Program - Brief.pdf
+Name7[$e]=Week9 Software Evolution.pdf
+Name8[$e]=Week6 Architectural design.pdf
+Name9[$e]=project.pdf
 
 [UiSettings]
 ColorScheme=KvArcDark

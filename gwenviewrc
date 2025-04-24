@@ -5,26 +5,26 @@ LastUsedVersion=210800
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/arch.png
-File10[$e]=$HOME/Pictures/ancient-one.jpg
-File2[$e]=$HOME/Pictures/archkali.png
-File3[$e]=$HOME/Pictures/bg7.jpg
-File4[$e]=$HOME/Pictures/bg21.jpg
-File5[$e]=$HOME/Pictures/circuits.jpg
-File6[$e]=$HOME/Pictures/forest_dark_winter.jpg
-File7[$e]=$HOME/Pictures/gif-wallpapers-HyDE-Room.gif
-File8[$e]=$HOME/Pictures/tanvdesign-fantasy-landscape.png
-File9[$e]=$HOME/Pictures/Tasgylf.gif
-Name1[$e]=arch.png
-Name10[$e]=ancient-one.jpg
-Name2[$e]=archkali.png
-Name3[$e]=bg7.jpg
-Name4[$e]=bg21.jpg
-Name5[$e]=circuits.jpg
-Name6[$e]=forest_dark_winter.jpg
-Name7[$e]=gif-wallpapers-HyDE-Room.gif
-Name8[$e]=tanvdesign-fantasy-landscape.png
-Name9[$e]=Tasgylf.gif
+File1[$e]=$HOME/Pictures/bg21.jpg
+File10[$e]=$HOME/Downloads/final_image_with_sky.jpeg
+File2[$e]=$HOME/Pictures/circuits.jpg
+File3[$e]=$HOME/Pictures/forest_dark_winter.jpg
+File4[$e]=$HOME/Pictures/gif-wallpapers-HyDE-Room.gif
+File5[$e]=$HOME/Pictures/tanvdesign-fantasy-landscape.png
+File6[$e]=$HOME/Pictures/Tasgylf.gif
+File7[$e]=$HOME/Pictures/ancient-one.jpg
+File8[$e]=$HOME/Downloads/enhanced_image.jpeg
+File9[$e]=$HOME/Downloads/final_enhanced_image.jpeg
+Name1[$e]=bg21.jpg
+Name10[$e]=final_image_with_sky.jpeg
+Name2[$e]=circuits.jpg
+Name3[$e]=forest_dark_winter.jpg
+Name4[$e]=gif-wallpapers-HyDE-Room.gif
+Name5[$e]=tanvdesign-fantasy-landscape.png
+Name6[$e]=Tasgylf.gif
+Name7[$e]=ancient-one.jpg
+Name8[$e]=enhanced_image.jpeg
+Name9[$e]=final_enhanced_image.jpeg
 
 [SideBar]
 InformationSplitterSizes=222,235

@@ -75,8 +75,8 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityConfig.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="253">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="363">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="e#2895#2896#0" expanded="true" />
                 <element signature="e#2945#2946#0" expanded="true" />
@@ -274,8 +274,8 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 673,
-      "lastUsed": 1743172206137
+      "usageCount": 693,
+      "lastUsed": 1743430738862
     },
     "XML": {
       "usageCount": 31,
@@ -286,8 +286,8 @@
       "lastUsed": 1740768817311
     },
     "Properties": {
-      "usageCount": 37,
-      "lastUsed": 1743172205253
+      "usageCount": 38,
+      "lastUsed": 1743430738691
     },
     "CLASS": {
       "usageCount": 3,
@@ -377,13 +377,13 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="673" lastUsage="1743172206137" />
+      <summary usageCount="693" lastUsage="1743430738862" />
     </language>
     <language id="Markdown">
       <summary usageCount="1" lastUsage="1739887910059" />
     </language>
     <language id="Properties">
-      <summary usageCount="37" lastUsage="1743172205253" />
+      <summary usageCount="38" lastUsage="1743430738691" />
     </language>
     <language id="XML">
       <summary usageCount="31" lastUsage="1740772683049" />
@@ -587,7 +587,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/Task.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Task" />
+                            <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Task" />
                             <item name="Task" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                           <presentation>
@@ -596,7 +596,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/TaskStatus.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/enum.svg" iconPlugin="com.mallowigi" isLeaf="true" text="TaskStatus" />
+                            <data iconPath="glyphs/nodes/enum.svg" iconPlugin="com.mallowigi" isLeaf="true" text="TaskStatus" />
                             <item name="TaskStatus" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                           <presentation>
@@ -605,7 +605,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/Transaction.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Transaction" />
+                            <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Transaction" />
                             <item name="Transaction" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                           <presentation>
@@ -614,7 +614,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/TransactionType.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/enum.svg" iconPlugin="com.mallowigi" isLeaf="true" text="TransactionType" />
+                            <data iconPath="glyphs/nodes/enum.svg" iconPlugin="com.mallowigi" isLeaf="true" text="TransactionType" />
                             <item name="TransactionType" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                           <presentation>
@@ -623,7 +623,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/User.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="User" />
+                            <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="User" />
                             <item name="User" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                         </presentation>
@@ -668,7 +668,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/CustomUserDetailsService.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="CustomUserDetailsService" />
+                            <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="CustomUserDetailsService" />
                             <item name="CustomUserDetailsService" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                           <presentation>
@@ -677,7 +677,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityConfig.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="SecurityConfig" />
+                            <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="SecurityConfig" />
                             <item name="SecurityConfig" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                           <presentation>
@@ -686,7 +686,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityFilter.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="SecurityFilter" />
+                            <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="SecurityFilter" />
                             <item name="SecurityFilter" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                           <presentation>
@@ -695,7 +695,7 @@
                                 <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/TokenService.java" />
                               </map>
                             </attributes>
-                            <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="TokenService" />
+                            <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="TokenService" />
                             <item name="TokenService" type="1a9f42e2:ClassTreeNode" />
                           </presentation>
                         </presentation>
@@ -742,7 +742,7 @@
                             <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/loginauthapi/LoginAuthApiApplication.java" />
                           </map>
                         </attributes>
-                        <data iconPath="glyphs/expui/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="LoginAuthApiApplication" />
+                        <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="LoginAuthApiApplication" />
                         <item name="LoginAuthApiApplication" type="1a9f42e2:ClassTreeNode" />
                       </presentation>
                     </presentation>
@@ -851,12 +851,12 @@
             </presentation>
             <presentation>
               <attributes />
-              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </presentation>
             <presentation>
               <attributes />
-              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Scratches and Consoles" />
               <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
             </presentation>
           </presentation>
@@ -885,7 +885,7 @@
       <window_info id="Commit" order="0" weight="0.21499477" />
       <window_info id="Pull Requests" order="1" weight="0.21499477" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.17215256" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.21499477" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.14602926" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.3494264" />
@@ -900,11 +900,11 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.1099791" />
-      <unified_weights bottom="0.34273422" left="0.21499477" right="0.1099791" />
+      <unified_weights bottom="0.34273422" left="0.14602926" right="0.1099791" />
     </layoutV2>
     <recentWindows>
-      <value>Debug</value>
       <value>Project</value>
+      <value>Debug</value>
       <value>Commit</value>
       <value>Pull Requests</value>
       <value>Run</value>
@@ -937,10 +937,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="710" y="275" key="EnvironmentVariablesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1740946506622" />
-    <state x="747" y="298" width="468" height="456" key="FileChooserDialogImpl" timestamp="1740946486626">
+    <state x="747" y="298" width="468" height="456" key="FileChooserDialogImpl" timestamp="1743430227570">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="747" y="298" width="468" height="456" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1740946486626" />
+    <state x="747" y="298" width="468" height="456" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1743430227570" />
     <state x="2667" y="298" width="459" height="456" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1739447601264" />
     <state x="747" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1740732692097" />
     <state x="697" y="373" key="Github.ShareDialog" timestamp="1740829751007">
@@ -1138,8 +1138,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="363">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="e#2895#2896#0" expanded="true" />
             <element signature="e#2945#2946#0" expanded="true" />
@@ -1180,29 +1180,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/CustomUserDetailsService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="19" column="91" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/TaskService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="198">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/TaskController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1239,39 +1224,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/repositories/TransactionRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/TaskStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/Transaction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="15" column="7" selection-start-line="11" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/FinancialController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1282,17 +1245,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/AdminService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/repositories/TransactionRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/TokenService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="264">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1306,10 +1262,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/CustomUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="91" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/services/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/TaskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/AuthController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/domain/user/TaskStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -1320,17 +1324,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/controllers/FinancialController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/TokenService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/loginauthapi/infra/security/SecurityFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

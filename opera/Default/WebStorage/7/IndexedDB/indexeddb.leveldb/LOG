@@ -1,0 +1,6 @@
+2025/04/17-23:40:46.791 6f26 Creating DB /home/alberto/.config/opera/Default/WebStorage/7/IndexedDB/indexeddb.leveldb since it was missing.
+2025/04/17-23:40:46.795 6f26 Reusing MANIFEST /home/alberto/.config/opera/Default/WebStorage/7/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/17-23:40:46.899 6f4d Level-0 table #5: started
+2025/04/17-23:40:46.900 6f4d Level-0 table #5: 1401 bytes OK
+2025/04/17-23:40:46.902 6f4d Delete type=0 #3
+2025/04/17-23:40:46.902 6f15 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

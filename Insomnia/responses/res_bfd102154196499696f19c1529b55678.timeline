@@ -1,0 +1,22 @@
+{"value":"Preparing request to http://localhost:8080/vehicle/register","name":"Text","timestamp":1743808182654}
+{"value":"Current time is 2025-04-04T23:09:42.654Z","name":"Text","timestamp":1743808182654}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1743808182654}
+{"value":"Using default HTTP version","name":"Text","timestamp":1743808182655}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1743808182655}
+{"value":"Enable SSL validation","name":"Text","timestamp":1743808182655}
+{"name":"Text","value":"Too old connection (143 seconds idle), disconnect it\n","timestamp":1743808182656}
+{"name":"Text","value":"Connection 6 seems to be dead\n","timestamp":1743808182656}
+{"name":"Text","value":"Closing connection 6\n","timestamp":1743808182656}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1743808182656}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#7)\n","timestamp":1743808182656}
+{"name":"HeaderOut","value":"POST /vehicle/register HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/10.1.1\r\nAccept: */*\r\nContent-Length: 97\r\n\r\n","timestamp":1743808182656}
+{"name":"DataOut","value":"{\n    \"owner\": \"Alberto Junior\",\n    \"identification\": \"203.317.330-12\",\n    \"placa\": \"ABC6239\"\n}","timestamp":1743808182656}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1743808184957}
+{"name":"HeaderIn","value":"HTTP/1.1 200 \r\n","timestamp":1743808184957}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1743808184957}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1743808184957}
+{"name":"HeaderIn","value":"Date: Fri, 04 Apr 2025 23:09:44 GMT\r\n","timestamp":1743808184957}
+{"name":"HeaderIn","value":"\r\n","timestamp":1743808184957}
+{"name":"Text","value":"Received 175 B chunk","timestamp":1743808184957}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1743808184959}
+{"name":"Text","value":"Connection #7 to host localhost left intact\n","timestamp":1743808184959}

@@ -1,3 +1,6 @@
-2025/03/08-20:01:16.662 4 Reusing MANIFEST /home/alberto/.config/opera/Default/Session Storage/MANIFEST-000001
-2025/03/08-20:01:16.665 4 Recovering log #3
-2025/03/08-20:01:16.667 4 Reusing old log /home/alberto/.config/opera/Default/Session Storage/000003.log 
+2025/04/17-23:40:29.887 4 Reusing MANIFEST /home/alberto/.config/opera/Default/Session Storage/MANIFEST-000001
+2025/04/17-23:40:29.888 4 Recovering log #3
+2025/04/17-23:40:29.889 4 Reusing old log /home/alberto/.config/opera/Default/Session Storage/000003.log 
+2025/04/17-23:40:57.961 5 Level-0 table #5: started
+2025/04/17-23:40:57.964 5 Level-0 table #5: 16242 bytes OK
+2025/04/17-23:40:57.967 5 Delete type=0 #3
