@@ -1,121 +1,52 @@
-[2025-03-31 19:20:26.566] [info]  Running version 10.3.1
-[2025-03-31 19:20:26.610] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
-[2025-03-31 19:20:26.649] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
-[2025-03-31 19:20:26.745] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+[2025-05-11 02:36:40.723] [info]  Running version 10.3.1
+[2025-05-11 02:36:40.774] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2025-05-11 02:36:40.819] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2025-05-11 02:36:40.927] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
 '
-[2025-03-31 19:20:27.042] [info]  [fix] Running database repairs
-[2025-03-31 19:20:27.305] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
-[2025-03-31 19:20:27.306] [info]  [db] Init responses DB
-[2025-03-31 19:20:27.306] [info]  [db] Init websocket-responses DB
-[2025-03-31 19:20:27.310] [info]  [ElectronStorage] Initialized at /home/alberto/.config/Insomnia/localStorage
-[2025-03-31 19:20:27.403] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
-[2025-03-31 19:20:27.434] [info]  [main] Registering the hidden window restarting handler
-[2025-03-31 19:20:27.436] [info]  [updater] Not supported on this platform linux
-[2025-03-31 19:20:27.479] [info]  [main] window focus
-[2025-03-31 19:20:30.393] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
-[2025-03-31 19:20:30.398] [info]  [main] Check args and create windows []
-[2025-03-31 19:20:30.400] [info]  [main] Checking for newer version than  10.3.1
-[2025-03-31 19:20:31.411] [info]  [main] Found newer version
-[2025-03-31 19:20:31.417] [info]  [main] Backup found at: /home/alberto/.config/Insomnia/backups/10.3.1
-[2025-03-31 19:20:33.180] [info]  [main] window blur
-[2025-03-31 19:20:34.431] [info]  [main] window focus
-[2025-03-31 19:20:37.100] [info]  [main] window blur
-[2025-03-31 19:20:43.180] [info]  [main] window focus
-[2025-03-31 19:20:47.932] [info]  [main] window blur
-[2025-03-31 19:20:48.167] [info]  [main] window focus
-[2025-03-31 19:20:50.389] [info]  [main] window blur
-[2025-03-31 19:20:52.421] [info]  [main] window focus
-[2025-03-31 19:21:07.150] [info]  [main] window blur
-[2025-03-31 19:26:51.988] [info]  [main] window focus
-[2025-03-31 19:26:54.794] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/55e91c3f-60e3-4646-9fda-77940453366a.response
-[2025-03-31 19:26:54.795] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_48d5f2ada64e45a9b2d42d9e66e42b19.timeline
-[2025-03-31 19:27:01.243] [info]  [main] window blur
-[2025-03-31 19:27:07.901] [info]  [main] window focus
-[2025-03-31 19:27:14.325] [info]  [main] window blur
-[2025-03-31 19:27:45.765] [info]  [main] window focus
-[2025-03-31 19:27:51.949] [info]  [main] window blur
-[2025-03-31 19:27:59.318] [info]  [main] window focus
-[2025-03-31 19:28:01.869] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_67e4427a6fbd40b38a83874ce661c5ba.timeline
-[2025-03-31 19:28:01.869] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/5bfbdc28-ce19-4047-8bd8-6c99fbd2a37e.response
-[2025-03-31 19:28:03.640] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/8aa87c61-9a77-4523-af45-6b4f87939816.response
-[2025-03-31 19:28:03.641] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_3a66ac40084f4255b6e966d2962111eb.timeline
-[2025-03-31 19:28:04.727] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/96549b44-4554-4ab4-b80e-38454fc06441.response
-[2025-03-31 19:28:04.727] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_8f526b34bd8e46e2becb0648ba7c6268.timeline
-[2025-03-31 19:28:05.424] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/c25fa87a-3d78-4177-85fa-be2ac3262cf1.response
-[2025-03-31 19:28:05.425] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_34ecff87b2b149ce9d54156dee605fcd.timeline
-[2025-03-31 19:28:05.993] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/8b03a2fb-4ae3-4bed-8362-15889827d2fb.response
-[2025-03-31 19:28:05.994] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_83cc24770a3c400eb62811feb1e9ace7.timeline
-[2025-03-31 19:28:06.804] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/7afb409b-8fd5-4b8e-b60b-ffe72ee59b3f.response
-[2025-03-31 19:28:06.804] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_dd5fb01e4c924a498562bf62c5a7ac66.timeline
-[2025-03-31 19:28:16.229] [info]  [main] window blur
-[2025-03-31 19:28:16.918] [info]  [main] window focus
-[2025-03-31 19:28:19.478] [info]  [main] window blur
-[2025-03-31 19:28:20.542] [info]  [main] window focus
-[2025-03-31 19:28:22.835] [info]  [main] window blur
-[2025-03-31 19:28:32.793] [info]  [main] window focus
-[2025-03-31 19:28:37.613] [info]  [main] window blur
-[2025-03-31 19:29:31.685] [info]  [main] window focus
-[2025-03-31 19:29:31.814] [info]  [main] window blur
-[2025-03-31 19:29:32.312] [info]  [main] window focus
-[2025-03-31 19:29:32.714] [info]  [main] window blur
-[2025-03-31 19:30:27.790] [info]  [main] window focus
-[2025-03-31 19:30:30.010] [info]  [main] window blur
-[2025-03-31 19:36:04.836] [info]  [main] window focus
-[2025-03-31 19:36:13.457] [info]  [main] window blur
-[2025-03-31 19:40:01.948] [info]  [main] window focus
-[2025-03-31 19:40:06.181] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/c2b45bd2-824b-409d-a112-893cd655e47f.response
-[2025-03-31 19:40:06.181] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_4e0f9f8fc5334f1e83283d3193fd5e9c.timeline
-[2025-03-31 19:40:14.154] [info]  [main] window blur
-[2025-03-31 19:46:30.175] [info]  [main] window focus
-[2025-03-31 19:46:33.235] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/1fe2cfda-1c5d-4907-8fc6-b30de792afc9.response
-[2025-03-31 19:46:33.236] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_91d0769665734e52b8e8e0cac3286c49.timeline
-[2025-03-31 19:46:34.482] [info]  [main] window blur
-[2025-03-31 19:46:38.267] [info]  [main] window focus
-[2025-03-31 19:46:44.420] [info]  [main] window blur
-[2025-03-31 19:47:14.307] [info]  [main] window focus
-[2025-03-31 19:47:15.571] [info]  [main] window blur
-[2025-03-31 19:48:02.665] [info]  [main] window focus
-[2025-03-31 19:48:06.311] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/a2572b3c-117a-44d3-8948-da12b4c8368d.response
-[2025-03-31 19:48:06.312] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_e9d43cc34aeb4c7385614b19d5a3c2d8.timeline
-[2025-03-31 19:48:10.587] [info]  [main] window blur
-[2025-03-31 19:48:22.212] [info]  [main] window focus
-[2025-03-31 19:48:22.728] [info]  [main] window blur
-[2025-03-31 19:58:25.671] [info]  [main] window focus
-[2025-03-31 19:58:28.599] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/c7bd654f-b5e8-478d-b22e-1e875a18d04d.response
-[2025-03-31 19:58:28.600] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_3d245c0c52c04391bf3137ace32d4337.timeline
-[2025-03-31 19:58:30.257] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/37b5ab8c-6225-48f1-be62-2ae51e808ec9.response
-[2025-03-31 19:58:30.259] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_d3bb790cc9bd4687aeb414857eff1253.timeline
-[2025-03-31 19:58:31.133] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/b55fa1bf-0f46-464e-a40e-536ffabe0b50.response
-[2025-03-31 19:58:31.134] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_8f05e30721fe401da5d394c2db1cdc1b.timeline
-[2025-03-31 19:58:32.137] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2c7ca75d-2e47-48c6-a946-6322909293a3.response
-[2025-03-31 19:58:32.138] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_49bb5a23233b44f59ebe45d9d795ef99.timeline
-[2025-03-31 19:58:33.103] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/86e348e1-14ef-4e30-b95b-b677c9bcc8a3.response
-[2025-03-31 19:58:33.103] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_347c9d12633f43ecbff108ab99276e3e.timeline
-[2025-03-31 19:58:34.107] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/e97e0a78-cac0-4934-9b4a-29bd30aef9a9.response
-[2025-03-31 19:58:34.109] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_789a8ddca5b544e1b37f13f51e0be869.timeline
-[2025-03-31 19:58:39.235] [info]  [main] window blur
-[2025-03-31 19:58:46.232] [info]  [main] window focus
-[2025-03-31 19:58:47.933] [info]  [main] window blur
-[2025-03-31 19:59:00.149] [info]  [main] window focus
-[2025-03-31 19:59:09.409] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/368eb916-02c3-40cc-baf0-772c1334e4c2.response
-[2025-03-31 19:59:09.410] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_73c73084b2134adf80175cb28c2d42da.timeline
-[2025-03-31 19:59:13.501] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/2704380e-40fb-4177-a361-ac9a17153eba.response
-[2025-03-31 19:59:13.502] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_d67f183d89954f5985a6003b1d418f63.timeline
-[2025-03-31 19:59:17.663] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_f3c93a375d3f477b94ecc4891d977f1f.timeline
-[2025-03-31 19:59:17.664] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/ff083b6a-8eac-40bb-88c6-9ad3ce49986c.response
-[2025-03-31 19:59:24.691] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_82eaed3304e64a0ebf1bdeebea630f0a.timeline
-[2025-03-31 19:59:24.692] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/da30b168-4cde-42ce-8182-9e8a78bf0f97.response
-[2025-03-31 19:59:27.888] [info]  [main] window blur
-[2025-03-31 19:59:45.011] [info]  [main] window focus
-[2025-03-31 19:59:51.479] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_18e2b126e8a34a1b81bb73927afc9bf5.timeline
-[2025-03-31 19:59:51.480] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/e0e9b256-a5b6-4f1e-985a-cce83134819d.response
-[2025-03-31 20:00:05.887] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/d61320d2-b54b-46cf-9934-42f726d23b39.response
-[2025-03-31 20:00:05.887] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_c6646f9f1af34ccf8d70d5d3a840a8d6.timeline
-[2025-03-31 20:00:18.574] [info]  [response] Delete body /home/alberto/.config/Insomnia/responses/638ac901-143b-4fa8-8c0e-39b4552ca59a.response
-[2025-03-31 20:00:18.574] [info]  [response] Delete timeline /home/alberto/.config/Insomnia/responses/res_57637ea0f1984068988de72afbb12a6d.timeline
-[2025-03-31 20:00:29.129] [info]  [main] window blur
-[2025-03-31 22:15:49.024] [info]  [main] window focus
-[2025-03-31 22:15:52.404] [info]  [main] window blur
-[2025-03-31 23:05:42.610] [info]  [main] window focus
-[2025-03-31 23:05:50.343] [info]  [main] window blur
-[2025-03-31 23:05:50.344] [info]  [main] window focus
+[2025-05-11 02:36:41.250] [info]  [fix] Running database repairs
+[2025-05-11 02:36:41.437] [info]  [db] Initialized DB at /home/alberto/.config/Insomnia/insomnia.$TYPE.db
+[2025-05-11 02:36:41.438] [info]  [db] Init responses DB
+[2025-05-11 02:36:41.439] [info]  [db] Init websocket-responses DB
+[2025-05-11 02:36:41.442] [info]  [ElectronStorage] Initialized at /home/alberto/.config/Insomnia/localStorage
+[2025-05-11 02:36:41.524] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2025-05-11 02:36:41.562] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:41.565] [info]  [updater] Not supported on this platform linux
+[2025-05-11 02:36:41.608] [info]  [main] window focus
+[2025-05-11 02:36:44.132] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2025-05-11 02:36:44.137] [info]  [main] Check args and create windows []
+[2025-05-11 02:36:44.138] [info]  [main] Checking for newer version than  10.3.1
+[2025-05-11 02:36:45.424] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:45.424] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.429] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:45.430] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.649] [info]  [main] Found newer version
+[2025-05-11 02:36:45.653] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:45.653] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.654] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:45.655] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.655] [info]  [main] Backup found at: /home/alberto/.config/Insomnia/backups/10.3.1
+[2025-05-11 02:36:45.658] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia+Sync.
+[2025-05-11 02:36:45.658] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.663] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:45.663] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.664] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:45.665] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.792] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia+Sync.
+[2025-05-11 02:36:45.792] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.793] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia+Sync.
+[2025-05-11 02:36:45.794] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.855] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:45.855] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:45.856] [error] (node:141427) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 set-hidden-window-busy-status listeners added to [IpcMainImpl]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `insomnia --trace-warnings ...` to show where the warning was created)
+[2025-05-11 02:36:46.152] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:46.152] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:46.463] [info]  [main] Open Deep Link URL insomnia://app/auth/login?message=Your+session+has+expired.+Please+reauthenticate+to+continue+using+Insomnia.
+[2025-05-11 02:36:46.463] [info]  [main] Registering the hidden window restarting handler
+[2025-05-11 02:36:46.763] [info]  [main] window blur
+[2025-05-11 02:36:48.476] [info]  [main] window focus
+[2025-05-11 02:37:01.954] [info]  [main] window blur
+[2025-05-11 02:37:15.676] [info]  [main] window focus
+[2025-05-11 02:37:19.274] [info]  [main] window blur
+[2025-05-11 02:37:33.405] [info]  [main] window focus
+[2025-05-11 02:37:39.068] [info]  [main] window blur

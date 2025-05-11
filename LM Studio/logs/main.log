@@ -1,0 +1,11 @@
+[2025-04-29 01:13:28.744] [info]  App starting...
+[2025-04-29 01:13:28.752] [info]  [AppUpdater] Update channel set to 'stable'
+[2025-04-29 01:13:29.459] [info]  Hardware survey for general system resources through 'vulkan' took 111.10ms
+[2025-04-29 01:13:29.695] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2025-04-29 01:13:29.696] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2025-04-29 01:13:29.696] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.15
+[2025-04-29 01:13:30.808] [info]  [AppUpdater] Received version info response
+[2025-04-29 01:13:30.809] [info]  [AppUpdater] Current version: 0.3.15 (build: 11), new version: 0.3.15 (build: 11)
+[2025-04-29 01:13:30.810] [info]  No update available: 0.3.15 (build: 11) <= 0.3.15 (build: 11)
+[2025-04-29 01:13:30.811] [info]  AppUpdater state changed to idle
+[2025-04-29 01:13:43.142] [warn]  Failed to survey hardware with engine 'llama.cpp-linux-x86_64-nvidia-cuda-avx2@1.28.0': LMSCore load lib failed - child process with PID 21428 exited with code 1

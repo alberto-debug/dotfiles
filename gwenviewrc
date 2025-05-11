@@ -5,26 +5,26 @@ LastUsedVersion=210800
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/bg21.jpg
-File10[$e]=$HOME/Downloads/final_image_with_sky.jpeg
-File2[$e]=$HOME/Pictures/circuits.jpg
-File3[$e]=$HOME/Pictures/forest_dark_winter.jpg
-File4[$e]=$HOME/Pictures/gif-wallpapers-HyDE-Room.gif
-File5[$e]=$HOME/Pictures/tanvdesign-fantasy-landscape.png
-File6[$e]=$HOME/Pictures/Tasgylf.gif
-File7[$e]=$HOME/Pictures/ancient-one.jpg
-File8[$e]=$HOME/Downloads/enhanced_image.jpeg
-File9[$e]=$HOME/Downloads/final_enhanced_image.jpeg
-Name1[$e]=bg21.jpg
-Name10[$e]=final_image_with_sky.jpeg
-Name2[$e]=circuits.jpg
-Name3[$e]=forest_dark_winter.jpg
-Name4[$e]=gif-wallpapers-HyDE-Room.gif
-Name5[$e]=tanvdesign-fantasy-landscape.png
-Name6[$e]=Tasgylf.gif
-Name7[$e]=ancient-one.jpg
-Name8[$e]=enhanced_image.jpeg
-Name9[$e]=final_enhanced_image.jpeg
+File1[$e]=$HOME/Pictures/forest_dark_winter.jpg
+File10[$e]=$HOME/Downloads/photo.jpg
+File2[$e]=$HOME/Pictures/bg7.jpg
+File3[$e]=$HOME/Pictures/ancient-one.jpg
+File4[$e]=$HOME/Downloads/student-epass(1).jpg
+File5[$e]=$HOME/Downloads/student-epass(2).jpg
+File6[$e]=$HOME/Downloads/passport(1).jpg
+File7[$e]=$HOME/Downloads/endorsementPage(1).jpg
+File8[$e]=$HOME/Downloads/letter(1).jpg
+File9[$e]=$HOME/Downloads/photo.JPG
+Name1[$e]=forest_dark_winter.jpg
+Name10[$e]=photo.jpg
+Name2[$e]=bg7.jpg
+Name3[$e]=ancient-one.jpg
+Name4[$e]=student-epass(1).jpg
+Name5[$e]=student-epass(2).jpg
+Name6[$e]=passport(1).jpg
+Name7[$e]=endorsementPage(1).jpg
+Name8[$e]=letter(1).jpg
+Name9[$e]=photo.JPG
 
 [SideBar]
 InformationSplitterSizes=222,235

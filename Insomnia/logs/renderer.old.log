@@ -1,377 +1,711 @@
-[2025-03-31 19:20:29.275] [info]  [db] Initialized DB client
-[2025-03-31 19:20:29.326] [info]  Redirecting to last visited project proj_8fdc830c9d004c98a7dcb47804883a48
-[2025-03-31 19:20:29.616] [info]  [FileSystemDriver] Initialized in "/home/alberto/.config/Insomnia/version-control"
-[2025-03-31 19:20:29.621] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:29.622] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:29.623] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e5b7cb18-61bd-43ae-bf6c-a15ff7d06111.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:29.673] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:29.673] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:29.674] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7868dbb7-5c79-4b6f-9703-78bb299abd01.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:31.903] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:31.904] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:31.905] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6a716571-1ebb-45ac-bec5-58d08b5e2ccc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:35.414] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:35.414] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:35.415] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0f708b6a-910a-4249-85b9-1c24f7e8f5a1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:36.609] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:36.609] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:36.609] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2aff84b9-dffa-4466-8f86-1a70589a56d9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:44.154] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:44.155] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:44.155] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.15bc3068-c55b-48f2-98b4-b7edb7ec26af.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:45.181] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:45.181] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:45.182] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7653d3d7-1331-4180-9a08-35fb6775c069.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:49.158] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:49.159] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:49.163] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2d07784c-c8b5-4c80-b1d9-8c6a0c269ad3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:49.927] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:49.928] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:49.928] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c0e8af58-adf6-4f17-927e-4fc712334b52.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:53.363] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:53.363] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:53.364] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.543258ef-7245-4874-8bf7-58a8e755d432.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:53.579] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:53.579] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:53.580] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0af19f97-b300-4523-9520-4ede540fafc4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:55.625] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:55.626] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:55.626] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6e24e1b4-37f0-41d1-8f8e-07a39e88a373.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:55.841] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:55.841] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:55.842] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f31c62de-6773-4c4c-bf7f-9f251a87c1a0.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.068] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:56.069] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.069] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.fdbca0ea-032d-4859-87c3-02ea0c1b3c82.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.235] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:56.235] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.235] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3fc397ca-58a8-4f1f-8113-4b3556339233.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.400] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:56.400] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.401] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a0e5f08f-828f-4f36-a454-6ec9ccaa5af3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.583] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:56.584] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.584] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8bea61b0-5d79-4ee2-ae71-e93b15ee7130.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.754] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:56.754] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:56.755] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.777c3564-9a66-4baf-b20a-7af4444fa0f9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.021] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:57.021] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.022] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.feb00b86-195c-40f6-aa06-8ba1c3ee270f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.031] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:57.031] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.032] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.84b2052a-a56c-43a6-b38d-05743003042d.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.223] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:57.223] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.224] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.506fcecd-22a2-474a-8a55-6c0ff4a73e6c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.378] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:57.378] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.378] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3f42bf27-3ff4-4e6c-b906-6f2cac091ecd.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.669] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:57.669] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:57.670] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.455c18c3-bd3e-4d5a-b84d-91faa038cf15.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:58.142] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:58.142] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:58.143] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.87249271-5d69-4ad9-a666-da428feef9ad.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:58.439] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:58.439] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:58.440] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6a5a716f-0223-4758-8f9f-c0c44f9c8db9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:58.706] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:58.706] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:58.707] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2c396f81-d882-4a7a-98d7-049919a9384b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:58.985] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:58.985] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:58.986] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0f92c1b3-9eb7-4169-a267-5aebf04fac2e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:59.149] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:59.150] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:59.150] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.02ca7328-6889-40c6-bfc5-93d337dad2b6.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:59.301] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:59.301] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:59.302] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6d62e692-1949-4a6f-958b-66c0e8247f05.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:59.543] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:59.543] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:59.544] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1418a77e-cb6a-4373-9919-35610675edf2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:59.689] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:20:59.689] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:20:59.690] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5f00a90b-692d-4f50-91af-fbe362a79a88.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:00.218] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:21:00.218] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:00.218] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e51bce96-8046-4952-8206-63e7ac079a94.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:00.507] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:21:00.507] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:00.508] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8e17fdcd-5e01-44cc-af7d-2968f0e944a8.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:00.853] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:21:00.853] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:00.854] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2dfb6349-d1f3-4b8f-9817-07941164299f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:01.313] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:21:01.314] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:01.314] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.aa5dcdbb-1db0-4456-bdff-0d045545c232.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:01.853] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:21:01.853] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:01.854] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.76107e05-9152-4cab-b5ef-baa93f0b30da.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:02.015] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:21:02.016] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:02.016] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.84e99f48-2bc1-4c82-8c54-b7fe52acd13a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:02.248] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:21:02.248] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:02.249] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4fd2be05-867f-4eff-970e-6a7b84f6d6d3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:02.523] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:21:02.524] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:21:02.525] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.19826163-ef0e-4c31-b253-45f2dfa9d4bd.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:26:52.976] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:26:52.976] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:26:52.977] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7aa9254a-1a47-4dab-ac0f-999bcacb801e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:26:54.759] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:26:54.875] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:26:54.875] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:26:54.876] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.bd4ebb04-e610-4f0e-b7a2-1cd1603092bc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:08.823] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:27:08.823] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:08.824] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b8ca81f9-41cf-4e30-9cb1-5c67ca5cfba1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:46.730] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:27:46.730] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:46.731] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.37fbf8ca-4a94-4f94-b6c2-56cbd284cfc8.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:49.893] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:27:49.893] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:49.894] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7559a3a5-a4ea-48ea-abd7-35b953a3612f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:50.288] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:27:50.289] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:50.289] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.d3dfaf8d-08f5-4491-a2d8-14b48b1a0fd0.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:51.472] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:27:51.472] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:27:51.473] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e68f7f76-83b3-4367-8a20-a29b92ac3c11.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:00.288] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:00.289] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:00.289] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.505f5f67-5025-46ad-9c26-b9846d5b8e35.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:01.814] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:28:01.970] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:01.970] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:01.971] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.28044aff-92a0-4674-ad62-fd3b557281a2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:03.602] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:28:03.714] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:03.714] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:03.715] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0fff4318-da29-440d-aeb9-c84d5328936f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:04.677] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:28:04.811] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:04.811] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:04.812] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.728339fd-fa6b-46dc-82c4-ad7f7d63d991.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:05.375] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:28:05.511] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:05.512] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:05.512] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.81fc9779-22c8-4af4-be87-d1fb4e272fae.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:05.973] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:28:06.069] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:06.069] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:06.070] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2376fe94-de13-4932-bc5c-0daafa618976.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:06.753] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:28:06.893] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:06.893] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:06.896] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6d19e498-27c1-449b-a9ba-537d10c8627f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:17.878] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:17.879] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:17.879] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.11a0e352-02b7-441a-9204-fd82df9c2802.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:21.461] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:21.462] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:21.462] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.bcfb087f-39d3-430d-a5f9-f22e341008da.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:33.728] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:28:33.729] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:28:33.729] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7cfe237d-83d4-40d9-be00-b6dc3a38537e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:29:33.471] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:29:33.471] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:29:33.472] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4aa9b749-673d-4a74-9db1-b80ae05f7055.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:30:28.852] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:30:28.853] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:30:28.853] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0e01fd00-59c7-4b5f-8cf4-c82e6494ae6b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:36:06.086] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:36:06.087] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:36:06.090] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7bbac06a-5282-48a5-93c5-8b2dd4435f3c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:40:02.879] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:40:02.879] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:40:02.880] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.9fcf985d-c5d7-4bbd-b33d-dfd1ef1d62eb.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:40:06.159] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:40:06.282] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:40:06.282] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:40:06.283] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b915c4cb-7e91-49ce-a0f2-2e974823fa5f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:46:31.134] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:46:31.134] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:46:31.135] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b707da3e-5005-400c-a2a9-5f42ff2ae1ca.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:46:33.198] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:46:33.379] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:46:33.379] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:46:33.380] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.03bdc75a-58b2-4bd7-9bc4-52279ab70ff5.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:46:39.230] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:46:39.230] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:46:39.232] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3b910f94-29ac-4c55-a75c-3f5241854ef7.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:47:15.560] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:47:15.561] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:47:15.562] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f0ccf07c-0b0e-4c1f-8f9b-7262aa025e3a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:48:03.598] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:48:03.599] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:48:03.599] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2a56f252-845c-49a2-beaf-6056e105eabc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:48:06.274] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:48:06.426] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:48:06.426] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:48:06.427] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5a8edac3-e6c3-4d05-b354-a7bb44314a1e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:48:23.217] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:48:23.218] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:48:23.219] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.bbac0035-f87a-47ac-a6dd-ad48598b6eb9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:26.600] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:58:26.601] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:26.603] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.730344ac-87a4-4b90-899e-8ef4aff4bc09.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:28.569] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:58:28.674] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:58:28.674] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:28.675] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3d30af83-15d3-4daf-8b48-510a1d40a7d3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:30.213] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:58:30.327] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:58:30.328] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:30.328] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7f27368a-bc17-469e-a8fd-e47369eeb26c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:31.109] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:58:31.202] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:58:31.203] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:31.203] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.45e87661-e1f6-414c-a631-7f52311148fc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:32.098] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:58:32.208] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:58:32.208] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:32.209] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3990a092-5ed8-4854-a053-a31e7c90e500.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:33.060] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:58:33.168] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:58:33.168] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:33.168] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.84503506-7dd3-442f-9141-69e7b83f603f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:34.056] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=404
-[2025-03-31 19:58:34.199] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:58:34.200] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:34.200] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8ee7278c-227e-4b80-a01e-ea46795e8e97.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:47.188] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:58:47.189] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:58:47.189] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.98beea54-bb60-4a08-978a-265caee573e5.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:01.524] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:01.525] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:01.525] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.14a5c081-edcc-41d0-a663-f690186f5b44.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.144] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:02.144] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.145] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.d757c90f-b372-424d-8955-bfaa5bb174a9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.298] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:02.298] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.298] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5a6444cf-786f-4f67-a3fe-022f551b92dc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.470] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:02.471] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.471] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8fec84ff-81ba-4473-89ec-93ea48b21faf.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.770] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:02.770] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.771] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f7c316ac-8dbb-49d2-b039-df7f765d6a5d.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.776] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:02.776] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.777] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.367cd30b-47b7-451d-98b3-d78434f66a38.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.936] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:02.936] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:02.937] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.81ffc4e6-6022-455b-8c4f-fd31464e498c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:03.078] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:03.078] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:03.079] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f116472b-3c8a-4667-9955-b3b1e5eaee38.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:03.425] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:03.425] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:03.426] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0314e2fb-257e-4630-a6dd-8aa6095f5700.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:03.695] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:03.695] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:03.696] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.df9b8601-c50f-42ba-b205-6c8fbc564467.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:04.435] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:04.435] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:04.436] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.84b06c47-228f-4c1f-8f40-5de62c41b9a4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:09.383] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
-[2025-03-31 19:59:09.488] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:09.488] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:09.489] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f8dbb619-6f86-46d8-ae59-64b82f1c1fd9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:13.466] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=500
-[2025-03-31 19:59:13.580] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:13.580] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:13.581] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.06d49bea-a81b-4207-a8ce-35accbe09f42.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:17.625] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=500
-[2025-03-31 19:59:17.751] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:17.751] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:17.752] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.77442091-113a-413e-83e0-1ffa65304687.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:20.772] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:20.772] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:20.773] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.351bb79a-3126-416f-8866-4e83d2ae3aba.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:20.953] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:20.954] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:20.954] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5733f72f-c865-492a-91d2-27c3f62f08b1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:22.025] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:22.026] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:22.026] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.14035e45-5de8-474d-8e01-6479c4c2d549.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:22.204] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:22.204] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:22.205] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.06514c40-03a0-411b-b005-24c25ed8792d.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:24.651] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=500
-[2025-03-31 19:59:24.766] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:24.766] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:24.767] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8b093946-506c-4353-a7b7-98b3af649b8a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:45.942] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:45.942] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:45.943] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6e697966-0577-44e2-9cfe-8eb6da328a28.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:48.302] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:48.302] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:48.303] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.352fd6ff-eb7a-4cfd-8411-5bf26f2c574b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:51.448] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
-[2025-03-31 19:59:51.555] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:51.556] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:51.556] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.43d96444-73a4-43be-baed-8d91799443bc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:58.157] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:58.157] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:58.158] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2eb488b2-acf4-425f-9153-253a209a9d8e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:59.205] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 19:59:59.205] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 19:59:59.206] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.da56aa3e-bb28-4f65-8242-f9cd7b118aca.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:01.073] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:01.074] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:01.074] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.94d0529a-c9ef-4e0b-b5a5-4a118051f719.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:01.453] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:01.453] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:01.453] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ad8118cd-df57-4c77-9b83-8b016ba3d78e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:02.201] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:02.201] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:02.202] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.598e3053-610c-4ce6-920c-dc67dc5f6246.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:03.106] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:03.106] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:03.107] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c92df3c0-97fc-49d9-a87c-12ee73179249.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:05.861] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
-[2025-03-31 20:00:05.958] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:05.958] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:05.959] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.676e37a3-4091-4b6c-a521-8d2fc1c6c6a1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:09.397] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:09.397] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:09.397] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.87558462-1b63-486d-b2f4-e341901391b4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:09.538] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:09.538] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:09.539] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c53fcf86-c3a5-4c96-a7bb-88f041211896.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:10.058] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:10.058] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:10.059] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6902ce4d-9ae5-4603-b9f5-f4f57d2da478.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:10.581] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:10.581] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:10.582] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e64ed2e3-b5e2-4181-ada3-552ee9e7d1d9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:12.519] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:12.519] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:12.520] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.232ebb28-646c-49a3-a67e-25db1c00d186.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:13.530] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:13.530] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:13.530] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6820fc73-85d0-4028-8726-b5a12e397dc6.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:15.691] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:15.691] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:15.692] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.acaa476d-6141-4ebe-9816-b9abfdb5bf48.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:15.825] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:15.825] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:15.826] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.941b9f55-8ff4-411a-a44c-f76151578098.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:18.536] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
-[2025-03-31 20:00:18.650] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 20:00:18.650] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 20:00:18.650] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.aab48da5-465f-43a6-b3b8-079dc761d858.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 22:15:50.459] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 22:15:50.460] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 22:15:50.462] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3b6e9732-d16e-4ba3-9459-482469de542f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 23:05:43.893] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 23:05:43.894] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 23:05:43.896] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0cd075e8-7a57-4963-91f0-c0aad56fe658.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 23:05:51.348] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
-[2025-03-31 23:05:51.348] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
-[2025-03-31 23:05:51.349] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.06e5ba34-bc18-4857-8225-75a023fe9020.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:20.294] [info]  [db] Initialized DB client
+[2025-04-05 01:51:20.336] [info]  Redirecting to last visited project proj_8fdc830c9d004c98a7dcb47804883a48
+[2025-04-05 01:51:20.543] [info]  [FileSystemDriver] Initialized in "/home/alberto/.config/Insomnia/version-control"
+[2025-04-05 01:51:20.547] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:20.548] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:20.549] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b4b68589-e5cf-4260-88a6-fe5d4b896839.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:20.601] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:20.602] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:20.602] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.d43c5531-e940-47ea-ab13-611472e85d27.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:22.837] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:22.838] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:22.838] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a1254905-537a-48ae-8142-5e0ca8fd9c35.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:23.053] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:23.053] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:23.054] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6ed9d687-697f-45d1-908e-8d749e3c9dc5.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:23.508] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:23.508] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:23.508] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2127f798-dabd-4974-9c2e-92fc2ac72a70.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:24.111] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:24.112] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:24.112] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.102e706d-abcd-425e-beb1-095f49df23ad.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:24.294] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:24.294] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:24.294] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.17eefd70-3076-410c-9577-fb382238a540.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:25.706] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:25.706] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:25.707] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e29d1de1-bebe-427b-ac3e-94bd41333aaf.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:25.709] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:25.710] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:25.710] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3843db4c-b279-4de0-b396-61ed69ba1a40.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:25.897] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:25.897] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:25.898] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.75a79b0a-decc-4a95-8f6d-e1be28644a64.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:26.083] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:51:26.083] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:51:26.084] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b57eae51-483b-4c23-a927-62096824d88b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:52:44.661] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:52:44.661] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:52:44.662] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2cda47be-a819-40ca-843d-4baca4ce81e7.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:11.946] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:11.946] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:11.948] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.358c1932-cfd8-40cd-a1c1-b743937a1593.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:35.405] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:35.405] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:35.407] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.fc20aafe-3e93-4ad7-bfc2-9cb4d0508965.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:36.434] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:36.435] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:36.436] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.fd7535fa-8da6-4b22-b4fb-487e96058f10.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:36.442] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:36.443] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:36.444] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.380bea9e-7a07-4bba-800e-21f09a9ea582.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:37.778] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:37.779] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:37.780] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.05416ef4-a95f-4774-a090-4060e23aea93.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:38.047] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:38.048] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:38.049] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.74c8a6db-97c6-4cd4-888c-32a57adc3cbc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:40.782] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:40.782] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:40.782] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.37bb849c-351a-46e3-8eb5-599a482bb4a8.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:41.248] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:41.248] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:41.249] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7973030c-356c-4a96-b7a6-e70a7a201752.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:41.628] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:41.628] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:41.629] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c872e79c-cc5c-47d2-bb68-2447878289b2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:43.295] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:43.295] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:43.296] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.60c8d176-caed-4833-8f64-fd7f9bc6768d.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:44.777] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:44.777] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:44.777] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.22562548-ff60-4c37-aa42-2abe19c6ea59.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:46.469] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:46.470] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:46.470] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4dc6be16-1fb4-4795-86fb-e561f34790c3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:46.956] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:46.956] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:46.957] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.be2552f9-a26c-4d10-aebe-1ca600677b9e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:50.378] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:50.378] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:50.379] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2597ed2a-042a-4973-9e2e-15b69fde88fc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:50.730] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:50.730] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:50.731] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4d469c08-710c-4b66-9a59-d97887404e62.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:51.569] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:51.570] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:51.570] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0c528c77-4fa9-4513-aebb-546c6d9be005.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:52.049] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:53:52.049] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:53:52.050] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.09068b40-2825-41e8-a727-1e2e7413d081.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:54:01.125] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:54:01.125] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:54:01.126] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.bb3ad956-604e-47be-b9aa-03cd15ea8599.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:54:42.575] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:54:42.576] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:54:42.576] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a5afd639-4d15-43fb-816d-b758bf5f7eb5.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:54:56.266] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:54:56.266] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:54:56.266] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.456e0ea2-5b85-4e67-90bb-c6cfdaafe2c1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:55:01.725] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 01:55:01.859] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:55:01.859] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:55:01.860] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.94e52013-da13-4923-9b91-4943b7d1b35b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:55:11.588] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:55:11.589] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:55:11.590] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.cb6b6a6a-f935-4b7d-a916-2f000b13b898.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:55:28.854] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:55:28.854] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:55:28.854] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c6b7d347-7de8-442e-9821-c66f80fe3e7c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:41.778] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:57:41.779] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:41.780] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c6f32828-e0f1-4c2d-b5c2-79c60b23dc91.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:45.414] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=500
+[2025-04-05 01:57:45.549] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:57:45.550] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:45.551] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.65c517ba-8108-469c-bc18-e3e77f1b5001.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:53.812] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:57:53.812] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:53.813] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.725ebdd4-1568-4b18-9e86-8cbeafb586aa.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:54.196] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:57:54.196] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:54.197] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1a8317d8-0d53-4c45-9095-872807c51a4c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:56.466] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:57:56.466] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:56.466] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6995bb92-fc0e-45db-9265-ce4675189bf4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:57.101] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:57:57.101] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:57.102] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ced65020-6914-42b3-b993-d4c7438bc1d1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:57:59.926] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=500
+[2025-04-05 01:58:00.049] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:58:00.049] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:58:00.050] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.41c52004-fe29-4644-ba42-d9fb6bb872cc.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:41.780] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:59:41.780] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:41.781] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.486802d6-4365-4b79-89b9-0191669b2511.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:51.624] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:59:51.624] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:51.625] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.61a6da18-f234-43cb-b727-1654abb7374a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:54.190] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:59:54.190] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:54.191] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.63bb577b-10a7-40f4-92c1-afadde38f26b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:54.768] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:59:54.768] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:54.769] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c2c54b56-042e-4268-8d44-87642bf93146.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:58.127] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:59:58.127] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:58.128] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0a4e0ae4-c921-4055-add5-0ecf04fd71b9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:58.792] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 01:59:58.793] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 01:59:58.793] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.d84f9204-5e02-42b1-b224-03a7c9af2aa5.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:03.632] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=500
+[2025-04-05 02:00:03.761] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:03.762] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:03.762] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.50ed00ca-2de9-431d-9cfc-83eb4235335f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:09.611] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:09.611] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:09.612] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5ba8e67b-b524-41bb-b2cb-cdddfaa8ab15.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:15.284] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:15.284] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:15.284] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.82990b2c-0e51-4ffc-8be4-ba3a6f9a9cc9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:15.548] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:15.548] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:15.551] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a25dbbb7-a245-4d9b-80b2-5f171d8c1bd1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:15.570] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:15.570] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:15.571] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ad134eb4-7afa-4848-95f5-1ec30d2b2758.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:15.746] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:15.746] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:15.747] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.23673aff-966a-42a8-96ce-10121c3b8031.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.133] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:16.134] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.134] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.71003094-c63b-48bc-9281-a1350ef72c7c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.143] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:16.143] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.144] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.44f095ee-25ca-466f-82b2-214df826b8f2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.294] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:16.295] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.295] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6130a701-8eb3-48b6-b658-b2bd8ac9bfdf.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.403] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:16.403] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.404] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a2455724-4972-4dff-96a3-0f7444260fd4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.597] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:16.598] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.598] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a581a8cb-80d4-41bf-a990-a70b40d7b46d.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.768] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:16.768] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:16.768] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.23352a60-5029-4a01-a9ef-f47d2264a2c2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:17.129] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:17.129] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:17.130] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.69a1b4ee-01ff-45c2-98c2-96f925c3dd63.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:17.516] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:17.517] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:17.518] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5b9eb1e1-3d90-4f54-8f99-6f45bd23810b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:17.973] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:17.974] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:17.974] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b1ca90a0-2c50-434f-a4a7-5ebaee24de50.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:18.150] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:18.150] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:18.150] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ac7d9298-0e62-4815-bd65-5a5af8f0a2fd.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:18.343] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:18.343] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:18.344] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2d723665-e244-406e-937b-870ef1566ed2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:18.700] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:18.701] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:18.701] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.357ab1ab-afeb-4f80-9847-9f7f5bc16f7e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:18.957] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:18.957] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:18.958] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6473ecce-abf1-4d25-bdef-e365fc6525ab.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:21.312] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:21.313] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:21.314] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.88a940bd-c6f4-499f-b0ed-32bf4b9f7f10.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:21.481] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:21.481] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:21.482] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.938f4a08-f2bb-4f8d-b523-5c98a1ff9ee2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:21.701] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:21.701] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:21.701] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.eff28a34-d818-453f-85e6-b5e251cd2884.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:22.456] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:22.456] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:22.456] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5b61d9ae-da92-4983-9bc8-aa6bb0b4a0a4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:22.615] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:22.615] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:22.616] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7501832d-d362-4764-b950-7a34b5ca7492.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:22.856] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:22.856] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:22.856] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.aa3c98eb-4a8f-4deb-9350-4c91a8da360a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:22.868] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:22.868] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:22.868] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ede966d2-9479-46fc-a701-835f428668a1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:24.545] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:24.545] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:24.545] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.407348a1-402e-4013-92a2-e089e3fdc1e1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.329] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:25.329] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.330] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.05012ea3-ecb5-4306-b0ab-3144620b33a2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.471] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:25.471] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.472] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b46a52c2-fe9b-400e-ae78-9d9841615102.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.610] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:25.610] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.610] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.87beacae-d60a-45e2-9595-32eabb49e1dd.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.844] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:25.844] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.845] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.dc9934a4-6b60-42a8-a0e0-36f2c0054cbf.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.849] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:25.849] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:25.850] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c5d96aa3-f8bd-4603-90f7-4070289f03df.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:26.056] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:26.057] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:26.057] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f273f2f8-a11a-4e65-a105-3a689e5ce618.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:33.379] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:33.379] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:33.379] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.244697ce-bb30-41fc-b036-41742faf1c01.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:35.774] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=500
+[2025-04-05 02:00:35.891] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:35.892] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:35.893] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.bfd38eeb-cfda-4c12-a0ca-e63c0f9d3780.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:52.823] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:52.823] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:52.824] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.9f4f7d4e-d09e-4e44-8003-d4911854c160.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:57.323] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:57.323] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:57.324] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b21bc9ac-5e4b-48e8-b82b-c8ae2a44902f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:58.269] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:58.269] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:58.269] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.06b042a4-da84-431b-8ef4-3b89be972063.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:58.448] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:58.448] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:58.449] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1b616e88-77d9-48cc-ae67-894044e14345.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:58.675] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:58.675] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:58.708] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a36c4b34-3894-47e8-ae10-862b27d59263.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:58.780] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:58.780] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:58.781] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3e379397-2675-4414-9fab-cd640f0330ff.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:59.270] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:00:59.271] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:00:59.271] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.974bd42b-3ef6-4e84-8c1e-87fc938c0831.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:01:00.910] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:01:00.910] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:01:00.911] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.dd3f0ee7-ed64-41fe-9df3-0327bb3f2d8f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:01:07.785] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:01:07.786] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:01:07.786] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6c80d2df-0dc1-4cde-9859-5b73e2e0f539.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:02:08.698] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:02:08.699] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:02:08.699] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.10bbaaa1-af95-4eaa-858d-6a6f5806ab13.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:02:11.333] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:02:11.442] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:02:11.443] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:02:11.443] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.dec6ee7f-9f1d-4bfb-8ecf-79082a033ce4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:20.307] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:20.307] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:20.309] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4b637b5e-6277-4d15-98af-a57533329a8d.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:22.770] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:22.771] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:22.771] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.04de5644-ed71-4cbf-b38b-749b50813956.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:22.986] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:22.986] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:22.989] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2f24e061-b526-49ff-906f-61d11f3de582.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:25.412] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:25.412] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:25.414] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.86687e4b-3ccc-462b-9d9d-e08f22dfdaff.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:25.677] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:25.677] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:25.681] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2affb49e-cf82-4638-b74e-12fa900561bf.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:25.836] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:25.836] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:25.837] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b811af04-f3f2-41c7-b9a3-c40e911fd9c9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:26.570] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:26.570] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:26.571] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.101b73c2-0b3f-4b00-81c1-bcf3967382f1.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:27.448] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:27.448] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:27.450] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.d9a02ff0-eb26-481f-b02c-d12c9fe9da7a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:27.892] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:27.892] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:27.893] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.29966206-42b8-4f9f-974a-c8b1f94b8079.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:32.281] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:32.281] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:32.281] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.98554e50-0565-4f4d-b5e6-db259f19cec5.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:35.021] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:04:35.143] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:35.143] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:35.144] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e136db75-e2a2-43cd-a866-601f2f07b80e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:41.400] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:41.400] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:41.401] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6331933f-cab5-436b-9d80-3f2595805d18.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:41.662] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:41.662] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:41.662] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.567deefc-e143-47d8-8605-8f7bb7c141ca.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:44.460] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:44.460] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:44.462] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a50df912-8a97-42f4-8ea9-ba3f175392a6.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:45.309] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:45.309] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:45.310] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f2636e6a-3ed3-4009-b2d9-9c90cc4573c2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:48.067] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:04:48.174] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:48.175] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:48.175] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ff494415-9bec-4c3a-a689-cbc1d1fa01fa.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:51.398] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:51.398] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:51.399] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6c0d4121-53be-4795-ad73-c05867c50e71.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:51.855] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:51.855] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:51.856] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.9e0430ae-618a-4476-bb9f-37d9a8ddafe4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:53.874] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:53.874] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:53.874] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0c5094b0-0d65-4dfa-943e-a0440c45fb2d.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:54.406] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:54.406] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:54.407] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b0561191-4cde-4ba9-828a-636456dcb526.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:54.786] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:54.786] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:54.787] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.78dbf78b-18b3-46fb-8ab7-b7fbb5a35034.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:55.483] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:55.483] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:55.483] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.74964ec7-01a0-49ce-a1f7-77db99826aa0.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:58.409] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:04:58.524] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:04:58.524] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:04:58.525] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e8c35fdb-723d-46cf-af1b-7be8a5663c68.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:01.246] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:01.246] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:01.247] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0f4561a1-52da-4436-a340-01d7e3391958.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:02.905] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:02.905] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:02.906] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a4991600-cb82-452d-b92c-0a2df1ef7b27.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:03.198] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:03.198] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:03.199] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.39608f08-0f1f-4820-8ff1-84d167224467.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:03.671] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:03.672] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:03.672] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a013289a-7193-4c09-83a3-f87733ca9005.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:06.455] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:06.455] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:06.456] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6b4d4081-5ecb-483f-a511-81568f64dc62.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:06.619] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:06.619] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:06.620] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.19cb13ad-60ad-4057-b9b5-26d71f020738.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:07.389] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:07.389] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:07.390] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.56d812e4-4ea0-4edb-b049-5f2cc5e1994b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:09.494] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:09.494] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:09.495] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.cda75b23-d364-45b6-a677-a3abb9c5e094.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:12.642] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:12.643] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:12.643] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4fed761a-ae7d-4876-8efa-fac4cce89518.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:12.983] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:12.983] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:12.984] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.31ee7856-4cc9-49aa-a661-02e14272f70c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:17.356] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:05:17.466] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:17.466] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:17.466] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4f8a18cc-8d6b-4f00-adf2-64b20801cbe4.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:21.731] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:21.732] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:21.732] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7505f84a-1055-45ee-a2d9-844b72835062.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:21.979] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:21.979] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:21.979] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b3ca1df2-16c6-4d84-b7c9-fad99b0fe0b7.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:25.491] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:25.491] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:25.492] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.51ee5592-b13e-41cc-a037-fa6a780334c8.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:26.029] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:26.029] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:26.030] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.a6f2c3a0-34cf-4679-8ad2-db3e9e8d2f8b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:28.926] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:05:29.023] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:29.024] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:29.024] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b284316c-ecfe-4add-a529-1d14825098f6.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:32.062] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:32.062] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:32.063] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.24cb7638-b51c-4159-83af-eabcc221ee4f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:32.332] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:32.332] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:32.333] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.fb056f75-870e-4e79-9243-70337a056e85.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:32.335] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:32.335] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:32.368] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.42199b83-3064-4b8e-ab99-59ad1c752c25.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:35.342] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:35.343] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:35.345] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f5aee967-d070-4ab6-b7ce-962e4d247447.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:36.664] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:36.664] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:36.665] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b3eb222d-bd27-43f6-bb21-0a349a9f6846.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:37.266] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:37.267] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:37.267] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c318812f-f911-492a-ace7-0e89a548e282.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:37.978] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:37.978] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:37.979] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.367c4a79-74fe-4eba-9b12-2c87f9b31f8c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:38.607] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:38.607] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:38.607] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.22e60740-faba-44da-8237-ecc5230d5ec2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:39.293] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:39.294] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:39.294] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.224c3c5f-4812-459d-b238-fab8fb2ebaec.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:43.564] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:05:43.654] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:43.654] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:43.655] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1f0c5e33-d5cf-434f-ae71-8fe3f3070d72.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:47.309] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:47.309] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:47.309] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e45e100c-ae45-4946-a4c7-e8d96f90c809.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:48.851] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:48.851] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:48.851] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2f5e78e6-b6ec-4211-b5a1-521d1b2e2d91.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:51.045] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:51.045] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:51.046] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4f592af1-c8f9-4790-845c-ac544ec8fce3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:51.248] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:51.248] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:51.249] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.90048ed4-79f4-4d3e-ac7c-d1647a73a780.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:52.119] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:52.119] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:52.120] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8029f3c0-69ea-46e7-96b2-dfad28db752b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:52.465] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:52.466] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:52.466] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e012762a-bbc2-4492-b3a7-634b7515f95a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:58.923] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:05:59.025] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:05:59.025] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:05:59.025] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1a2a65ba-5df1-4110-9d74-86f3b5221a6e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:02.758] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:02.758] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:02.758] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.10fb57f6-98aa-49a2-99ef-5ba824bc57e3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:05.610] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:05.611] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:05.612] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2e09d2eb-a553-472b-928a-9b21f86c544b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:05.737] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:05.737] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:05.738] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.52ce54e5-46bc-4ed1-ac95-6247c271034b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:08.653] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:06:08.782] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:08.782] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:08.782] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.fcc8e88c-83f4-4cbd-826b-62895a66cffb.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:11.719] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:11.719] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:11.720] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e6d67345-6ef2-40a6-99e8-bb718f7dd78f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:12.023] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:12.023] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:12.024] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3593597b-f626-4a22-aac4-502d8d08ef8a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:14.301] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:14.301] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:14.302] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.cf92162c-3221-47b7-820b-c122a5623ada.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:14.731] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:14.731] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:14.731] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8d6d1be4-6f1b-42a8-82e8-d74ea1747b2b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:17.462] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:06:17.570] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:17.570] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:17.570] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3e30ff7a-08d3-42b4-af11-ac897c3d37a3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:19.190] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:19.190] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:19.191] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.258d9148-b1de-410f-90d1-8b03225a7938.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:19.355] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:19.356] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:19.356] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2b306a65-5018-4c5c-894a-cc4972541eb5.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:22.142] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:22.142] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:22.142] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.dc53d284-88a9-493b-94f0-e2fc8fa7eea2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:22.823] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:22.823] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:22.824] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c09e3033-aa6b-495f-9252-60f66a8163ed.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:25.859] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:06:25.961] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:25.961] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:25.962] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.cef1c9a5-3210-4dfc-a604-6f055259cc87.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:30.344] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:30.344] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:30.344] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5f54e206-9437-485a-926c-a5260ef9c0e8.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:30.982] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:30.982] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:30.982] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ec444141-f91e-4cee-93b1-8a9cd92ce272.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:32.391] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:32.391] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:32.392] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.91f9e25b-2b1a-4aaa-a30f-2efa33860c16.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:32.868] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:32.869] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:32.869] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.92624b2e-567a-4bdb-b71a-afd2b1586240.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:33.395] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:33.395] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:33.396] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f1b7fbc5-ad8d-445d-be22-fd860a5e20eb.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:36.711] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:06:36.827] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:36.827] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:36.828] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.434cc55d-cc9e-45cd-9e96-b71ea5ecf718.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:43.749] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:43.749] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:43.749] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8a50a7cb-926e-4bbe-81b1-c00250fcced7.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:44.199] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:44.199] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:44.199] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c63092b9-74c9-4d59-adf3-accce56b4b09.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:45.289] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:45.290] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:45.290] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.dd52a996-d216-4165-a0f5-af3055508314.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:45.705] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:45.706] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:45.706] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.e9261cd3-1751-40ff-807d-00d2e7cf6109.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:49.384] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:49.384] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:49.384] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0ca4ab96-a855-4b38-b16e-d2a704376258.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:49.930] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:49.930] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:49.931] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.686c947d-c553-407e-ace9-22cdcee76cc3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:50.803] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:50.803] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:50.804] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.144c8084-3b33-4ad1-8d15-ac2ec595ab00.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:51.391] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:51.391] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:51.391] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7f486169-65f3-4d57-b984-9959611cf71e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:55.141] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:06:55.221] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:06:55.221] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:06:55.222] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f54b1286-7f3f-42c8-b0ad-3bc44b695ff7.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:04.029] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:04.029] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:04.029] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.9c668917-b9d4-4415-be82-5e18f411e7ea.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:05.368] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:05.368] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:05.369] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.60bb5829-6614-4a89-be9a-15395209c091.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:05.703] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:05.703] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:05.704] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8c4a6de7-9fe9-4470-9b6a-0ca99ea8d5c7.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:06.465] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:06.465] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:06.466] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4caa9169-30f9-4062-ad8a-ee72256ca6d2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:06.632] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:06.632] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:06.633] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.c262f56c-6324-4b17-8f4c-02c6a0ef2629.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:09.611] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:09.611] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:09.612] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0ce41a0e-5571-435c-ba41-4ad4a272304c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:09.752] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:09.752] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:09.752] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.7a91371e-1bd0-4d13-89a9-4160e5d8506a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:10.467] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:10.467] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:10.468] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.cffe3eb8-daf3-4e85-b781-833346a96265.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:13.045] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:13.045] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:13.046] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0dca83fc-2f2d-43d7-bc1a-8bb7e72b47f8.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:13.673] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:13.673] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:13.673] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.41404807-0994-4a45-881d-672b9b362d83.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:14.818] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:14.818] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:14.819] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1f085acc-7f64-49f7-88ff-9c9f85a820e7.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:15.009] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:15.009] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:15.009] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1736ac32-25bb-475a-8a37-6cd17b2cd8df.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:15.142] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:15.142] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:15.143] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.24c7c196-8e5e-4905-90a9-4522a85d327b.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:15.258] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:15.258] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:15.259] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6a4dfa0a-0a14-4fda-ad8f-4f68ba5c9b13.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:18.805] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:07:18.902] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:07:18.902] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:07:18.902] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.26470034-5aad-4b92-82a0-0d43057b5242.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:09:21.547] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:09:21.548] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:09:21.548] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8fc8456f-3f44-4dec-b5f2-bdd3b5e8d04f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:09:39.393] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:09:39.393] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:09:39.394] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.cab04340-8322-4d69-bb4a-8145ffcc23ba.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:09:41.206] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:09:41.207] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:09:41.207] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.167f04e7-0056-434a-a785-acda94fa548c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:09:44.961] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:09:45.074] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:09:45.075] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:09:45.075] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ab1f628b-f54b-444d-b879-57c89c4a68cf.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:10:01.588] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:10:01.589] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:10:01.589] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b43d700b-f310-456f-9b37-8f397c037a9f.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:12:34.761] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:12:34.761] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:12:34.762] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1f06325b-7efd-47df-9c66-33be55b72eed.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:14:31.404] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:14:31.404] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:14:31.405] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ef8e3fe5-7797-42e2-bcd7-c70873e30dc2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:14:36.608] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:14:36.608] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:14:36.609] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.76a8e0cc-1697-493a-8702-36705cbf5c09.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:14:49.381] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:14:49.381] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:14:49.383] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.4d41e2b9-5798-458f-bb55-c92104c10f4a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:00.417] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:00.417] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:00.418] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.472a8f79-9793-436f-91e3-1f06c1204c1c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:00.807] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:00.807] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:00.807] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8a00bdd3-6bc7-439a-b5ef-8ae0c3f731ac.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:01.211] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:01.211] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:01.211] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ee277147-b2da-485a-8a89-13172a83f10e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:01.791] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:01.791] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:01.792] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.3a893643-e0f1-44ac-b6e3-4b33b9a06b76.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:02.661] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:02.661] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:02.661] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.6fc2fab7-1156-4760-829e-e8e8a580e77a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:03.049] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:03.049] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:03.050] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.2aaec2a5-c8eb-4edb-aa21-315489663fec.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:03.719] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:03.719] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:03.720] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.01794a7f-6049-492d-92bb-b87d98ace285.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:05.698] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:05.698] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:05.699] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.604672df-6261-41c1-9292-a97a7cc42e37.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:11.000] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:11.000] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:11.001] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.20bd9c10-3f12-46d7-bf18-8991b4ec12b2.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:14.395] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:15:14.523] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:15:14.523] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:15:14.524] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.0187d542-b48b-4bda-9b27-f58cd46142e7.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:02.026] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:02.026] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:02.027] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.fe2f3723-3628-41d8-9e8c-44cc17849306.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:05.286] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:17:05.432] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:05.433] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:05.433] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.31a90ee7-7338-49ae-aae4-43ef84eb8c10.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:12.993] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:12.993] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:12.994] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.5f9591b9-75ca-4179-93c2-02087f3ce16e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:14.894] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:14.895] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:14.895] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.53a73298-ab42-46e8-b8f1-749886f11453.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:15.581] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:15.581] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:15.582] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.1f0acf83-80f3-448d-8722-078757f9455e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:16.505] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:16.506] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:16.507] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.05673b34-b1d0-47fd-89ff-35c57820ef6a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:16.630] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:16.630] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:16.631] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.d6f008aa-d076-4d99-9ea2-ce34e1052cc3.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:19.373] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:17:19.532] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:19.532] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:19.533] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.ef55776d-c463-434b-8e9a-e94e5d153395.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:23.954] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:23.955] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:23.955] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.70eca408-7168-4aaa-9dd3-93c53e0acfa8.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:24.316] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:24.316] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:24.316] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.b61dee38-571d-4bb6-927e-143b495e459e.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:26.290] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:26.290] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:26.290] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.d33d6f06-3810-45f2-a263-7ff39a3781a9.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:26.447] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:26.447] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:26.448] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.f1d27a28-532c-48dd-9ea8-333c42b8c77a.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:28.908] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:28.908] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:28.909] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.04259d95-f112-47fd-a80b-05ac5a20375c.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:29.872] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:29.872] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:29.872] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.32699920-f79d-4d0a-8bb2-c6bb6c7d20fb.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:32.788] [info]  [network] Response succeeded req=req_b8dfca7cea8b41bbb999a4942f6119c9 status=200
+[2025-04-05 02:17:32.890] [info]  [sync] Activated project prj_42d606abc8d04822aa2a1ef59edd33fd
+[2025-04-05 02:17:32.890] [info]  [FileSystemDriver] Writing to /projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json
+[2025-04-05 02:17:32.890] [info]  [FileSystemDriver] Writing to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json.8ed11452-2083-46ea-90da-9ad6e5aff670.tmp then renaming to /home/alberto/.config/Insomnia/version-control/projects/prj_42d606abc8d04822aa2a1ef59edd33fd/meta.json

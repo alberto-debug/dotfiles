@@ -25,13 +25,13 @@
     "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.52671754",
     "InstalledPluginsSearchHistory": "ideavim\nideavi\nideav\nidea\nide",
     "JUnitSupport.hidePassedTests": "false",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
-    "MarketplacePluginsSearchHistory": "lombok\nlombokl\n/suggested\nq\nline",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "MarketplacePluginsSearchHistory": "database\ndata\nd\nlombok\nlombokl",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
-    "NextRunPlatformUpdateBuild": "IC-251.23774.435",
+    "NextRunPlatformUpdateBuild": "IC-251.25410.129",
     "NextRunPlatformUpdateSelfBuild": "IC-243.26053.27",
-    "NextRunPlatformUpdateVersion": "2025.1",
+    "NextRunPlatformUpdateVersion": "2025.1.1.1",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "SettingsSearchHistory": "lombo\nfont",
@@ -44,7 +44,7 @@
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "243.26053.27",
     "file.gist.reindex.count": "7",
-    "fileTypeChangedCounter": "6",
+    "fileTypeChangedCounter": "8",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
     "got.it.tooltip.settings.sync.in.settings": "1",
@@ -66,6 +66,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/alberto/Desktop/Projects/springboot-projects/e-commerce.application",
       "/home/alberto/Desktop/Projects/springboot-projects/track",
       "/home/alberto/Desktop/Projects/spring2/VehiTrack",
       "/home/alberto/Desktop/Projects/demo-spendee/login-app-backend-main",
@@ -94,8 +95,7 @@
       "/home/alberto/Desktop/Projects/server/src",
       "/home/alberto/Desktop/Projects/server",
       "/home/alberto/Desktop/data_structures",
-      "/home/alberto/Desktop/Projects/demo",
-      "/home/alberto/Desktop/Projects/Financial-Tracker--Backend"
+      "/home/alberto/Desktop/Projects/demo"
     ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",

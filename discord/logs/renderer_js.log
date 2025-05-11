@@ -2595,3 +2595,418 @@ Possible causes: the network is offline, Origin is not allowed by Access-Control
 [2025-04-25 01:12:50.254] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
 [2025-04-25 01:14:31.201] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
 [2025-04-25 01:14:31.994] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:23.054] [info]  DiscordSplash.signalReady
+[2025-04-25 13:43:23.103] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-04-25 13:43:23.104] [info]  Splash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-04-25 13:43:24.053] [info]  Splash.updateCountdownSeconds: undefined
+[2025-04-25 13:43:24.318] [info]  DiscordSplash.onStateUpdate: {"status":"launching"}
+[2025-04-25 13:43:24.319] [info]  Splash.onStateUpdate: {"status":"launching"}
+[2025-04-25 13:43:25.053] [info]  Splash.updateCountdownSeconds: undefined
+[2025-04-25 13:43:25.761] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2025-04-25 13:43:26.041] [info]  Initializing voice engine with audio subsystem: standard
+[2025-04-25 13:43:26.053] [info]  Splash.updateCountdownSeconds: undefined
+[2025-04-25 13:43:26.190] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 393359, Version Hash: 9ef9f0101fa5b7d3660c3995f06197f7dd4b7c38
+[2025-04-25 13:43:26.326] [info]  [default] [NATIVE INFO] host 0.0.92, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2025-04-25 13:43:27.053] [info]  Splash.updateCountdownSeconds: undefined
+[2025-04-25 13:43:27.128] [error] [Spellchecker] sh is not a valid locale.
+[2025-04-25 13:43:27.253] [info]  [Spellchecker] Switching to pt-BR (available)
+[2025-04-25 13:43:27.315] [info]  [FAST CONNECT] connected in 1553ms
+[2025-04-25 13:43:27.783] [info]  [libdiscore] The answer for life the universe and everything is: 42
+[2025-04-25 13:43:27.816] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2025-04-25 13:43:27.960] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-25 13:43:27.961] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2025-04-25 13:43:27.961] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2025-04-25 13:43:28.036] [info]  [RPCServer:WSS] Starting on 6463
+[2025-04-25 13:43:28.039] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2025-04-25 13:43:28.053] [info]  Splash.updateCountdownSeconds: undefined
+[2025-04-25 13:43:28.746] [info]  [GatewaySocket] [READY] took 785ms, as 5391e232777d3aea969124ac8605492c
+[2025-04-25 13:43:28.757] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2025-04-25 13:43:28.762] [info]  [DatabaseManager] removing database (user: 753796277497495692, database: undefined)
+[2025-04-25 13:43:28.773] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2025-04-25 13:43:28.809] [info]  [MessageActionCreators] Fetching messages for 1284697935455457330 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2025-04-25 13:43:28.834] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 874ms
+[2025-04-25 13:43:29.121] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2025-04-25 13:43:29.222] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/a4a3d323feb11add.woff2
+[2025-04-25 13:43:29.696] [info]  [MessageActionCreators] Fetched 42 messages for 1284697935455457330 isBefore:false isAfter:false
+[2025-04-25 13:43:29.713] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1284697935455457330, sending.length=0
+[2025-04-25 13:43:31.621] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/@me/1288823995952795689
+[2025-04-25 13:43:31.625] [info]  [MessageActionCreators] Fetching messages for 1288823995952795689 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2025-04-25 13:43:32.017] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=8' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2025-04-25 13:43:32.030] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2025-04-25 13:43:32.155] [info]  [MessageActionCreators] Fetched 25 messages for 1288823995952795689 isBefore:false isAfter:false
+[2025-04-25 13:43:32.159] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1288823995952795689, sending.length=0
+[2025-04-25 13:43:35.715] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2025-04-25 13:43:35.716] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2025-04-25 13:43:38.789] [info]  [ReadStateStore] Deleting ReadState 1119566765651931157 0 [object Object]
+[2025-04-25 13:43:38.889] [info]  [ReadStateStore] Deleting ReadState 1329601461646135347 0 [object Object]
+[2025-04-25 13:43:43.251] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/@me/1288813549270859837
+[2025-04-25 13:43:43.254] [info]  [MessageActionCreators] Fetching messages for 1288813549270859837 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2025-04-25 13:43:43.762] [info]  [MessageActionCreators] Fetched 50 messages for 1288813549270859837 isBefore:false isAfter:false
+[2025-04-25 13:43:43.769] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1288813549270859837, sending.length=0
+[2025-04-25 13:43:44.058] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/249d0a057895c668.woff2
+[2025-04-25 13:43:44.347] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/f72b5ce64feb2086.woff2
+[2025-04-25 13:43:48.348] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:48.629] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:48.827] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:48.968] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:49.196] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:49.820] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:50.162] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:50.246] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:50.360] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:50.520] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:50.690] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:43:51.148] [info]  [MessageQueue] Queueing message to be sent LogId:8309
+[2025-04-25 13:43:51.148] [info]  [MessageQueue] Draining message from queue LogId:8309 QueueLength: 0
+[2025-04-25 13:43:51.149] [info]  [MessageQueue] Draining Message Queue with:  0
+[2025-04-25 13:43:51.547] [info]  [MessageQueue] Finished draining message from queue LogId:8309 QueueLength: 0
+[2025-04-25 13:43:59.727] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1200448076620501063/1251823388486406144
+[2025-04-25 13:44:00.290] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/36e7b68ea0c05ae7.woff2
+[2025-04-25 13:44:02.665] [info]  [MessageActionCreators] Fetching messages for 1314999408890482728 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2025-04-25 13:44:02.795] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1200448076620501063/1314999408890482728
+[2025-04-25 13:44:03.130] [info]  [MessageActionCreators] Fetched 50 messages for 1314999408890482728 isBefore:false isAfter:false
+[2025-04-25 13:44:03.139] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1314999408890482728, sending.length=0
+[2025-04-25 13:44:04.133] [info]  [MessageActionCreators] Fetching messages for 1200448076620501066 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2025-04-25 13:44:04.221] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1200448076620501063/1200448076620501066
+[2025-04-25 13:44:04.548] [info]  [MessageActionCreators] Fetched 50 messages for 1200448076620501066 isBefore:false isAfter:false
+[2025-04-25 13:44:04.557] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1200448076620501066, sending.length=0
+[2025-04-25 13:44:39.205] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:44:44.727] [info]  [MessageActionCreators] Fetching messages for 1200448076620501066 between 1365245872358817853 and undefined. jump=undefined
+[2025-04-25 13:44:45.219] [info]  [MessageActionCreators] Fetched 50 messages for 1200448076620501066 isBefore:true isAfter:false
+[2025-04-25 13:44:49.446] [info]  [MessageActionCreators] Fetching messages for 1200448076620501066 between 1365219615503945798 and undefined. jump=undefined
+[2025-04-25 13:44:49.772] [error] Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22
+[2025-04-25 13:44:49.917] [info]  [MessageActionCreators] Fetched 50 messages for 1200448076620501066 isBefore:true isAfter:false
+[2025-04-25 13:45:07.073] [info]  [MessageActionCreators] Fetching messages for 1200448076620501066 between 1365194259841552424 and undefined. jump=undefined
+[2025-04-25 13:45:07.441] [info]  [MessageActionCreators] Fetched 50 messages for 1200448076620501066 isBefore:true isAfter:false
+[2025-04-25 13:45:19.591] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:45:22.058] [info]  [MessageActionCreators] Fetching messages for 1200448076620501066 between 1365124144529936425 and undefined. jump=undefined
+[2025-04-25 13:45:22.444] [info]  [MessageActionCreators] Fetched 50 messages for 1200448076620501066 isBefore:true isAfter:false
+[2025-04-25 13:45:22.914] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/268aaee6b96a3789.woff2
+[2025-04-25 13:45:28.054] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:45:29.944] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:45:37.013] [info]  [MessageActionCreators] Fetching messages for 1200448076620501066 between 1365105919364694107 and undefined. jump=undefined
+[2025-04-25 13:45:37.443] [info]  [MessageActionCreators] Fetched 50 messages for 1200448076620501066 isBefore:true isAfter:false
+[2025-04-25 13:45:55.058] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:46:15.613] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:46:36.484] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:46:40.936] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:46:41.683] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:48:20.183] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1200448076620501063/1200448076620501066
+[2025-04-25 13:48:20.192] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1200448076620501063/1200448076620501066
+[2025-04-25 13:48:20.942] [info]  [MessageActionCreators] Fetching messages for 1200448076620501066 between undefined and undefined. jump=undefined
+[2025-04-25 13:48:21.334] [info]  [MessageActionCreators] Fetched 50 messages for 1200448076620501066 isBefore:false isAfter:false
+[2025-04-25 13:48:21.347] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1200448076620501066, sending.length=0
+[2025-04-25 13:48:26.842] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 13:48:42.913] [warn]  Unable to determine render window for element [object HTMLDocument]
+[2025-04-25 13:48:43.006] [warn]  Unable to determine render window for element [object HTMLDocument]
+[2025-04-25 13:48:43.046] [warn]  Unable to determine render window for element [object HTMLDocument]
+[2025-04-25 13:48:43.348] [warn]  Unable to determine render window for element [object HTMLDocument]
+[2025-04-25 13:48:43.360] [warn]  Unable to determine render window for element [object HTMLDocument]
+[2025-04-25 14:09:23.038] [error] [KeyboardLayoutMapUtils] KeyboardMapper - Error adding event [object Object]
+[2025-04-25 14:09:54.107] [info]  [WindowVisibilityVideoManager] Incoming video enabled changed, incomingVideoEnabled = false
+[2025-04-25 15:46:13.169] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2025-04-25 15:46:14.106] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2025-04-25 16:05:04.848] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-25 16:05:06.519] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1672 ms
+[2025-04-25 16:05:06.521] [info]  [GatewaySocket] [RESUME] resuming session 5391e232777d3aea969124ac8605492c, seq: 414
+[2025-04-25 16:05:07.108] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-25 16:05:07.115] [info]  [GatewaySocket] [RESUMED] took 2267ms, replayed 0 events, new seq: 415
+[2025-04-25 16:25:20.270] [info]  [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 1.43 seconds.
+[2025-04-25 16:25:22.107] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-25 16:25:23.333] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1227 ms
+[2025-04-25 16:25:23.335] [info]  [GatewaySocket] [RESUME] resuming session 5391e232777d3aea969124ac8605492c, seq: 429
+[2025-04-25 16:25:24.108] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-25 16:25:24.109] [info]  [GatewaySocket] [RESUMED] took 2001ms, replayed 0 events, new seq: 430
+[2025-04-25 16:38:41.644] [info]  [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 2.86 seconds.
+[2025-04-25 16:38:45.108] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-25 16:38:46.302] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1196 ms
+[2025-04-25 16:38:46.304] [info]  [GatewaySocket] [RESUME] resuming session 5391e232777d3aea969124ac8605492c, seq: 492
+[2025-04-25 16:38:47.108] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-25 16:38:47.108] [info]  [GatewaySocket] [RESUMED] took 2001ms, replayed 0 events, new seq: 493
+[2025-04-25 18:56:29.685] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-25 18:56:30.622] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 937 ms
+[2025-04-25 18:56:30.623] [info]  [GatewaySocket] [RESUME] resuming session 5391e232777d3aea969124ac8605492c, seq: 807
+[2025-04-25 18:56:31.108] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-25 18:56:31.108] [info]  [GatewaySocket] [RESUMED] took 1423ms, replayed 0 events, new seq: 808
+[2025-04-25 21:07:54.647] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-25 21:07:55.591] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 944 ms
+[2025-04-25 21:07:55.592] [info]  [GatewaySocket] [RESUME] resuming session 5391e232777d3aea969124ac8605492c, seq: 1430
+[2025-04-25 21:07:56.108] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-25 21:07:56.120] [info]  [GatewaySocket] [RESUMED] took 1473ms, replayed 0 events, new seq: 1431
+[2025-04-25 23:00:05.340] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-25 23:00:06.825] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1486 ms
+[2025-04-25 23:00:06.826] [info]  [GatewaySocket] [RESUME] resuming session 5391e232777d3aea969124ac8605492c, seq: 1692
+[2025-04-25 23:00:08.106] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-25 23:00:08.107] [info]  [GatewaySocket] [RESUMED] took 2768ms, replayed 0 events, new seq: 1693
+[2025-04-26 00:30:39.179] [warn]  [GatewaySocket] [ACK TIMEOUT] reconnecting in 1.77 seconds.
+[2025-04-26 00:30:41.109] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:30:41.115] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 2.06 seconds.
+[2025-04-26 00:30:44.106] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:30:44.111] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 3.98 seconds.
+[2025-04-26 00:30:48.108] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:30:48.112] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 5.75 seconds.
+[2025-04-26 00:30:54.107] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:30:54.111] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 12.79 seconds.
+[2025-04-26 00:30:54.112] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:30:54.113] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:30:54.140] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:31:05.129] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2025-04-26 00:31:07.107] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:31:07.111] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 30.63 seconds.
+[2025-04-26 00:31:07.111] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:31:07.111] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:31:07.124] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:31:38.113] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:31:38.163] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:31:38.163] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:31:38.164] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:31:38.176] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:32:39.115] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:32:39.194] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:32:39.194] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:32:39.195] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:32:39.207] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:33:40.114] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:33:40.185] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:33:40.186] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:33:40.186] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:33:40.198] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:34:41.114] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:34:41.181] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:34:41.181] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:34:41.182] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:34:41.196] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:35:42.113] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:35:42.179] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:35:42.180] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:35:42.180] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:35:42.195] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:36:43.114] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:36:43.189] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:36:43.190] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:36:43.190] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:36:43.203] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:37:44.113] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:37:44.177] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:37:44.177] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:37:44.178] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:37:44.189] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:38:45.113] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:38:45.174] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:38:45.175] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:38:45.176] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:38:45.190] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:39:46.116] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:39:46.180] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:39:46.181] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:39:46.182] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:39:46.195] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:40:47.114] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:40:47.179] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:40:47.180] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:40:47.181] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:40:47.193] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:41:48.111] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:41:48.178] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:41:48.178] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:41:48.179] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:41:48.191] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:42:49.114] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:42:49.187] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:42:49.187] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:42:49.188] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:42:49.196] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:43:50.110] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:43:50.118] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:43:50.118] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:43:50.119] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:43:50.135] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:44:51.116] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:44:51.186] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:44:51.186] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:44:51.186] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:44:51.196] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:45:52.109] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:45:52.156] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:45:52.156] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:45:52.157] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:45:52.171] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:46:53.110] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:46:53.165] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:46:53.166] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:46:53.166] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:46:53.180] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:47:54.111] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:47:54.171] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:47:54.172] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:47:54.172] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:47:54.183] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:48:55.115] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:48:55.169] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:48:55.169] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:48:55.169] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:48:55.179] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:49:56.115] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:49:56.180] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:49:56.181] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:49:56.181] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:49:56.194] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:50:57.110] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:50:57.156] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:50:57.156] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:50:57.157] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:50:57.170] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:51:58.114] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:51:58.175] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:51:58.176] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:51:58.176] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:51:58.191] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:52:59.110] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:52:59.159] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:52:59.159] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:52:59.160] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:52:59.173] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:54:00.114] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:54:00.184] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:54:00.185] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:54:00.185] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:54:00.196] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:55:01.113] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:55:01.170] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:55:01.170] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:55:01.171] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:55:01.185] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:56:02.111] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:56:02.164] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:56:02.164] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:56:02.165] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:56:02.177] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:57:03.115] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:57:03.183] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:57:03.184] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:57:03.184] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:57:03.196] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:58:04.115] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:58:04.182] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:58:04.182] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:58:04.183] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:58:04.193] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 00:59:05.110] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 00:59:05.155] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 00:59:05.155] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 00:59:05.156] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 00:59:05.168] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 01:00:06.110] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 01:00:06.163] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 01:00:06.164] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 01:00:06.165] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 01:00:06.177] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 01:01:07.115] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 01:01:07.181] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 01:01:07.182] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 01:01:07.182] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 01:01:07.191] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 01:02:08.116] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 01:02:08.192] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 01:02:08.192] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 01:02:08.193] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 01:02:08.205] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 01:03:09.114] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 01:03:09.187] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 01:03:09.188] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 01:03:09.188] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 01:03:09.203] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 01:04:10.112] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 01:04:10.163] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 60.00 seconds.
+[2025-04-26 01:04:10.163] [warn]  [GatewaySocket] [RESET] (false, 0, An error with the websocket occurred)
+[2025-04-26 01:04:10.163] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-04-26 01:04:10.172] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-04-26 01:04:16.355] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 01:04:17.237] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 882 ms
+[2025-04-26 01:04:17.833] [info]  [GatewaySocket] [READY] took 1477ms, as 3efb7c4b7b4775b330dcf31b79c5e6d6
+[2025-04-26 01:04:17.843] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2025-04-26 01:04:17.847] [info]  [DatabaseManager] removing database (user: 753796277497495692, database: null)
+[2025-04-26 01:04:17.858] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2025-04-26 01:04:17.894] [info]  [MessageActionCreators] Fetching messages for 1200448076620501066 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2025-04-26 01:04:18.301] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 1945ms
+[2025-04-26 01:04:18.704] [info]  [MessageActionCreators] Fetched 50 messages for 1200448076620501066 isBefore:false isAfter:false
+[2025-04-26 01:04:18.716] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1200448076620501066, sending.length=0
+[2025-04-26 01:04:22.312] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=0' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2025-04-26 01:04:22.316] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2025-04-26 01:04:28.108] [info]  [ReadStateStore] Deleting ReadState 1123985631719194664 0 [object Object]
+[2025-04-26 01:04:29.107] [info]  [ReadStateStore] Deleting ReadState 1291959652438773823 0 [object Object]
+[2025-04-26 03:51:22.490] [info]  [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 2.91 seconds.
+[2025-04-26 03:51:28.740] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-c.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:51:28.768] [info]  [GatewaySocket] [WS CLOSED] (true, 0, power monitor resumed) retrying immediately.
+[2025-04-26 03:51:28.770] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-c.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:51:28.785] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 1.75 seconds.
+[2025-04-26 03:51:30.845] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:51:30.849] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 3.49 seconds.
+[2025-04-26 03:51:32.562] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:51:33.478] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 915 ms
+[2025-04-26 03:51:33.479] [info]  [GatewaySocket] [RESUME] resuming session 3efb7c4b7b4775b330dcf31b79c5e6d6, seq: 123
+[2025-04-26 03:51:34.842] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-26 03:51:34.844] [info]  [GatewaySocket] [RESUMED] took 2281ms, replayed 0 events, new seq: 124
+[2025-04-26 03:52:30.885] [info]  [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 1.54 seconds.
+[2025-04-26 03:53:44.432] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:53:44.583] [info]  [GatewaySocket] [WS CLOSED] (true, 0, power monitor resumed) retrying immediately.
+[2025-04-26 03:53:44.586] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:53:44.730] [info]  [GatewaySocket] [WS CLOSED] (true, 0, power monitor resumed) retrying immediately.
+[2025-04-26 03:53:44.735] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:53:44.756] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 2.96 seconds.
+[2025-04-26 03:53:48.072] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:53:48.801] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 729 ms
+[2025-04-26 03:53:48.802] [info]  [GatewaySocket] [RESUME] resuming session 3efb7c4b7b4775b330dcf31b79c5e6d6, seq: 132
+[2025-04-26 03:53:49.173] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-26 03:53:49.174] [info]  [GatewaySocket] [RESUMED] took 1103ms, replayed 0 events, new seq: 135
+[2025-04-26 03:54:55.298] [info]  [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 2.78 seconds.
+[2025-04-26 03:55:01.735] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:55:01.750] [info]  [GatewaySocket] [WS CLOSED] (true, 0, power monitor resumed) retrying immediately.
+[2025-04-26 03:55:01.752] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:55:01.759] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 2.76 seconds.
+[2025-04-26 03:55:05.122] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:55:05.127] [info]  [GatewaySocket] [WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 4.20 seconds.
+[2025-04-26 03:55:05.613] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-04-26 03:55:06.359] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 747 ms
+[2025-04-26 03:55:06.360] [info]  [GatewaySocket] [RESUME] resuming session 3efb7c4b7b4775b330dcf31b79c5e6d6, seq: 138
+[2025-04-26 03:55:07.123] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-04-26 03:55:07.133] [info]  [GatewaySocket] [RESUMED] took 1521ms, replayed 0 events, new seq: 139
+[2025-04-26 03:57:13.484] [info]  [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 2.62 seconds.
+[2025-05-06 14:46:31.776] [info]  DiscordSplash.signalReady
+[2025-05-06 14:46:31.875] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-05-06 14:46:31.877] [info]  Splash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-05-06 14:46:32.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:33.020] [info]  DiscordSplash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.94"}
+[2025-05-06 14:46:33.022] [info]  Splash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.94"}
+[2025-05-06 14:46:33.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:34.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:35.776] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:36.776] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:37.776] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:38.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:39.776] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:40.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:41.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:42.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:43.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:44.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:45.776] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:46.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:47.776] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:46:48.775] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:47:04.331] [info]  DiscordSplash.signalReady
+[2025-05-06 14:47:04.364] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: file:///opt/discord/resources/app.asar/app_bootstrap/splash/bf3d19297ef12291559b3edae977480c.woff2
+[2025-05-06 14:47:04.408] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-05-06 14:47:04.409] [info]  Splash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-05-06 14:47:05.282] [info]  DiscordSplash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.94"}
+[2025-05-06 14:47:05.283] [info]  Splash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.94"}
+[2025-05-06 14:47:05.295] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: file:///opt/discord/resources/app.asar/app_bootstrap/splash/ac3f027697c11abd84295888e843f3d2.woff2
+[2025-05-06 14:47:05.347] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:47:06.330] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:47:07.330] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:47:08.331] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:47:09.330] [info]  Splash.updateCountdownSeconds: undefined
+[2025-05-06 14:47:10.330] [info]  Splash.updateCountdownSeconds: undefined

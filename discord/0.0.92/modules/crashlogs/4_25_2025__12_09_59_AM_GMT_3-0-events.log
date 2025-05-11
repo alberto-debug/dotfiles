@@ -28,3 +28,36 @@
 4/25/2025, 1:08:18 AM GMT+3 12: window.close win1
 4/25/2025, 1:08:18 AM GMT+3 13: webContents.destroyed web1
 4/25/2025, 1:08:18 AM GMT+3 14: window.closed win1
+4/25/2025, 1:43:22 PM GMT+3 0: 
+
+----------------------------------------------
+4/25/2025, 1:43:22 PM GMT+3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.92"}, modulepath: /home/alberto/.config/discord/0.0.92/modules
+4/25/2025, 1:43:22 PM GMT+3 2: ✅ webContents.created web1 ""
+4/25/2025, 1:43:22 PM GMT+3 3: ✅ window.created win1 "discord"
+4/25/2025, 1:43:23 PM GMT+3 4: ✅ webContents.did-finish-load web1
+4/25/2025, 1:43:24 PM GMT+3 5: ✅ webContents.created web2 ""
+4/25/2025, 1:43:24 PM GMT+3 6: ✅ window.created win2 "Discord"
+4/25/2025, 1:43:28 PM GMT+3 7: ✅ webContents.did-finish-load web2
+4/25/2025, 1:43:28 PM GMT+3 8: window.close win1
+4/25/2025, 1:43:28 PM GMT+3 9: webContents.destroyed web1
+4/25/2025, 1:43:28 PM GMT+3 10: window.closed win1
+4/25/2025, 2:09:23 PM GMT+3 11: window.close win2
+5/6/2025, 2:46:31 PM GMT+3 0: 
+
+----------------------------------------------
+5/6/2025, 2:46:31 PM GMT+3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.92"}, modulepath: /home/alberto/.config/discord/0.0.92/modules
+5/6/2025, 2:46:31 PM GMT+3 2: ✅ webContents.created web1 ""
+5/6/2025, 2:46:31 PM GMT+3 3: ✅ window.created win1 "discord"
+5/6/2025, 2:46:31 PM GMT+3 4: ✅ webContents.did-finish-load web1
+5/6/2025, 2:46:48 PM GMT+3 5: before-quit
+5/6/2025, 2:46:48 PM GMT+3 6: window.close win1
+5/6/2025, 2:46:48 PM GMT+3 7: webContents.destroyed web1
+5/6/2025, 2:47:03 PM GMT+3 0: 
+
+----------------------------------------------
+5/6/2025, 2:47:04 PM GMT+3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.92"}, modulepath: /home/alberto/.config/discord/0.0.92/modules
+5/6/2025, 2:47:04 PM GMT+3 2: ✅ webContents.created web1 ""
+5/6/2025, 2:47:04 PM GMT+3 3: ✅ window.created win1 "discord"
+5/6/2025, 2:47:04 PM GMT+3 4: ✅ webContents.did-finish-load web1
+5/6/2025, 2:47:11 PM GMT+3 5: before-quit
+5/6/2025, 2:47:11 PM GMT+3 6: window.close win1

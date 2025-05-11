@@ -1,0 +1,12 @@
+{"value":"Preparing request to http://localhost:8080/admin/login","name":"Text","timestamp":1746920367153}
+{"value":"Current time is 2025-05-10T23:39:27.153Z","name":"Text","timestamp":1746920367153}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1746920367153}
+{"value":"Using default HTTP version","name":"Text","timestamp":1746920367157}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1746920367157}
+{"value":"Enable SSL validation","name":"Text","timestamp":1746920367157}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1746920367160}
+{"name":"Text","value":"connect to 127.0.0.1 port 8080 failed: Connection refused\n","timestamp":1746920367160}
+{"name":"Text","value":"  Trying [::1]:8080...\n","timestamp":1746920367160}
+{"name":"Text","value":"connect to ::1 port 8080 failed: Connection refused\n","timestamp":1746920367160}
+{"name":"Text","value":"Failed to connect to localhost port 8080 after 0 ms: Couldn't connect to server\n","timestamp":1746920367160}
+{"name":"Text","value":"Closing connection 0\n","timestamp":1746920367160}

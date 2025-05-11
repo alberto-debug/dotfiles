@@ -1,0 +1,63 @@
+{
+  "language": "en",
+  "downloadsFolder": "/home/alberto/.lmstudio/models",
+  "sidebar": {
+    "showButtonNames": false
+  },
+  "configs": {
+    "expandConfigsOnClick": true
+  },
+  "chat": {
+    "showSuggestionsOnNewChat": true,
+    "alwaysShowPromptTemplate": false,
+    "useShiftEnterToSendMessage": false,
+    "useKeychordToRegenerate": true,
+    "unloadPreviousModelOnSelect": true,
+    "highlightChatMessageOnHover": true,
+    "doubleClickMessageToEdit": true,
+    "aiNamingMode": "auto",
+    "autoExpandReasoningBlocks": false,
+    "visualizeSpeculativeDecoding": false,
+    "chatFullWidth": false
+  },
+  "developer": {
+    "showExperimentalFeatures": false,
+    "experimentalLoadPresets": false,
+    "backendDownloadChannel": "stable",
+    "appUpdateChannel": "stable",
+    "showDebugInfoBlocksInChat": false,
+    "showModelDownloadOptionData": false,
+    "allowDevelopmentPlugins": true,
+    "unloadPreviousJITModelOnLoad": true,
+    "jitModelTTL": {
+      "enabled": true,
+      "ttlSeconds": 3600
+    },
+    "autoUpdateExtensionPacks": true,
+    "separateReasoningContent": false,
+    "experimentFlags": []
+  },
+  "ui": {
+    "missionControlFullscreen": false,
+    "showModelFileNameInMyModels": false,
+    "configureLoadParamsBeforeLoad": false
+  },
+  "configPresetInclusiveness": {
+    "speculativeDecoding": false
+  },
+  "toggledConfigDropdowns": [],
+  "userInterfaceComplexityLevel": 1,
+  "appFirstLoad": false,
+  "autoLoadBundledLLM": true,
+  "modelLoadingGuardrails": {
+    "mode": "high",
+    "customThresholdBytes": 4294967296
+  },
+  "dismissedModals": [],
+  "pre030ChatsMigrated": 3,
+  "appPostUpdateNotificationPending": false,
+  "promptWhenCommittingUnsavedChangesWithNewFields": false,
+  "enableLocalService": true,
+  "cliInstalled": false,
+  "useHFProxy": true
+}

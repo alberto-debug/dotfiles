@@ -1,2 +1,3 @@
-2025/04/25-00:10:28.169 14555d Creating DB /home/alberto/.config/discord/shared_proto_db/metadata since it was missing.
-2025/04/25-00:10:28.184 14555d Reusing MANIFEST /home/alberto/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2025/04/25-01:08:18.810 99e Reusing MANIFEST /home/alberto/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2025/04/25-01:08:18.810 99e Recovering log #3
+2025/04/25-01:08:18.811 99e Reusing old log /home/alberto/.config/discord/shared_proto_db/metadata/000003.log 

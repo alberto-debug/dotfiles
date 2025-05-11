@@ -69,5 +69,6 @@
         "notifications"
       ]
     }
-  }
+  },
+  "notifications.showActionsOnHover": true
 }

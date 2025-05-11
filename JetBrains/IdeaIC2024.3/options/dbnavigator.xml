@@ -1,0 +1,29 @@
+<application>
+  <component name="DBNavigator.Application.FileTypeService">
+    <original-file-types>
+      <mapping file-extension="sql" file-type="SQL" />
+    </original-file-types>
+  </component>
+  <component name="DBNavigator.Application.PluginConflictManager">
+    <plugin-conflict-prompted value="false" />
+    <file-types-claimed value="false" />
+  </component>
+  <component name="DBNavigator.Application.PluginStatusManager">
+    <plugin-statuses>
+      <status project="$USER_HOME$/Desktop/Projects/springboot-projects/e-commerce.application" dbn="PASSIVE" sql="MISSING" />
+      <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
+    </plugin-statuses>
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <diagnostics>
+      <developer-mode>
+        <timeout value="10" />
+        <enabled value="false" />
+      </developer-mode>
+      <debug-logging failsafe-errors="false" database-access="false" database-resource="false" />
+      <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
+      <miscellaneous dialog-sizing-reset="false" native-alerts-enabled="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
+    </diagnostics>
+    <client-id value="BFA0018461134A9CBDAA702F90FF1828" />
+  </component>
+</application>

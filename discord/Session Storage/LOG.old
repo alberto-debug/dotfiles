@@ -1,2 +1,3 @@
-2025/04/25-00:10:15.452 14555d Creating DB /home/alberto/.config/discord/Session Storage since it was missing.
-2025/04/25-00:10:15.456 14555d Reusing MANIFEST /home/alberto/.config/discord/Session Storage/MANIFEST-000001
+2025/05/06-14:46:48.920 82776 Reusing MANIFEST /home/alberto/.config/discord/Session Storage/MANIFEST-000001
+2025/05/06-14:46:48.921 82776 Recovering log #3
+2025/05/06-14:46:48.922 82776 Reusing old log /home/alberto/.config/discord/Session Storage/000003.log 

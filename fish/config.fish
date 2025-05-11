@@ -37,3 +37,8 @@ set -gx NVM_DIR $HOME/.nvm
 set_color normal red
 set_color --bold green
 set_color --background black
+
+# Added by LM Studio CLI (lms)
+set -gx PATH $PATH /home/alberto/.lmstudio/bin
+# End of LM Studio CLI section
+
